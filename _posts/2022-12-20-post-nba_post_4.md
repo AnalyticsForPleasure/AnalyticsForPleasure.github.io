@@ -1,7 +1,7 @@
 ---
 title: "Top Passers: NBA's Exceptional Playmakers (Part 4: NBA Stats Series)"
 categories:
-  - Sports analytics
+  - Sports Analytics
 tags:
   - NBA Analysis
   - Double double
