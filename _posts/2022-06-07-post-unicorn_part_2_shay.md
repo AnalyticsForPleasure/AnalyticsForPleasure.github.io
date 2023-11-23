@@ -1,7 +1,7 @@
 ---
 title: "Top Valuations: Billion-Dollar Players (Part 2: Unicorn Companies Series)"
 categories:
-  - Blog
+  - Investing in the Tech Industry
 tags:
   - Valuation
   - Unicorns
