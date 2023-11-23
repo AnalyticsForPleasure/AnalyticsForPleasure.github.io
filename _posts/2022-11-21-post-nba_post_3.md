@@ -1,5 +1,5 @@
 ---
-title: "Which players from college exhibit the highest level of skill?"
+title: "College Standouts: Skillful NBA Players (Part 3: NBA Stats Series)"
 categories:
   - Blog
 tags:
