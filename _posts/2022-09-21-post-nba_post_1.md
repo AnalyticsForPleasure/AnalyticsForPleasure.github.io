@@ -1,5 +1,5 @@
 ---
-title: "Does the NBA league favor foreign players or local players?"
+title: "NBA's Preference: Local vs. Foreign Players (Part 1: NBA Stats Series)"
 categories:
   - Blog
 tags:
