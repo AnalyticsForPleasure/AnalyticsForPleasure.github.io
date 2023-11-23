@@ -1,6 +1,5 @@
 ---
-title: "Top Valuations: Billion-Dollar Players (Part 2: Unicorn Companies Series
-)"
+title: "Top Valuations: Billion-Dollar Players (Part 2: Unicorn Companies Series)"
 categories:
   - Blog
 tags:
