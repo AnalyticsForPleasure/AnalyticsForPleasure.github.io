@@ -1,7 +1,7 @@
 ---
 title: "Speed to Success: Unicorn Billion-Dollar Dash (Part 3: Unicorn Companies Series)"
 categories:
-  - Blog
+  - Investing in the Tech Industry
 tags:
   - Unicorns
   - IPO's
