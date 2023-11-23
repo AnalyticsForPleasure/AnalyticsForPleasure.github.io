@@ -1,5 +1,5 @@
 ---
-title: "What is the performance of the top duos who have scored over 54 points?"
+title: "Scoring Duos: NBA Pairs with 54+ Points (Part 6: NBA Stats Series)"
 categories:
   - Blog
 tags:
