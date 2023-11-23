@@ -1,5 +1,7 @@
 ---
-title: "What does the term 'Unicorn' really means?"
+title: "Unraveling the Unicorn: Understanding the Term and its Significance - *Part 1 of the Unicorn Companies Series*"
+
+
 categories:
   - Blog
 tags:
@@ -9,6 +11,7 @@ tags:
   - Unicorns
 ---
 
+title: "What does the term 'Unicorn' really means?"
 Today we'll start with a series of 6 posts. Each post will delve into an interesting research about **financial side of investing**. 
 I am quite sure you all have already heard about it! 
 
