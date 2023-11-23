@@ -1,5 +1,5 @@
 ---
-title: 'What does the "True shooting" category truly represent?'
+title: "Decoding 'True Shooting' in the NBA (Part 7: NBA Stats Series)"
 categories:
   - Blog
 tags:
