@@ -1,5 +1,5 @@
 ---
-title: "What was the duration for each company to surpass the milestone of reaching one billion dollars?"
+title: "Speed to Success: Unicorn Billion-Dollar Dash (Part 3: Unicorn Companies Series)"
 categories:
   - Blog
 tags:
