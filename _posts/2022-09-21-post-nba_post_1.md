@@ -1,7 +1,7 @@
 ---
 title: "NBA's Preference: Local vs. Foreign Players (Part 1: NBA Stats Series)"
 categories:
-  - Sports analytics
+  - Sports Analytics
 tags:
   - Foreign players
 
