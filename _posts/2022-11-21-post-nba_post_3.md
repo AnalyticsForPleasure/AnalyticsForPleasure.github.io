@@ -1,7 +1,7 @@
 ---
 title: "College Standouts: Skillful NBA Players (Part 3: NBA Stats Series)"
 categories:
-  - Blog
+  - Sports analytics
 tags:
   - NBA Analysis
   - Undrafted players
