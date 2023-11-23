@@ -3,7 +3,7 @@ title: "Decoding Unicorns: What Sets Them Apart (Part 1: Unicorn Companies Serie
 
 
 categories:
-  - Blog
+  - Investing in the Tech Industry
 tags:
   - Valuation
   - IPO's
