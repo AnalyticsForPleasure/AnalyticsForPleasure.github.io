@@ -1,5 +1,5 @@
 ---
-title: "Unraveling the Unicorn: Understanding the Term and its Significance - *Part 1 of the Unicorn Companies Series*"
+title: "Unraveling the Unicorn: Understanding the Term and its Significance - Part 1 of the Unicorn Companies Series"
 
 
 categories:
