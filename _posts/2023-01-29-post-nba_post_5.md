@@ -1,5 +1,5 @@
 ---
-title: "How many times has each player switched his NBA jerseys during their career?"
+title: "Jersey Switches: NBA Players' Team Moves (Part 5: NBA Stats Series)"
 categories:
   - Blog
 tags:
