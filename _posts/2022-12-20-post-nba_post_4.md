@@ -1,5 +1,5 @@
 ---
-title: "Players with exceptional passing abilities who rank among the top"
+title: "Top Passers: NBA's Exceptional Playmakers (Part 4: NBA Stats Series)"
 categories:
   - Blog
 tags:
