@@ -1,5 +1,6 @@
 ---
-title: "Which companies have attained the highest valuation price?"
+title: "Top Valuations: Billion-Dollar Players (Part 2: Unicorn Companies Series
+)"
 categories:
   - Blog
 tags:
