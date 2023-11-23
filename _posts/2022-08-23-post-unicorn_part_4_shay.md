@@ -1,7 +1,7 @@
 ---
 title: "Global Footprint: Unicorns Across Continents (Part 4: Unicorn Companies Series)"
 categories:
-  - Blog
+  - Investing in the Tech Industry
 tags:
   - Unicorns
   - Venture Capital
