@@ -1,7 +1,7 @@
 ---
 title: "NBA Peaks: Prime Performance Timing (Part 8: NBA Stats Series)"
 categories:
-  - Blog
+  - Sports analytics
 tags:
   - NBA Analysis
   - Usage precentage
