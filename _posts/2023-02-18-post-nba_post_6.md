@@ -1,7 +1,7 @@
 ---
 title: "Scoring Duos: NBA Pairs with 54+ Points (Part 6: NBA Stats Series)"
 categories:
-  - Blog
+  - Sports analytics
 tags:
   - NBA Analysis
   - Standard deviation
