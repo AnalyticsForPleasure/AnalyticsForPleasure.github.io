@@ -1,5 +1,5 @@
 ---
-title: "At what point do NBA players reach their peak - in their early years or later years?"
+title: "NBA Peaks: Prime Performance Timing (Part 8: NBA Stats Series)"
 categories:
   - Blog
 tags:
