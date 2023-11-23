@@ -1,7 +1,7 @@
 ---
 title: "Jersey Switches: NBA Players' Team Moves (Part 5: NBA Stats Series)"
 categories:
-  - Blog
+  - Sports analytics
 tags:
   - NBA Analysis
   - link
