@@ -1,5 +1,5 @@
 ---
-title: "Do rookies show improvement in their second year in the league?"
+title: "Rookie Progress: Year 2 in the NBA (Part 2: NBA Stats Series)"
 categories:
   - Media
 tags:
