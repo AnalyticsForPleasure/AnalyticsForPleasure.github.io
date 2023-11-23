@@ -1,7 +1,7 @@
 ---
 title: "Rookie Progress: Year 2 in the NBA (Part 2: NBA Stats Series)"
 categories:
-  - Media
+  - Sports analytics
 tags:
   - NBA Analysis
   - Rookies
