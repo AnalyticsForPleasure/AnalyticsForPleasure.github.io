@@ -1,7 +1,7 @@
 ---
 title: "Decoding 'True Shooting' in the NBA (Part 7: NBA Stats Series)"
 categories:
-  - Blog
+  - Sports analytics
 tags:
   - NBA Analysis
   - True shooting percentage
