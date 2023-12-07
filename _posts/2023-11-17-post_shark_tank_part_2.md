@@ -1,10 +1,10 @@
-title: "Shark Tank: Introduction + Sharks' Preferred Industries for Investments"
+title: "Shark Preferences: Multi-Entrepreneur vs. Solo Entrepreneur Investments"
 categories:
   - Investment
 tags:
   - Venture Capital( = VC)
   - Multi-Entrepreneur
   - Solo Entrepreneur
-  - Valuation
+  - Equity
   - Angel Investments
 ---
