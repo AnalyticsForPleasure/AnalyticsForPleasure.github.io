@@ -16,7 +16,6 @@ The chart below displays the number of deals made by each shark in the panel ove
 
 
 
-
 Top episodes with the highest rating – Using Web Scraping
 We wanted to gather information about the top episodes from each season of Shark Tank, spanning from the first season to the tenth season, which have been broadcasted on TV. Since this data was not available in our dataset, we conducted a web search and found the relevant information on the Wikipedia page for Shark Tank.
 
