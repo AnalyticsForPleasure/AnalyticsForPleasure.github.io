@@ -1,5 +1,5 @@
 ---
-title: "Decoding Unicorns: What Sets Them Apart (Part 1: Unicorn Companies Series)."
+title: "Decoding Unicorns: What Sets Them Apart (Part 1: Unicorn Companies Series)"
 
 
 categories:
