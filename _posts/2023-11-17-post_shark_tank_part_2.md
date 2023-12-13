@@ -1,5 +1,5 @@
 ---
-title: "Shark Preferences: Multi-Entrepreneur vs. Solo Entrepreneur Investments"
+title: "Shark Preferences: Multi-Entrepreneur vs. Solo Entrepreneur Investments."
 categories:
   - Investment
 tags:
