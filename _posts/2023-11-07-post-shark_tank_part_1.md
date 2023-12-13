@@ -1,3 +1,4 @@
+---
 title: "Shark Tank: Introduction + Sharks' Preferred Industries for Investments"
 categories:
   - Investment
@@ -15,3 +16,12 @@ This televised format, showcasing angel investment (where high net worth individ
 The dataset we are working with contains information about the "Shark Tank" series aired on the ABC channel. It comprises 27 columns and 900 rows, forming a matrix of 900 * 27. Each row provides information about an aspiring entrepreneur venturing into the business world.
 
 The column names include:
+
+
+
+
+
+Sharks' Preferred Industries for Investments
+As we are aware, in each episode of every season, the sharks make multiple investment decisions to become stakeholders in various projects or companies. These companies operate in diverse industries such as toys and games, electronics, specialty food, and more.
+
+In our upcoming analysis, we aim to gain a deeper understanding of the specific industries in which the sharks have chosen to invest with entrepreneurs. Furthermore, we have included the monetary amounts that each shark has decided to invest in these industries.
