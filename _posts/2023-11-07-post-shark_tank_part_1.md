@@ -1,5 +1,5 @@
 ---
-title: "Shark Tank: Introduction + Sharks' Preferred Industries for Investments"
+title: "Shark Tank: Introduction + Sharks' Preferred Industries for Investments (Part 1: Stats For Sharks)"
 categories:
   - Investment
 tags:
