@@ -1,5 +1,5 @@
 ---
-title: "Investments per Shark by Gender in 10 Seasons(Part 2: Stats For Sharks)"
+title: "Investments per Shark by Gender in 10 Seasons (Part 2: Stats For Sharks)"
 categories:
   - Investment
 tags:
