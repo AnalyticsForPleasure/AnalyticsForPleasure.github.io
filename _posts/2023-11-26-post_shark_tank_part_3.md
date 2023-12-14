@@ -1,5 +1,5 @@
 ---
-title: "Industries that Have Experienced Temperature Changes over 10 Seasons (Part 3: Stats For Sharks)"
+title: "Industries with 10-Season Temperature Shifts (Part 3: Stats For Sharks)"
 categories:
   - Investment
 tags:
