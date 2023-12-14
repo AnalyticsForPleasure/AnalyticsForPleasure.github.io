@@ -1,5 +1,5 @@
 ---
-title: "What are the salaries for men and women in PhD positions? (Part 3: Compensation Analytics) "
+title: "What are the salaries for men and women in PhD positions? (Part 1: Compensation Analytics) "
 
 categories:
   - Economic stats 
