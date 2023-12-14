@@ -8,5 +8,5 @@ tags:
   - Solo Entrepreneur
   - Equity
   - Angel Investments
-  - Wikipidia
+  - Wikipedia
 ---
