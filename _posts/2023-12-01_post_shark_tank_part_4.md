@@ -1,5 +1,5 @@
 ---
-title: "Industries that Have Experienced Temperature Changes over 10 Seasons (Part 4: Stats For Sharks)"
+title: "Shark Equity in Closing Deals, by Gender (Part 4: Stats For Sharks)"
 categories:
   - Investment
 tags:
