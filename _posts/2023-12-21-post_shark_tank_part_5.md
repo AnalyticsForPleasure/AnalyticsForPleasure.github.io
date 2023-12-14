@@ -4,8 +4,6 @@ categories:
   - Investment
 tags:
   - Venture Capital( = VC)
-  - Investment by industry
-  - Solo Entrepreneur
   - Equity
   - Angel Investments
   - Wikipedia
