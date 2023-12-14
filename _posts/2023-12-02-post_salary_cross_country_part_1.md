@@ -1,5 +1,5 @@
 ---
-title: "Gender Comparison in the High - Tech Industry"
+title: "What is the salary for men and women in counted PhD positions?( Part 3: Market Compensation Analysis) "
 
 categories:
   - Economic stats 
