@@ -27,3 +27,13 @@ As we are aware, in each episode of every season, the sharks make multiple inves
 In our upcoming analysis, we aim to gain a deeper understanding of the specific industries in which the sharks have chosen to invest with entrepreneurs. Furthermore, we have included the monetary amounts that each shark has decided to invest in these industries.
 
 <script src="https://gist.github.com/AnalyticsForPleasure/ed229337812d4a2abdd0e5f850bfb126.js"></script>
+
+
+
+
+I would like to explore the investment patterns of each shark in different industries. By analyzing the data, I aim to determine which shark has a strong preference for investing in the technology sector, or who shows a particular interest in the food industry. Additionally, I want to identify any industries that the sharks tend to avoid investing in or where they show minimal interest. Moreover, I am curious to know which shark has made the highest number of investments in total. Hence, I have chosen to visualize these findings by creating a 3-D plot. The plot will incorporate three dimensions:
+
+The names of each shark will represent the first dimension.
+The names of the industries in which the sharks have made investments over the years will form the second dimension.
+The third dimension will represent the amount of investment made by each shark in a particular industry.
+Based on the animated chart we created, it is evident that the "Food and Beverage" industry stands out as one of the most appealing sectors for investment, according to the sharks. Additionally, two other industries, namely "Health" and "Lifestyle," are also recognized by the sharks and hold considerable allure.
