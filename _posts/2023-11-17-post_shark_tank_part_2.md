@@ -17,11 +17,7 @@ The chart below displays the number of deals made by each shark in the panel ove
 <script src="https://gist.github.com/AnalyticsForPleasure/7d7f1eea1af624b57351b974a571a78e.js"></script>
 
 
+Shark Preferences: Multi-Entrepreneur vs. Solo Entrepreneur Investments
 
 
-Top episodes with the highest rating – Using Web Scraping
-We wanted to gather information about the top episodes from each season of Shark Tank, spanning from the first season to the tenth season, which have been broadcasted on TV. Since this data was not available in our dataset, we conducted a web search and found the relevant information on the Wikipedia page for Shark Tank.
-
-To extract the necessary details, we scraped the data from the Wikipedia page, specifically focusing on the following fields:
-
-Season number Episode Number of viewers (audience) After retrieving this data, we proceeded to select the top 8 episodes for each season. We then visualized the results using a multi-bubble chart design created with Plotly.
+Our next objective is to determine the number of investments made by each shark with regards to entrepreneurs. Specifically, we want to understand the sharks' preferences when it comes to investing in solo entrepreneurs versus multiple entrepreneurs. Interestingly, we observe that all sharks show a clear inclination towards investing in companies that have multiple partners rather than those led by a single individual. They tend to allocate a higher number of investments to companies with several stakeholders compared to those primarily led by a single person.
