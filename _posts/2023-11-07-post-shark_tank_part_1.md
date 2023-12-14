@@ -19,7 +19,7 @@ The column names include:
 
 
 
-
+<script src="https://gist.github.com/AnalyticsForPleasure/ed229337812d4a2abdd0e5f850bfb126.js"></script>
 
 Sharks' Preferred Industries for Investments
 As we are aware, in each episode of every season, the sharks make multiple investment decisions to become stakeholders in various projects or companies. These companies operate in diverse industries such as toys and games, electronics, specialty food, and more.
