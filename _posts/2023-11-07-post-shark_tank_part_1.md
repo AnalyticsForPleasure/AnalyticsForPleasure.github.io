@@ -29,7 +29,7 @@ In our upcoming analysis, we aim to gain a deeper understanding of the specific 
 <script src="https://gist.github.com/AnalyticsForPleasure/ed229337812d4a2abdd0e5f850bfb126.js"></script>
 
 
-Need to add here the animation !
+**Need to add here the animation !**
 
 
 I would like to explore the investment patterns of each shark in different industries. By analyzing the data, I aim to determine which shark has a strong preference for investing in the technology sector, or who shows a particular interest in the food industry. Additionally, I want to identify any industries that the sharks tend to avoid investing in or where they show minimal interest. Moreover, I am curious to know which shark has made the highest number of investments in total. Hence, I have chosen to visualize these findings by creating a 3-D plot. The plot will incorporate three dimensions:
