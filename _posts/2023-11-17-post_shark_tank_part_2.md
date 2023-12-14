@@ -1,5 +1,5 @@
 ---
-title: "Number of Investments Made by Each Shark Divided by Gender during the 10 Seasons"
+title: "Number of Investments Made by Each Shark Divided by Gender during the 10 Seasons(Part 2: Stats For Sharks)"
 categories:
   - Investment
 tags:
