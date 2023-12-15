@@ -39,7 +39,7 @@ We can dive deeper into the numbers by understanding the trend of foreign player
 Here's is the code I wrote:
 <script src="https://gist.github.com/AnalyticsForPleasure/de555af910f9aa51088b90049b99f4d5.js"></script>
 
-![image-left]({{ '/assets/img/for_posts/Ratio_between_foreign_players_to_local_players_new.png
+![image-left]({{ '/assets/img/for_posts/nba/Ratio_between_foreign_players_to_local_players_new.png
 ' | absolute_url }}){: .align-left} 
 
 
@@ -47,7 +47,7 @@ As we can see from the output table above, over the past 25 years there has been
 
 
 
-![image-left]({{ '/assets/img/for_posts/Amount_of_foreign_players_VS_local_Players_in_the_NBA_league_chart.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/Amount_of_foreign_players_VS_local_Players_in_the_NBA_league_chart.png' | absolute_url }}){: .align-left}
 
 
 
@@ -90,7 +90,7 @@ The next thing I would want to examine and ask is :
 
 
 
-![image-left]({{ '/assets/img/for_posts/Amount_of_foreign_players_in_a_team_over_the_years.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/Amount_of_foreign_players_in_a_team_over_the_years.png' | absolute_url }}){: .align-left} 
 
 
 As we can see from the table above. the most foreign players who played in a team over the NBA - is the Toranto rapters with 43 foreign players in the last 25 years.
