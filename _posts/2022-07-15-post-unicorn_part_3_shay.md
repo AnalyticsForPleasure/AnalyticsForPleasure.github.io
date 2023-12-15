@@ -96,7 +96,7 @@ After is the output of the code written up here:
 
 Now, let emphasis the outcome data result with a nice chart:
 
-![image-left]({{ '/assets/img/for_posts/How_long_it_took_for_each_company_to_cross_the_milestone.png
+![image-left]({{ '/assets/img/for_posts/unicorn/How_long_it_took_for_each_company_to_cross_the_milestone.png
 ' | absolute_url }}){: .align-left} 
 
 
