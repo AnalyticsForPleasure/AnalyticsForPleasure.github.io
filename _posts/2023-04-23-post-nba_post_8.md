@@ -18,7 +18,7 @@ The **Usg%** matrix is that calculates **what percentage of team plays a player 
 
 
 
-![image-right]({{ 'assets/img/for_posts/Usg_precentage.png' | absolute_url }}){: .align-right}
+![image-right]({{ 'assets/img/for_posts/nba/Usg_precentage.png' | absolute_url }}){: .align-right}
 
 
 
