@@ -113,7 +113,7 @@ Let’s add our written code:
 <script src="https://gist.github.com/AnalyticsForPleasure/ebf950e9f1e78d95d89abbe990fa8143.js"></script>
 
 
-![image-left]({{ '/assets/img/for_posts/Counting_th_number_of_unicorns_in_each_city_around_the_world.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/Counting_th_number_of_unicorns_in_each_city_around_the_world.png' | absolute_url }}){: .align-left} 
 
 
 
