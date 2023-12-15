@@ -63,7 +63,7 @@ On the other hand, we can see a totaly different picture.  We can point out what
 * The venture market shrinked - At 2022, venture funding has shrunk with each passing quarter, with some crossover investors pulling back significantly after experiencing massive losses in their public funds. 
 Over the last year there were several macro changes. Macro trends like inflation, rising interest rates, and geopolitical crises — such as the war in Ukraine — arose to shock the public markets. 
 
-![image-left]({{ '/assets/img/for_posts/Number_of_unicorn_companies_who_have_been_founded_over_the_years_new.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/unicorn/Number_of_unicorn_companies_who_have_been_founded_over_the_years_new.png' | absolute_url }}){: .align-left}
 
 
 After we retrieve the numbers, we will go to the illustration data part.
