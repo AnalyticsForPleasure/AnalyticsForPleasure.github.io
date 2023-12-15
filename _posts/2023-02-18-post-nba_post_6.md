@@ -57,7 +57,7 @@ We can point out another thing,  the dous named Shaquille O’Neal & Kobe Brayan
 
 
 
-![image-left]({{ '/assets/img/for_posts/top_dous_who_scored_together_more_then_54_point_at_the_same_year.png' | absolute_url }})
+![image-left]({{ '/assets/img/for_posts/nba/top_dous_who_scored_together_more_then_54_point_at_the_same_year.png' | absolute_url }})
 
 
 
