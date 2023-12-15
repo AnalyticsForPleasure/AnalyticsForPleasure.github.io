@@ -89,5 +89,5 @@ The 3 elements are:
 
 
 
-![image-left]({{ '/assets/img/for_posts/
+![image-left]({{ '/assets/img/for_posts/nba/
 Usage precentage.png' | absolute_url }}){: .align-left}
