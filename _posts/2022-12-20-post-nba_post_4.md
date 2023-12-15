@@ -42,7 +42,7 @@ Now, after we finish writing the main code, we want to present it nicely.
 <script src="https://gist.github.com/AnalyticsForPleasure/34af523dc075d14175c1b3627e8ce5a0.js"></script>
 
 
-![image-left]({{ '/assets/img/for_posts/seasonlly_most_double_double_aPlayer_had__in_the_s.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/seasonlly_most_double_double_aPlayer_had__in_the_s.png' | absolute_url }}){: .align-left}
 
 
 Now, after presenting this chart we can notice and understand the data results much more accurately.
