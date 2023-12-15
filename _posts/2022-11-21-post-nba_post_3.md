@@ -12,7 +12,7 @@ tags:
 In our last post we find out the number of players over the years, who were undrafted. Today, we will start by finding out the numbers of players who were drafted over the last 25 years.
 <script src="https://gist.github.com/AnalyticsForPleasure/a54c648d4ab1da295f1186d1519d3efb.js"></script>
 
-![image-left]({{ '/assets/img/for_posts/Number_of_drafted_players_each_year.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/Number_of_drafted_players_each_year.png' | absolute_url }}){: .align-left} 
 
 
 
