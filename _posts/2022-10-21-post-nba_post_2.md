@@ -47,7 +47,7 @@ After retrieving the final data, I built a function which will illustrate the fi
 
 
 
-![image-left]({{ '/assets/img/for_posts/table_top_10_rookies_for_scoring_points_assist_and_rebounds.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/table_top_10_rookies_for_scoring_points_assist_and_rebounds.png' | absolute_url }}){: .align-left}
 
 
 
