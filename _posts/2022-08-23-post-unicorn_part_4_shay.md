@@ -28,7 +28,7 @@ The other one is Tiger Global Management, an American investment firm. It  mainl
 Both Andreessen and Tiger Global  have in their portfolio 53 companies which they invest in taken from our data set.
 
 
-![image-left]({{ '/assets/img/for_posts/Top_8_investors_which_invested_the_largest_amount_in_companies.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/unicorn/Top_8_investors_which_invested_the_largest_amount_in_companies.png' | absolute_url }}){: .align-left}
 
 
 Here below we add I chart which emphasize the result we got from the table above- check it out:
