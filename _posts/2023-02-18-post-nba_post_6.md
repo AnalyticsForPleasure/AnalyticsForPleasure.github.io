@@ -12,7 +12,7 @@ Usually the  shortest member of the team would be the player who is playing at t
 
 After a brief check, we can distinguish a range of height, when the highest basketball player height is 231.14 centimeter. And on the other side of the scale, we have the shortest basketball player with a height of 160.02 centimeter.
 
-![image-left]({{ '/assets/img/for_posts/Highest_players_over_the_NBA_past_deceded_table.png
+![image-left]({{ '/assets/img/for_posts/nba/Highest_players_over_the_NBA_past_deceded_table.png
 ' | absolute_url }})
 
 Therefore, we would like to do a short research about the players height by dividing the whole players into smaller groups. When each group will get an interval of 10 centimeters of height. 
