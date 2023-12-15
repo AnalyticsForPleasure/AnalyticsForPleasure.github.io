@@ -102,7 +102,7 @@ Let’s add our written code:
 <script src="https://gist.github.com/AnalyticsForPleasure/f77dda59b8049416835f32c107d5905b.js"></script>
 
 
-![image-left]({{ '/assets/img/for_posts/Counting_the_number_of_unicorns_in_each_country.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/Counting_the_number_of_unicorns_in_each_country.png' | absolute_url }}){: .align-left} 
 
 
 We can see more than half of the companies are located in the US. In second place on top, we can see then chinese companies - with  173 companies. Afterwards, our examination reveals that India and the United Kingdom take the third and fourth place, with 65 companies and companies in  correspondence.
