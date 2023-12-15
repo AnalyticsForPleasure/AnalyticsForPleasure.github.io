@@ -47,7 +47,7 @@ We will find out which two teammates ( at the same team )   got to their peak  a
 
 
 
-![image-left]({{ '/assets/img/for_posts/Top_scorer_and_second_scorer.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/Top_scorer_and_second_scorer.png' | absolute_url }}){: .align-left} 
 
 
 As we see taken from our results we can see the duos which we talk about below do not appear at this chart.  We can see only 5 times two players on the same team were able to score so many points over the entire seasons of the NBA ( In our dataset 35 years).
