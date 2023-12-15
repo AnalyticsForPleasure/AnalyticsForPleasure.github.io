@@ -22,7 +22,7 @@ The **Usg%** matrix is that calculates **what percentage of team plays a player 
 
 
 
-![image-left]({{ 'assets/img/for_posts/Usg_table.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/nba/Usg_table.png' | absolute_url }}){: .align-left} 
 
 
 As we can see from the table above, the same James Harden we talked about before, leads the league in this category with his consistency, with **almost 40% over his 2018 season!**
