@@ -17,3 +17,10 @@ Over the course of the first ten years, the show has been televised, numerous pi
 
 
 <script src="https://gist.github.com/AnalyticsForPleasure/a432034b5f17d145c9f205f22d55787f.js"></script>
+
+
+ ![image-left]({{ '/home/shay_diy/PycharmProjects/dive_into_shark_tank/images/slope_chart/hot_cold.png' absolute_url }}){: .align-left}
+
+
+
+![image-left]({{ '/assets/img/for_posts/seasonlly_most_double_double_aPlayer_had__in_the_s.png' | absolute_url }}){: .align-left}
