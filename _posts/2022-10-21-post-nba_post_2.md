@@ -89,7 +89,7 @@ Players can be undrafted also if they came from G- league or came from the middl
 <script src="https://gist.github.com/AnalyticsForPleasure/3fceacbaadb720c9c3f639bfe0ca13fc.js"></script>
 
 
-![image-left]({{ '/assets/img/for_posts/Table_Number_of_players_where_undrafted_over_each_year.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/Table_Number_of_players_where_undrafted_over_each_year.png' | absolute_url }}){: .align-left}
 
 
 
