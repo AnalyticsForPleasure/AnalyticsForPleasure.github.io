@@ -41,7 +41,7 @@ During the seasons 2018 and a year afterwards, Harden had remarkable seasons wit
 
 
 
-![image-left]({{ 'assets/img/for_posts/table_average_points_for_aplayer_in_his_4_seasons.png' | absolute_url }}){: .align-left}
+![image-left]({{ 'assets/img/for_posts/nba/table_average_points_for_aplayer_in_his_4_seasons.png' | absolute_url }}){: .align-left}
 
 In the table above we wanted to find out what is the average points for a player during their first 4 seasons in the league and to compare this result to the average points of the same player in his veteran years in the league,  in their 4 last four years.
  
