@@ -70,7 +70,7 @@ Two years later, Kobe Bryant replaced Shaquille  with 30 points in season 2002.
 
 * Numbers of the **first scorer** of the team:
 
-![image-left]({{ '/assets/img/for_posts/table_first_scorer.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/table_first_scorer.png' | absolute_url }}){: .align-left} 
 
 * Numbers of the **second scorer** of the team:
 
