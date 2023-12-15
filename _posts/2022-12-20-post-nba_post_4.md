@@ -68,6 +68,6 @@ Here is the code I wrote:
 As we can see from the output chart above - we got 5 players: Baron Davis, Brevin Knight, Chris Paul, Deron Williams and Gary Payton.
 
 <figure style="width: 700px">
-<img src="{{ '/assets/img/for_posts/The_top_5_players_with_the_best_passing_abilities.png' | absolute_url }}" class="align-center" alt="">
+<img src="{{ '/assets/img/for_posts/nba/The_top_5_players_with_the_best_passing_abilities.png' | absolute_url }}" class="align-center" alt="">
 
 
