@@ -52,7 +52,7 @@ Now, We would like to find out -
 <script src="https://gist.github.com/AnalyticsForPleasure/0330134193fcc0871595dc6ef4e7e52c.js"></script>
 
 
-![image-left]({{ '/assets/img/for_posts/Number_of_investment_per_industry_subplot.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/Number_of_investment_per_industry_subplot.png' | absolute_url }}){: .align-left} 
 
 The results shows us that in each city, investors prefers to invest in a different field, for example: In New York most investors preferred to invest in fintech and Internet software & services (33 + 20= 53 investments ), in San Francisco investors also preferred to invested in those two fields but in a higher volume of investments-  fintech 41 companies , and at Internet software & services 54. 
 The type of investment made by investors in  North American & South America (New York + San Francisco  is totally different from the investors who pick up and invest over Asia. In Asia the companies who got funded are the companies with E-commerce & direct-to-consumer , Auto & transportation.
