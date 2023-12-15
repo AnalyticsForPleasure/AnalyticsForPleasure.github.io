@@ -36,7 +36,7 @@ During the seasons 2018 and a year afterwards, Harden had remarkable seasons wit
 
 
 
-![image-left]({{ 'assets/img/for_posts/average_points_for_aplayer_in_his_4_seasons.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/nba/average_points_for_aplayer_in_his_4_seasons.png' | absolute_url }}){: .align-left} 
 
 
 
