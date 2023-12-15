@@ -22,7 +22,7 @@ Now, let dive into the code:
 
 
 
-![image-right]({{ '/assets/img/for_posts/Histogram_the_years_distribution_of_NBA_players_in_the_league.png' | absolute_url }})
+![image-right]({{ '/assets/img/for_posts/nba/Histogram_the_years_distribution_of_NBA_players_in_the_league.png' | absolute_url }})
 
 
 Let's we now the results from the histogram on a table:
