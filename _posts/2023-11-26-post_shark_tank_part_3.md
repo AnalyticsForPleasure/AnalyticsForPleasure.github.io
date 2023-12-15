@@ -19,7 +19,7 @@ Over the course of the first ten years, the show has been televised, numerous pi
 <script src="https://gist.github.com/AnalyticsForPleasure/a432034b5f17d145c9f205f22d55787f.js"></script>
 
 
-![image-left]({{ 'assets/img/for_posts/shark_tank/slope_chart/hot_vs_cold.png' | absolute_url }}){: .align-left}
+![image-left]({{ 'assets/img/for_posts/shark_tank/slope_chart/hot_vs_cold.jpg' | absolute_url }}){: .align-left}
 
 ![image-left]({{ 'assets/img/for_posts/shark_tank/slope_chart/slope_chart.png' | absolute_url }}){: .align-left} 
 
