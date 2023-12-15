@@ -23,7 +23,7 @@ In our last post we find out the number of players over the years, who were undr
 
 
 
-![image-left]({{ '/assets/img/for_posts/How_many_players_get_drafted_in_the_NBA_each_year.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/How_many_players_get_drafted_in_the_NBA_each_year.png' | absolute_url }}){: .align-left} 
 
 
 
