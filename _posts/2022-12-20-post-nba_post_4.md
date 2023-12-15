@@ -62,7 +62,7 @@ Here is the code I wrote:
 
 <script src="https://gist.github.com/AnalyticsForPleasure/a7f475146c7a48a7023fed4c93855300.js"></script>
 
-![image-left]({{ '/assets/img/for_posts/table_passing_abilities.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/table_passing_abilities.png' | absolute_url }}){: .align-left}
 
 
 As we can see from the output chart above - we got 5 players: Baron Davis, Brevin Knight, Chris Paul, Deron Williams and Gary Payton.
