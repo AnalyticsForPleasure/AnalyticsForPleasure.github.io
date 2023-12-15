@@ -32,7 +32,7 @@ Let's we now the results from the histogram on a table:
 
 
 
-![image-left]({{ '/assets/img/for_posts/table_for_the_Number_of_years_the_player_played_in_the_NBA_league.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/table_for_the_Number_of_years_the_player_played_in_the_NBA_league.png' | absolute_url }}){: .align-left} 
 
 
 
