@@ -31,7 +31,7 @@ We built 2 functions :
 
 
 
-![image-left]({{ '/assets/img/for_posts/standard_deviation_for_each_group_table.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/standard_deviation_for_each_group_table.png' | absolute_url }}){: .align-left} 
 
 
 The next and last test for today,  we would like to examine is related to the element, which the media like to talk cosistanty,  I am talking about the questions : 
