@@ -25,7 +25,7 @@ Let’s find out
 
 
 
-![image-left]({{ '/assets/img/for_posts/Chmparing_between_campanies_who_funded_money_vs_not_funded.png
+![image-left]({{ '/assets/img/for_posts/unicorn/Chmparing_between_campanies_who_funded_money_vs_not_funded.png
 ' | absolute_url }}){: .align-left} 
 
 
@@ -70,7 +70,7 @@ For example : We have a chinese E- commerce  company named “Zhaogang”, locat
 After I clear that out, We will start the analysis of separating the continuous data into 7 categorical data ,which I have mentioned up here.
 
 
-![image-left]({{ '/assets/img/for_posts/I_creation_timeline.png
+![image-left]({{ '/assets/img/for_posts/unicorn/I_creation_timeline.png
 ' | absolute_url }}){: .align-left} 
 
 
