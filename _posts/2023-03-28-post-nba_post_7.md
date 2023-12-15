@@ -63,7 +63,7 @@ Our next research we would be interested in diving deep is over the “Gp'' colu
 **Who are the players who played more than 8 seasons + scored more than 15 points each year  and played at least more than 50 games in a season?**
 
 
-![image-left]({{ '/assets/img/for_posts/gp_table.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/gp_table.png' | absolute_url }}){: .align-left}
 
 
 
