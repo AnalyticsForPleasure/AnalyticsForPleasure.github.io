@@ -53,7 +53,7 @@ The next thing we would like to check is the amount of companies founded each ye
 Furthermore, We can see throughout the right side table the outcome result of the funding companies we talked about.This reflection is a consequence of more money and more bubbly behavior of the market, as many companies announced worth more than 1 billion dollars. 
 
 
-![image-left]({{ '/assets/img/for_posts/Funding_table.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/Funding_table.png' | absolute_url }}){: .align-left} 
 
 
 On the other hand, we can see a totaly different picture.  We can point out what can drive the downward trend :
