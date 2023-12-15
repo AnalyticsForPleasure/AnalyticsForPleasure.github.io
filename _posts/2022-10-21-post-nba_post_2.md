@@ -97,7 +97,7 @@ Now, let's illustrate the data of the undrafted players over the years (1996 -20
 
 
 
-![image-left]({{ '/assets/img/for_posts/Number_of_players_where_undrafted_over_each_year.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/Number_of_players_where_undrafted_over_each_year.png' | absolute_url }}){: .align-left} 
 
 
 After we find out how many undrafted players there were over 25 past year. lets find out the number of drafted players over the past 25 years.
