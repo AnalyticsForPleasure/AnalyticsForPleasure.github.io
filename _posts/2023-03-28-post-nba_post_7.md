@@ -84,7 +84,7 @@ The 3 elements are:
 
 
 
-![image-left]({{ '/assets/img/for_posts/Total_games_played_by_a_player_over_this_NBA_career.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/Total_games_played_by_a_player_over_this_NBA_career.png' | absolute_url }}){: .align-left}
 
 
 
