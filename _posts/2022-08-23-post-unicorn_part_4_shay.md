@@ -114,7 +114,7 @@ Finally, after dividing the data twice, we can go and seek for some conclusion t
 
 
 
-![image-left]({{ '/assets/img/for_posts/table_3_ranges_of_years.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/table_3_ranges_of_years.png' | absolute_url }}){: .align-left} 
 
 
 (An important point I would like to point out is about the specific column named “Select Investors”. This column refers to investing firms as individual investors.  I want to explain the meaning of investing firm. An investment company can also be known as “fund company” or “fund sponsor”. They often partner with third-party distributors to sell mutual funds.)
