@@ -135,7 +135,7 @@ At the top which had a valuation of over 1 billion dollar at the fastest way are
 Now, let's illustrate this output by adding a timeline created by one of the visual libraries that python offers: 
 
 <figure style="width: 800px">
-<img src="{{ '/assets/img/for_posts/Companies_which_became_unicorn_in_the_shortest_period_of_time_new.png' | absolute_url }}" class="align-center" alt="">
+<img src="{{ '/assets/img/for_posts/unicorn/Companies_which_became_unicorn_in_the_shortest_period_of_time_new.png' | absolute_url }}" class="align-center" alt="">
 
 
 
