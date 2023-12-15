@@ -17,4 +17,4 @@ Our initial exploration aims to answer the question: What specific roles do indi
 ![image-left]({{ '/assets/img/for_posts/Top_investors.gif' | absolute_url }}){: .align-left} 
 
 
-![image-left]({{ '/shay_diy/PycharmProjects/Exploring_salary_cross_country/Questions/Question_1/Gender Comparison.jpg | absolute_url }}){: .align-left} 
+![image-left]({{ '/PycharmProjects/Exploring_salary_cross_country/Questions/Question_1/Gender Comparison.jpg | absolute_url }}){: .align-left} 
