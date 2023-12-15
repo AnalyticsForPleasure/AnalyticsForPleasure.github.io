@@ -29,7 +29,7 @@ In order to find out the answer for our questions, I will add a chuck of my code
 
 Here is the result what we got: 
 
-![image-left]({{ '/assets/img/for_posts/table_valuation_of_the_top_companies.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/table_valuation_of_the_top_companies.png' | absolute_url }}){: .align-left} 
 
 
 As we go through the output code - we can notice companies such as: Bydance or Spacex or SHEIN got a tag price valuation of more than 100 billion dollars.
