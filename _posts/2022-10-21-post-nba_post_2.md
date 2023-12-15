@@ -43,7 +43,7 @@ After retrieving the final data, I built a function which will illustrate the fi
 
 
 
-![image-left]({{ '/assets/img/for_posts/The_top_10_rookies_with_the_overall_highest_scoring_points_assists_and_rebounds.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/The_top_10_rookies_with_the_overall_highest_scoring_points_assists_and_rebounds.png' | absolute_url }}){: .align-left}
 
 
 
