@@ -74,7 +74,7 @@ Two years later, Kobe Bryant replaced Shaquille  with 30 points in season 2002.
 
 * Numbers of the **second scorer** of the team:
 
-![image-left]({{ '/assets/img/for_posts/table_second_scorer.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/nba/table_second_scorer.png' | absolute_url }}){: .align-left}
 
 
 I want to know the average point of the selected player who played more than 10 years. 
