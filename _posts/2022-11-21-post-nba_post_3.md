@@ -66,7 +66,7 @@ This horizontal bar shows us a list of colleges in which players have graduated 
 
 
 
-![image-left]({{ '/assets/img/for_posts/Number_of_players_who_scored_more_than_27_points_after_graduating_from_the_best_colleges.png'| absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/Number_of_players_who_scored_more_than_27_points_after_graduating_from_the_best_colleges.png'| absolute_url }}){: .align-left} 
 
 
 
