@@ -133,7 +133,7 @@ Now, we will check out the other side - the side of investors who poured their m
 This result above we got by writing this code:
 <script src="https://gist.github.com/AnalyticsForPleasure/9eabb238aa3c6309ca9aefe83dcb9ea8.js"></script>
 
-![image-left]({{ '/assets/img/for_posts/Total_amount_of_money_invested_into_the_top_12_countries_new.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/Total_amount_of_money_invested_into_the_top_12_countries_new.png' | absolute_url }}){: .align-left} 
 
 
 
