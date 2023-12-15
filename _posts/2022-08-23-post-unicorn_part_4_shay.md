@@ -34,7 +34,7 @@ Both Andreessen and Tiger Global  have in their portfolio 53 companies which the
 Here below we add I chart which emphasize the result we got from the table above- check it out:
 
 
-![image-left]({{ '/assets/img/for_posts/Top_investors.gif' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/unicorn/Top_investors.gif' | absolute_url }}){: .align-left} 
 
 Now, after we find out who are the investors which invest the most, we would want to dig up and find out each diversified portfolio of these top investors by continents.
 
