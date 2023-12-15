@@ -22,5 +22,6 @@ Over the course of the first ten years, the show has been televised, numerous pi
 ![image-left]({{ '/home/shay_diy/PycharmProjects/dive_into_shark_tank/images/slope_chart/hot_vs_cold.png' | absolute_url }}){: .align-left}
 
 
+
 ![image-left]({{ '/assets/img/for_posts/How_many_players_get_drafted_in_the_NBA_each_year.png' | absolute_url }}){: .align-left} 
 
