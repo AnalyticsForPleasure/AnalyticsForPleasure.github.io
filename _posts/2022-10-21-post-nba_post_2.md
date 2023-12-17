@@ -70,7 +70,8 @@ Here below the code I wrote:
 
 In the table above we can notice a massive improval in points as the players entered their second year in the league. We can see a sharp increase in points for players such as **Wesley Matthews**, who finished his rookie season with an average of 9.4 points a game. A year later, Matthews upgraded his scoring abilities as he reached almost 16 points a game - An increase of 69% in points.
 Another extraordinary player we can distinguish  is **Andres Nocioni**. His points number jumps 55% to 13 points.
-![image-left]({{ '/assets/img/for_posts/most_improvement_from_rookie_season.png' | absolute_url }}){: .align-left}
+
+![image-left]({{ '/assets/img/for_posts/nba/most_improvement_from_rookie_season.png' | absolute_url }}){: .align-left}
 
 
 
