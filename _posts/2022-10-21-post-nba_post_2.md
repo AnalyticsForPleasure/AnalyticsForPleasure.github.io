@@ -77,8 +77,6 @@ Another extraordinary player we can distinguish  is **Andres Nocioni**. His poin
 
 
 
-
-
 My next question will continue with the same topic -  *Rookie player*.
 I would like to know -  
 **How many undrafted players were each year over the years? Is there an increase or decrease in the number of players who were undrafted ?**
