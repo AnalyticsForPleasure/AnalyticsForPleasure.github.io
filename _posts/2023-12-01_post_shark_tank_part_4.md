@@ -17,7 +17,7 @@ The next thing that we would like to dive into is to find out for each deal whic
 
 <script src="https://gist.github.com/AnalyticsForPleasure/587d8abb5100b02ecab2c57697063298.js"></script>
 
-
+![image-left]({{ 'assets/img/for_posts/shark_tank/average_equity.png' | absolute_url }}){: .align-left} 
 
 
 **Number of Investments Made over the Seasons**
