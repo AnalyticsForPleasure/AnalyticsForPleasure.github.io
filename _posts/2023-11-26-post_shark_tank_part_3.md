@@ -25,3 +25,4 @@ Over the course of the first ten years, the show has been televised, numerous pi
 
 
 
+![image-left]({{ 'assets/img/for_posts/shark_tank/average_equity.png' | absolute_url }}){: .align-left} 
