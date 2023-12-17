@@ -87,4 +87,4 @@ Here is the code reference for answering this question:
 As we can notice from the output above - 851 players ,during the last 25 seasons, played in the same jersey their entire careers. In other words,  over their rookie season and in their retirement season they played with the same jersey. 
 
 
-![image-right]({{ '/assets/img/for_posts/team_jersey.png' | absolute_url }})
+![image-right]({{ '/assets/img/for_posts/nba/team_jersey.png' | absolute_url }})
