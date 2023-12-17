@@ -130,7 +130,7 @@ Now, let's illustrate this output by adding a timeline created by one of the vis
 
 At the top which had a valuation of over 1 billion dollar at the fastest way are: 
 
-![image-left]({{ '/assets/img/unicorn/for_posts/The_shortest_time_entering_the_club.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/unicorn/The_shortest_time_entering_the_club.png' | absolute_url }}){: .align-left}
 
 Now, let's illustrate this output by adding a timeline created by one of the visual libraries that python offers: 
 
