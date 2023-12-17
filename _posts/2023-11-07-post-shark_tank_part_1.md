@@ -41,3 +41,5 @@ The names of each shark will represent the first dimension.
 The names of the industries in which the sharks have made investments over the years will form the second dimension.
 The third dimension will represent the amount of investment made by each shark in a particular industry.
 Based on the animated chart we created, it is evident that the "Food and Beverage" industry stands out as one of the most appealing sectors for investment, according to the sharks. Additionally, two other industries, namely "Health" and "Lifestyle," are also recognized by the sharks and hold considerable allure.
+
+![image-left]({{ 'assets/img/for_posts/shark_tank/waffle_plot.gif' | absolute_url }}){: .align-left} 
