@@ -13,6 +13,5 @@ Today, we will delve into an insightful analysis of a dataset sourced from Kaggl
 Our initial exploration aims to answer the question: What specific roles do individuals with a Ph.D. typically occupy? Moreover, we seek to discern whether male Ph.D. holders gravitate towards different positions compared to their female counterparts with a Ph.D. Once we unravel the answers to these inquiries, our next focus will be on identifying potential gender-based salary disparities.
 
 
-# change the gif
 
 ![image-left]({{ '/assets/img/for_posts/salary/gender_comparison.jpg' | absolute_url }}){: .align-left} 
