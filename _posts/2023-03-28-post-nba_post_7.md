@@ -13,7 +13,7 @@ The next thing we would check is about the TS% column. TS% column represents the
 
 Perhaps by the name column definition- **“True shooting percentage”** matrix,  all of you would think about players who are pure shooters or 3-point shooters, who plays as a guard position or scorer – like **Steph Curry** or **Ray Allen**, but this matrix gives us a different insight about the meaning of “True Shooting”.
 
-![image-left]({{ '/assets/img/for_posts/true_shooting_precentage_table.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/true_shooting_precentage_table.png' | absolute_url }}){: .align-left} 
 
 As we go over the output results above, we can find out who is in the top TS% category over the years. are big guys, such as :  **Rudy Gobert , Tyson Chandler and Deandre Jordan**.
 
