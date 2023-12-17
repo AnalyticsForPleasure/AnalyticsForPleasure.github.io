@@ -15,3 +15,6 @@ Our initial exploration aims to answer the question: What specific roles do indi
 
 
 ![image-left]({{ '/assets/img/for_posts/salary/gender_comparison.jpg' | absolute_url }}){: .align-left} 
+
+
+![image-left]({{ '/assets/img/for_posts/salary/gender_comparison.jpg' | absolute_url }}){: .align-left} 
