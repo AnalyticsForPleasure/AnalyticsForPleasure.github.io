@@ -37,7 +37,7 @@ The calculation for this statistic is made using:
 
 
 how_do_we_calculate_TS.png
-![image-left]({{ '/assets/img/for_posts//nba/how_do_we_calculate_TS.png' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/nba/how_do_we_calculate_TS.png' | absolute_url }}){: .align-left} 
 
 * **What is the meaning of FTA?**
 
