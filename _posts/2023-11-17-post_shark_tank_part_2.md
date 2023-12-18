@@ -16,6 +16,9 @@ The chart below displays the number of deals made by each shark in the panel ove
 
 <script src="https://gist.github.com/AnalyticsForPleasure/7d7f1eea1af624b57351b974a571a78e.js"></script>
 
+![image-left]({{ 'assets/img/for_posts/shark_tank/number_invest_for_each_shark.jpg' | absolute_url }}){: .align-left} 
+
+
 
 **Shark Preferences: Multi-Entrepreneur vs. Solo Entrepreneur Investments**
 
@@ -23,3 +26,4 @@ Our next objective is to determine the number of investments made by each shark 
 
 <script src="https://gist.github.com/AnalyticsForPleasure/47654f7ea8966707d3cc828ec965e580.js"></script>
 
+![image-left]({{ 'assets/img/for_posts/shark_tank/slope_chart/slope_chart.png' | absolute_url }}){: .align-left} 
