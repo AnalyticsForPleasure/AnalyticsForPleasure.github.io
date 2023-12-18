@@ -26,4 +26,3 @@ Our next objective is to determine the number of investments made by each shark 
 
 <script src="https://gist.github.com/AnalyticsForPleasure/47654f7ea8966707d3cc828ec965e580.js"></script>
 
-![image-left]({{ 'assets/img/for_posts/shark_tank/slope_chart/slope_chart.png' | absolute_url }}){: .align-left} 
