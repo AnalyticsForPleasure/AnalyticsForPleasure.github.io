@@ -42,11 +42,9 @@ Based on the animated chart we created, it is evident that the "Food and Beverag
 ![image-left]({{ 'assets/img/for_posts/shark_tank/stitched.gif' | absolute_url }}){: .align-left} 
 
 
-I would like to explore the investment patterns of each shark in different industries. By analyzing the data, I aim to determine which shark has a strong preference for investing in the technology sector, or who shows a particular interest in the food industry. Additionally, I want to identify any industries that the sharks tend to avoid investing in or where they show minimal interest. Moreover, I am curious to know which shark has made the highest number of investments in total. Hence, I have chosen to visualize these findings by creating a 3-D plot. The plot will incorporate three dimensions:
+**Investment Percentage: Sharks vs. Rest of the Panel in Each Season**
 
-The names of each shark will represent the first dimension.
-The names of the industries in which the sharks have made investments over the years will form the second dimension.
-The third dimension will represent the amount of investment made by each shark in a particular industry.
-Based on the animated chart we created, it is evident that the "Food and Beverage" industry stands out as one of the most appealing sectors for investment, according to the sharks. Additionally, two other industries, namely "Health" and "Lifestyle," are also recognized by the sharks and hold considerable allure.
+One intriguing aspect we want to delve into is the level of investment made by each shark or guest on the show. Essentially, we aim to determine how much personal capital each individual is willing to invest in new entrepreneurial ideas. To shed light on this question, we conducted an analysis for each season, spanning from the first to the tenth. The chart below allows us to examine the percentage of investments made by a specific shark or guest in each season individual
+
 
 ![image-left]({{ 'assets/img/for_posts/shark_tank/waffle_plot.gif' | absolute_url }}){: .align-left} 
