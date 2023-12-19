@@ -20,7 +20,9 @@ The dataset we are working with contains information about the "Shark Tank" seri
 The column names include:
 
 
+all_column_names.png
 
+![image-left]({{ 'assets/img/for_posts/shark_tank/all_column_names.png.gif' | absolute_url }}){: .align-left} 
 
 
 **Sharks' Preferred Industries for Investments**
