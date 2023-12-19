@@ -39,6 +39,8 @@ Based on the animated chart we created, it is evident that the "Food and Beverag
 <script src="https://gist.github.com/AnalyticsForPleasure/ed229337812d4a2abdd0e5f850bfb126.js"></script>
 
 
+![image-left]({{ 'assets/img/for_posts/shark_tank/matrix_table_Q_1.png' | absolute_url }}){: .align-left}
+
 ![image-left]({{ 'assets/img/for_posts/shark_tank/stitched.gif' | absolute_url }}){: .align-left} 
 
 
