@@ -22,6 +22,8 @@ Season number Episode Number of viewers (audience) After retrieving this data, w
 ![image-left]({{ '/assets/img/for_posts/shark_tank/scraping_bubble/table_top_eight.png' | absolute_url }}){: .align-left} 
 
 
+![image-left]({{ '/assets/img/for_posts/shark_tank/scraping_bubble/animation_8_episodes.gif
+' | absolute_url }}){: .align-left} 
 
 
 **Number of Investments Made over the Seasons**
