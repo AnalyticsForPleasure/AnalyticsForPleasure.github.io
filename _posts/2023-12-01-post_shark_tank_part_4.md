@@ -19,6 +19,7 @@ To extract the necessary details, we scraped the data from the Wikipedia page, s
 Season number Episode Number of viewers (audience) After retrieving this data, we proceeded to select the top 8 episodes for each season. We then visualized the results using a multi-bubble chart design created with Plotly.
 
 
+
 ![image-left]({{ '/assets/img/for_posts/shark_tank/scraping_bubble/table_top_eight.png' | absolute_url }}){: .align-left} 
 
 
