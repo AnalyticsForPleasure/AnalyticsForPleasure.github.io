@@ -23,3 +23,6 @@ We are eager for you to explore the *correlation between 'Job Title' and 'Educat
 
 
 ![image-left]({{ 'assets/img/for_posts/salary/matrix_illustration.png' | absolute_url }}){: .align-left} 
+
+
+![image-left]({{ 'assets/img/for_posts/salary/heatmap_chart.jpg' | absolute_url }}){: .align-left}
