@@ -17,6 +17,6 @@ In the upcoming chart, I aim to illustrate the salary distribution for various j
 
 
 
-matrix_illustration.png
+
 
 ![image-left]({{ 'assets/img/for_posts/salary/matrix_illustration.png' | absolute_url }}){: .align-left} 
