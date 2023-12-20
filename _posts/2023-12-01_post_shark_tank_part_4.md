@@ -35,3 +35,6 @@ Upon examining the data, we observe a significant surge in the number of investm
 <script src="https://gist.github.com/AnalyticsForPleasure/1000fca438c04cf51161f68f47504b76.js"></script>
 
 
+/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/shark_tank/area_chart/chart_number_of_investments.png
+
+![image-left]({{ '/assets/img/for_posts/shark_tank/area_chart/chart_number_of_investments.png' | absolute_url }}){: .align-left} 
