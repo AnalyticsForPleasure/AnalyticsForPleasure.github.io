@@ -50,5 +50,8 @@ One intriguing aspect we want to delve into is the level of investment made by e
 
 ![image-left]({{ 'assets/img/for_posts/shark_tank/whaffle_seasons/waffle_table.jpg' | absolute_url }}){: .align-left} 
 
+
+
+
 ![image-left]({{ 'assets/img/for_posts/shark_tank/waffle_plot.gif' | absolute_url }}){: .align-left} 
 
