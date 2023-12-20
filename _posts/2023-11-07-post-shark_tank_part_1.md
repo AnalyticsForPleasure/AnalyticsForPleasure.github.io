@@ -48,7 +48,7 @@ Based on the animated chart we created, it is evident that the "Food and Beverag
 
 One intriguing aspect we want to delve into is the level of investment made by each shark or guest on the show. Essentially, we aim to determine how much personal capital each individual is willing to invest in new entrepreneurial ideas. To shed light on this question, we conducted an analysis for each season, spanning from the first to the tenth. The chart below allows us to examine the percentage of investments made by a specific shark or guest in each season individual
 
-![image-left]({{ 'assets/img/for_posts/shark_tank/whaffle_seasons/whaffle_table.jpg' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/shark_tank/whaffle_seasons/whaffle_table.png' | absolute_url }}){: .align-left} 
 
 
 
