@@ -17,6 +17,6 @@ In the upcoming chart, I aim to illustrate the salary distribution for various j
 
 
 
-
+<script src="https://gist.github.com/AnalyticsForPleasure/b15b434410ecc078bc0e35a9a6246d4c.js"></script>
 
 ![image-left]({{ 'assets/img/for_posts/salary/matrix_illustration.png' | absolute_url }}){: .align-left} 
