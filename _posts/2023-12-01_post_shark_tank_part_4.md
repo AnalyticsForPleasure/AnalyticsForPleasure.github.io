@@ -1,5 +1,5 @@
 ---
-title: "Shark Equity in Closing Deals, by Gender (Part 4: Stats For Sharks)"
+title: "Highest-rated Episodes via Web Scraping (Part 4: Stats For Sharks)"
 categories:
   - Investment
 tags:
@@ -10,14 +10,13 @@ tags:
   - Angel Investments
 ---
 
+**Top episodes with the highest rating – Using Web Scraping**
 
-**Average Equity of Each Shark over Closing Deals, Divided by Gender**
+We wanted to gather information about the top episodes from each season of Shark Tank, spanning from the first season to the tenth season, which have been broadcasted on TV. Since this data was not available in our dataset, we conducted a web search and found the relevant information on the Wikipedia page for Shark Tank.
 
-The next thing that we would like to dive into is to find out for each deal which has been closed by each shark, what was the amount of equity settled during the negotiation process between the entrepreneur VS the shark. Therefore, we decided to add another element to the equation - for each closed deal by each shark we will divide the deals by the gender of the entrepreneur. For example : Mark Cuban, during 10 seasons of the show that has been aired on TV, he made 68 investment deals with entrepreneurs over the show. As we can notice below, The average equity (%) for a male entrepreneur was 28.6%, while the average equity (%) for a female entrepreneur was 26.4%.
+To extract the necessary details, we scraped the data from the Wikipedia page, specifically focusing on the following fields:
 
-<script src="https://gist.github.com/AnalyticsForPleasure/587d8abb5100b02ecab2c57697063298.js"></script>
-
-![image-left]({{ 'assets/img/for_posts/shark_tank/average_equity.png' | absolute_url }}){: .align-left} 
+Season number Episode Number of viewers (audience) After retrieving this data, we proceeded to select the top 8 episodes for each season. We then visualized the results using a multi-bubble chart design created with Plotly.
 
 
 **Number of Investments Made over the Seasons**
