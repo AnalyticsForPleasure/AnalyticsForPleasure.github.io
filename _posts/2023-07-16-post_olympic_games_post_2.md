@@ -17,5 +17,8 @@ We would like to explore our next question, which is to determine the number of 
 
 ![image-left]({{ 'assets/img/for_posts/olympic/table_result.png | absolute_url }}){: .align-left} 
 
+
+Now, let's present it by adding an plot line:
+
 ![image-left]({{ 'assets/img/for_posts/olympic/line_chart.jpg' | absolute_url }}){: .align-left} 
 
