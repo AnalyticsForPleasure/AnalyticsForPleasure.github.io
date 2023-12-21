@@ -1,5 +1,5 @@
 ---
-title: "Introduction : Swimming Olympic Event (Swimming Stats : Part 2)"
+title: "Introduction : Swimming Olympic Event (Swimming Stats : Part 1)"
 categories:
   - Sports Analytics
 tags:
