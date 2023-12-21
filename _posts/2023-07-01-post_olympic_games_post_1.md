@@ -1,11 +1,11 @@
 ---
 title: ""
 categories:
-  - Investing in the Tech Industry
+  - Sports Analytics
 tags:
-  - Valuation
-  - Unicorns
-  - IPO's
+  - World Record(=WR )
+  - Swimming 
+  - Olympic Event
   
 ---
 
