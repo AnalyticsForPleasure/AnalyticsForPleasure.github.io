@@ -1,5 +1,5 @@
 ---
-title: "Number of medals for a specific team (Swimming Stats : Part 3)"
+title: "Number of medals for a specific team (Olympic swimming Stats : Part 3)"
 categories:
   - Sports Analytics
 tags:
