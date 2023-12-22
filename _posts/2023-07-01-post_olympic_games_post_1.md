@@ -20,8 +20,6 @@ During this period, we will examine the swimming competitions, which are an inte
 
 
 
-/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/olympic
-
 
 
 ![image-left]({{ 'assets/img/for_posts/olympic/best_and_worst_table.png' | absolute_url }}){: .align-left} 
