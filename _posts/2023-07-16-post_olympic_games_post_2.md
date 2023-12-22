@@ -17,7 +17,7 @@ We would like to explore our next question, which is to determine the number of 
 
 <script src="https://gist.github.com/AnalyticsForPleasure/89c4cfa1ce312e06a79f2c5f59124d0c.js"></script>
 
-![image-left]({{ 'assets/img/for_posts/olympic/table_result.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/olympic/Nations_table_result.png' | absolute_url }}){: .align-left} 
 
 
 Now, let's present it by adding an plot line:
