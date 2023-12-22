@@ -25,6 +25,6 @@ During this period, we will examine the swimming competitions, which are an inte
 ![image-left]({{ 'assets/img/for_posts/olympic/best_and_worst_table.png' | absolute_url }}){: .align-left} 
 
 
-![image-left]({{ 'assets/img/for_posts/olympic/Cleveland_dot_plot_USA.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/olympic/Cleveland_dot_plot_USA.jpg' | absolute_url }}){: .align-left} 
 
 
