@@ -1,5 +1,5 @@
 ---
-title: "Distribution of medals over the years (Swimming Stats : Part 2)"
+title: "Distribution of medals over the years (Olympic swimming Stats : Part 2)"
 categories:
   - Sports Analytics
 tags:
