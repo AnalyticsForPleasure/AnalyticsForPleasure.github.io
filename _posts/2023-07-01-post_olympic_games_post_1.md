@@ -19,7 +19,9 @@ The Summer Olympics' swimming competitions have produced iconic moments that hav
 **Improvement of the team in Olympic swimming events**
 
 
-Embarking on our initial analysis, I am eager to delve into a concise research endeavor aimed at assessing *the improvements made by each of the selected eight teams in men's 200-meter races* across various disciplines, including backstroke, breaststroke, butterfly, individual medley, and freestyle. The participating countries are 'USA,' 'AUS,' 'GBR,' 'JPN,' 'GER,' 'CAN,' 'GDR,' and 'HUN.' The primary objective is to uncover and understand the specific improvements achieved by each team over the years in these distinct swimming strokes. Isn't the prospect of exploring the advancements in backstroke, breaststroke, butterfly, individual medley, and freestyle strokes intriguing?
+Embarking on our initial analysis, I am eager to delve into a concise research endeavor aimed at assessing *the improvements made by each of the selected eight teams in men's 200-meter races* across various disciplines, including backstroke, breaststroke, butterfly, individual medley, and freestyle. The participating countries are 'USA,' 'AUS,' 'GBR,' 'JPN,' 'GER,' 'CAN,' 'GDR,' and 'HUN.' The primary objective is to uncover and understand the specific improvements achieved by each team over the years in these distinct swimming strokes. 
+
+Isn't the prospect of exploring the advancements in backstroke, breaststroke, butterfly, individual medley, and freestyle strokes intriguing?
 
 
 
