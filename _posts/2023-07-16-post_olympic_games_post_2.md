@@ -18,7 +18,7 @@ The expansion of participation from various teams in the swimming events through
 
 We would like to explore our next question, which is to determine the *number of teams/countries that have participated in the swimming events of the Olympic Games over the years*. We are interested in understanding whether there has been a change in the number of teams since the inaugural Olympic Games held in Stockholm in 1912.
 
-So' let's dive into the code I wrote:
+So let's dive into the code I wrote:
 
 <script src="https://gist.github.com/AnalyticsForPleasure/89c4cfa1ce312e06a79f2c5f59124d0c.js"></script>
 
