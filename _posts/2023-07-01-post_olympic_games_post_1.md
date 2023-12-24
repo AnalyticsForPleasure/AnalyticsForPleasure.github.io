@@ -18,7 +18,11 @@ The Summer Olympics' swimming competitions have produced iconic moments that hav
 
 **Improvement of the team in Olympic swimming events**
 
-During this period, we will examine the swimming competitions, which are an integral part of the Olympic program. Within swimming, various categories exist, including Butterfly, Freestyle, Backstroke, Breaststroke, and Individual Medley. Our aim is to delve into the historical progression of these swimming events, spanning from 1912 to 2020. By exploring this extensive timeline, we hope to uncover any advancements or improvements within each category over the years.
+
+The expansion of participation from various teams in the swimming events throughout the *history of the Olympic Games reflects a remarkable growth in the global embrace of aquatic sports*. Over the years, there has been a discernible increase in the number of countries participating in swimming competitions, signaling a broadening interest and recognition of the significance of this discipline on the Olympic stage. This rise in diversity not only showcases the universality of the Games but also amplifies the accessibility and appeal of swimming worldwide. The increasing participation of different teams adds depth and richness to the competition, fostering a sense of unity and shared enthusiasm for the sport across borders. This evolution underscores the dynamic and inclusive spirit of the Olympic Games, emphasizing their role as a platform for nations to come together in the pursuit of sporting excellence and mutual understanding.
+
+
+During this period, we will examine the swimming competitions, which are an integral part of the Olympic program. Within swimming, various categories exist, including **Butterfly, Freestyle, Backstroke, Breaststroke, and Individual Medley**. Our aim is to delve into the historical progression of these swimming events, spanning from 1912 to 2020. By exploring this extensive timeline, we hope to uncover any advancements or improvements within each category over the years.
 
 
 
