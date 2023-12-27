@@ -24,10 +24,7 @@ Embarking on our initial analysis, I am eager to delve into a concise research e
 Isn't the prospect of exploring the advancements in backstroke, breaststroke, butterfly, individual medley, and freestyle strokes intriguing?
 
 
-
-
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/ best_and_worst_table.png' | absolute_url }}){: .align-left} 
 
 
-
-#![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/Cleveland_dot_plot_USA.jpg' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/Cleveland_dot_plot_USA.jpg' | absolute_url }}){: .align-left} 
