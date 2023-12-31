@@ -21,3 +21,9 @@ On the other side, Dots above the horizontal line, which are coloured with other
 
 
 <script src="https://gist.github.com/AnalyticsForPleasure/89c4cfa1ce312e06a79f2c5f59124d0c.js"></script>
+
+
+
+![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_3/dot_plot_with_avg_line_of_USA.jpg'| absolute_url }}){: .align-left} 
+
+
