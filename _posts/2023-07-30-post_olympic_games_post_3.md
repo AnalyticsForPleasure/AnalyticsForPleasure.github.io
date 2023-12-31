@@ -1,5 +1,5 @@
 ---
-title: "The team's medal count over the years. (Olympic swimming Stats : Part 3)"
+title: "The team's cumulative medals across the years (Olympic swimming Stats : Part 3)"
 categories:
   - Sports Analytics
 tags:
