@@ -21,7 +21,7 @@ In the upcoming chart, we present an analysis of job titles in correlation with 
 
 **Analyzing the Relationship Between Job Titles and Educational Requirements**
 
-The heatmap succinctly captures our analysis of the *correlation between job titles and educational requirements*. Job titles align along the y-axis, and educational prerequisites are mapped on the x-axis. Diverse color intensities in each cell highlight the strength of associations, providing a quick overview of relationships. This graphical method facilitates swift understanding of the intricate links between job titles and their educational needs, offering insights into the alignment of skills across roles. Our focus on 8 specific positions in the hi-tech industry, including 'Backend Developer,' 'Front-end Developer,' 'Full Stack Engineer,' 'Software Developer,' 'Software Engineer,' 'Principal Engineer,' 'Director of Data Science,' and 'Chief Data Officer,' out of a total of 126 job titles, aims to streamline examination.
+Our upcoming research aims to examine the correlation between two key variables: *education level* and *job type*. To enhance clarity, I've undertaken a brief categorization of the various job types within the dataset. I've organized these roles into three distinct groups: **R&D, Sales, and Operations**. The correlation between these variables becomes more apparent as the numerical values increase.
 
 <script src="https://gist.github.com/AnalyticsForPleasure/b15b434410ecc078bc0e35a9a6246d4c.js"></script>
 
