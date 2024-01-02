@@ -27,3 +27,7 @@ On the other side, Dots above the horizontal line, which are coloured with other
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_3/dot_plot_with_avg_line_of_USA.jpg'| absolute_url }}){: .align-left} 
 
 
+
+
+
+![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Data_Scientist.jpg' | absolute_url }}){: .align-left}
