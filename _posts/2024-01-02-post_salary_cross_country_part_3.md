@@ -19,10 +19,10 @@ To enhance our analysis, I've incorporated two lines into the plot. The first, a
 
 The intersection of these lines forms distinct squares on the chart, each conveying valuable information:
 
-The upper-left corner denotes the lowest salaries for the youngest workers.
-The upper-right corner showcases the highest salaries for the youngest workers.
-The lower-left corner illustrates the lowest salary range for the oldest workers.
-The lower-right corner reflects the highest salary range for the oldest workers.
+* The upper-left corner denotes the lowest salaries for the youngest workers.
+* The upper-right corner showcases the highest salaries for the youngest workers.
+* The lower-left corner illustrates the lowest salary range for the oldest workers.
+* The lower-right corner reflects the highest salary range for the oldest workers.
 By examining the placement of each job title within these charted distributions, we can discern valuable insights into the salary and age dynamics for different positions.
 
 
