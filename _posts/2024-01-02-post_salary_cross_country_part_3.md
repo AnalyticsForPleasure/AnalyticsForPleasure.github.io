@@ -44,6 +44,6 @@ Moreover, a notable concentration appears in the upper-left corner of the chart,
 
 
 
-After examining two contrasting scenarios, let's now explore the dynamics of the next job role - **"Project Engineer"**. In the chart below, we observe a significant concentration in both the upper-left and lower-right corners. This suggests a strong correlation between the two variables, implying that as workers age, their salaries tend to increase.
+After examining two contrasting scenarios, let's now explore the dynamics of the next job role - **"Project Engineer"**. In the chart below, we observe a significant concentration in both the upper-left and lower-right corners. This suggests a **strong correlation between the two variables**, implying that as workers age, their salaries tend to increase.
 
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Project_Engineer.jpg' | absolute_url }}){: .align-left}
