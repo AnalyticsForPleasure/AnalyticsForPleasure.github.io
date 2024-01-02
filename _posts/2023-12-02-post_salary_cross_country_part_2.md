@@ -17,7 +17,7 @@ The salary distribution across different job groups, spanning Human Resources (H
 In the upcoming chart, we present an analysis of job titles in correlation with salary ranges. Job titles are depicted along the y-axis, while salary ranges are indicated on the x-axis; each dot on the plot represents a particular job title and its associated salary range. This visual presentation offers a rapid and lucid insight into the correlation between diverse job titles and the corresponding salary brackets. The graphical representation enhances the efficiency of comprehending the distribution of salaries across different roles, providing valuable insights into the compensation structure within the organization.
 
 
-![image-left]({{ 'assets/img/for_posts/salary/Salary_distribution_across_positions.jpg' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/salary/question_2/Salary_distribution_across_positions.jpg' | absolute_url }}){: .align-left} 
 
 **Analyzing the Relationship Between Job Titles and Educational Requirements**
 
@@ -26,4 +26,4 @@ Our upcoming research aims to examine the correlation between two key variables:
 <script src="https://gist.github.com/AnalyticsForPleasure/b15b434410ecc078bc0e35a9a6246d4c.js"></script>
 
 
-![image-left]({{ 'assets/img/for_posts/salary/heatmap_chart.jpg' | absolute_url }}){: .align-left}
+![image-left]({{ 'assets/img/for_posts/salary/question_2/heatmap_chart.jpg' | absolute_url }}){: .align-left}
