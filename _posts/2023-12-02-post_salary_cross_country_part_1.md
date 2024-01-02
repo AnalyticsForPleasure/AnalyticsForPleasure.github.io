@@ -14,7 +14,7 @@ Our initial exploration aims to answer the question: **What specific roles do in
 
 <script src="https://gist.github.com/AnalyticsForPleasure/76fdadc85b25ced9629f4d3d85a80ae8.js"></script>
 
-![image-left]({{ '/assets/img/for_posts/salary/gender_comparison.jpg' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/salary/question_1/gender_comparison.jpg' | absolute_url }}){: .align-left} 
 
 The chart results above highlight a notable absolute difference in the number of male and female roles in specific positions, particularly **Data Scientist, Software Engineer Manager, and Project Engineer**. For Data Scientists, the male count is 238, significantly exceeding the female count of 129, resulting in a 46% difference. Similarly, in the case of Software Engineer Managers, there are 203 males compared to 75 females, reflecting a 73% difference. Likewise, for Project Engineers, there are 142 males versus 67 females, indicating a 53% difference. The evident gender distribution disparity across these roles emphasizes the importance of careful consideration and examination within these professional domains.
 
@@ -26,4 +26,5 @@ After identifying a limited selection of the top positions for both males and fe
 
 <script src="https://gist.github.com/AnalyticsForPleasure/28eff3f4fb3b6205e15eec2cd7de8e20.js"></script>
 
-![image-left]({{ '/assets/img/for_posts/salary/gender_comparison_by_salary.jpg' | absolute_url }}){: .align-left} 
+![image-left]({{ '/assets/img/for_posts/salary/question_1/gender_comparison_by_salary.jpg' | absolute_url }}){: .align-left} 
+
