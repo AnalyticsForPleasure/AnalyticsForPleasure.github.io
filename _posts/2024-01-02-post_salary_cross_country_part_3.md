@@ -1,5 +1,5 @@
 ---
-title: "Job Position Salary Distribution (Part 2: Compensation Analytics)"
+title: "Dot Plot Analysis: Salary and Age Dynamics by Job Position (Part 3: Compensation Analytics)"
 
 categories:
   - Economic stats 
