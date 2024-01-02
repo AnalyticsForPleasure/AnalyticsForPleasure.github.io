@@ -23,7 +23,7 @@ Adding two lines enhances our analysis: a vertical line indicates the average ag
 * The lower-left square signifies the lowest salary range for the oldest workers.
 * The lower-right square indicates the highest salary range for the oldest workers.
 
-As we delve into specific job roles, such as Data Scientist, we observe the intersection point representing the average salary (157,000 $) for an average age of 33 years. Notably, there's a high density of workers under 33 earning above the average salary. Additionally, the lower-left corner has a high density, suggesting that salaries don't decline significantly as workers age.
+As we delve into specific job roles, such as *Data Scientist*, we observe the intersection point representing the average salary (157,000 $) for an average age of 33 years. Notably, there's a high density of workers under 33 earning above the average salary. Additionally, the lower-left corner has a high density, suggesting that salaries don't decline significantly as workers age.
 
 
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Data_Scientist.jpg' | absolute_url }}){: .align-left}
