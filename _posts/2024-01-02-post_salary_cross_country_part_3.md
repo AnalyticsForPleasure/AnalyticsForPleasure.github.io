@@ -29,3 +29,8 @@ As we delve into the details, examining the initial chart for the role of a *Dat
 
 
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Data_Scientist.jpg' | absolute_url }}){: .align-left}
+
+
+
+
+![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Sales_Associate.jpg' | absolute_url }}){: .align-left}
