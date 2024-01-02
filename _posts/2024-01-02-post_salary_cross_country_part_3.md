@@ -14,16 +14,16 @@ tags:
 
 
 
-In our upcoming study, we aim to use a dot plot to illustrate how salaries are distributed across various job positions in comparison to the age distribution for each role. The chart below displays salary ranges on the X-axis and age ranges on the Y-axis, specifically tailored to each job.
+In our upcoming study, we aim to explore the distribution of salaries and age ranges for various job positions using a dot plot. The chart illustrates salary ranges on the X-axis and age ranges on the Y-axis, specific to each job.
 
-I've included two lines on the plot for added context: a vertical line indicating the average age for the job and a horizontal line indicating the average salary. The intersection of these lines forms distinct squares, each conveying specific insights:
+Adding two lines enhances our analysis: a vertical line indicates the average age for the job, while a horizontal line signifies the average salary. The intersection of these lines forms distinct squares, each revealing unique insights:
 
-* The upper-left square shows the lowest salaries for the youngest workers.
+* The upper-left square depicts the lowest salaries for the youngest workers.
 * The upper-right square highlights the highest salaries for the youngest workers.
-* The lower-left square illustrates the lowest salary range for the oldest workers.
-* The lower-right square reveals the highest salary range for the oldest workers.
-  
-By examining the placement of each job title within these charted distributions, we can gain valuable insights into salary and age dynamics for different positions.
+* The lower-left square signifies the lowest salary range for the oldest workers.
+* The lower-right square indicates the highest salary range for the oldest workers.
+
+As we delve into specific job roles, such as Data Scientist, we observe the intersection point representing the average salary (157,000 $) for an average age of 33 years. Notably, there's a high density of workers under 33 earning above the average salary. Additionally, the lower-left corner has a high density, suggesting that salaries don't decline significantly as workers age.
 
 
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Data_Scientist.jpg' | absolute_url }}){: .align-left}
