@@ -23,6 +23,7 @@ The intersection of these lines forms distinct squares on the chart, each convey
 * The upper-right corner showcases the highest salaries for the youngest workers.
 * The lower-left corner illustrates the lowest salary range for the oldest workers.
 * The lower-right corner reflects the highest salary range for the oldest workers.
+* 
 By examining the placement of each job title within these charted distributions, we can discern valuable insights into the salary and age dynamics for different positions.
 
 
