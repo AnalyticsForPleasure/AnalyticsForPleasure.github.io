@@ -32,5 +32,8 @@ As we delve into the details, examining the initial chart for the role of a *Dat
 
 
 
+Now, let's shift our focus to a distinct perspective by examining the output chart below for the role of a Sales Associate. A narrative different from that of a Data Scientist unfolds. In contrast to the Data Scientist role, as workers progress into their elder years, the most senior worker in the Sales Associate role is only 32 years old. This stands in contrast to the Data Scientist role, where we observed an average age of 33 years and a distribution spanning various age groups.
+
+Moreover, a notable concentration appears in the upper-left corner of the chart, indicating a prevalence of exceptionally young workers earning salaries ranging from $25,000 to $30,000. This provides a unique insight into the age and salary dynamics specific to Sales Associate positions, setting it apart from the patterns observed in the Data Scientist role.
 
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Sales_Associate.jpg' | absolute_url }}){: .align-left}
