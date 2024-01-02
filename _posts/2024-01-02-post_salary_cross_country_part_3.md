@@ -22,7 +22,7 @@ I've included two lines on the plot for added context: a vertical line indicatin
 * The upper-right square highlights the highest salaries for the youngest workers.
 * The lower-left square illustrates the lowest salary range for the oldest workers.
 * The lower-right square reveals the highest salary range for the oldest workers.
-* 
+  
 By examining the placement of each job title within these charted distributions, we can gain valuable insights into salary and age dynamics for different positions.
 
 
