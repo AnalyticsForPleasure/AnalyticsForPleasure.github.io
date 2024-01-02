@@ -18,10 +18,10 @@ In our upcoming research, we aim to explore the distribution of salaries for var
 
 To enhance our analysis, two lines have been incorporated: a vertical line indicating the average age for a particular job and a horizontal line indicating the average salary. The points where these lines intersect create distinct squares, each revealing unique insights:
 
-> The upper-left square shows the lowest salaries for the youngest workers.
-> The upper-right square highlights the highest salaries for the youngest workers.
-> The lower-left square signifies the lowest salary range for the oldest workers.
-> The lower-right square signifies the highest salary range for the oldest workers.
+* The upper-left square shows the lowest salaries for the youngest workers.
+*  The upper-right square highlights the highest salaries for the youngest workers.
+* The lower-left square signifies the lowest salary range for the oldest workers.
+* The lower-right square signifies the highest salary range for the oldest workers.
 
 
 
