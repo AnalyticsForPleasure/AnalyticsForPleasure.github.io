@@ -37,4 +37,7 @@ Now, let's shift our focus to a distinct perspective by examining the output cha
 Moreover, a notable concentration appears in the upper-left corner of the chart, indicating a prevalence of exceptionally young workers earning salaries ranging from $25,000 to $30,000. This provides a unique insight into the age and salary dynamics specific to Sales Associate positions, setting it apart from the patterns observed in the Data Scientist role.
 
 
+
+*Notice! The average salary we are talking here is 31,000$ for a average age of 27 years old worker!*
+
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Sales_Associate.jpg' | absolute_url }}){: .align-left}
