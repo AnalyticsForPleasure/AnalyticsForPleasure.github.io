@@ -18,10 +18,11 @@ In our upcoming study, we aim to use a dot plot to illustrate how salaries are d
 
 I've included two lines on the plot for added context: a vertical line indicating the average age for the job and a horizontal line indicating the average salary. The intersection of these lines forms distinct squares, each conveying specific insights:
 
-The upper-left square shows the lowest salaries for the youngest workers.
-The upper-right square highlights the highest salaries for the youngest workers.
-The lower-left square illustrates the lowest salary range for the oldest workers.
-The lower-right square reveals the highest salary range for the oldest workers.
+* The upper-left square shows the lowest salaries for the youngest workers.
+* The upper-right square highlights the highest salaries for the youngest workers.
+* The lower-left square illustrates the lowest salary range for the oldest workers.
+* The lower-right square reveals the highest salary range for the oldest workers.
+* 
 By examining the placement of each job title within these charted distributions, we can gain valuable insights into salary and age dynamics for different positions.
 
 
