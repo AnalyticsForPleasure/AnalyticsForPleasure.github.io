@@ -50,7 +50,7 @@ After examining two contrasting scenarios, let's now explore the dynamics of the
 
 
 
-I would like to explore the latest research focusing on the role of "Software Engineer." Upon examining the chart, it becomes evident that there is a substantial concentration of data points. Specifically, there are 807 individuals identified as Software Engineers, representing a significant workforce in this role. This figure surpasses the number of workers in the "Data Scientist" category by 37%.
+I would like to explore the latest research focusing on the role of **"Software Engineer."** Upon examining the chart, it becomes evident that there is a substantial concentration of data points. Specifically, there are 807 individuals identified as Software Engineers, representing a significant workforce in this role. This figure surpasses the number of workers in the "Data Scientist" category by 37%.
 
 Analyzing the distribution across the age spectrum, it is notable that Software Engineers encompass a diverse range. There are individuals under the age of 25 working in this role, and conversely, workers in their late forties and fifties still engaged in Software Engineering. The chart also illustrates a wide salary range spanning from $40,000 to $200,000.
 
