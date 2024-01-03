@@ -50,11 +50,12 @@ After examining two contrasting scenarios, let's now explore the dynamics of the
 
 
 
-I would like to explore the latest research focusing on the role of **"Software Engineer."** Upon examining the chart, it becomes evident that there is a substantial concentration of data points. Specifically, there are 807 individuals identified as Software Engineers, representing a significant workforce in this role. This figure surpasses the number of workers in the "Data Scientist" category by 37%.
 
-Analyzing the distribution across the age spectrum, it is notable that Software Engineers encompass a diverse range. There are individuals under the age of 25 working in this role, and conversely, workers in their late forties and fifties still engaged in Software Engineering. The chart also illustrates a wide salary range spanning from $40,000 to $200,000.
+I would like to explore the latest research focusing on the role of a **"Software Engineer."** As we examine the corresponding chart, it becomes evident that there is a substantial concentration of data points. Specifically, there are 807 individuals classified as Software Engineers, representing a significant portion of the workforce. This figure surpasses the number of workers identified as *"Data Scientists"* by 37%.
 
-These extensive variations in both age and salary contribute to an average salary of $115,000, particularly for young, ambitious individuals approaching their thirties—the average age for a Software Engineer.
+Upon closer inspection of the chart, it becomes apparent that the data points are distributed across various age groups. Notably, there are individuals below the age of 25 who are employed as Software Engineers, alongside workers in their late forties and fifties who continue to work in the same role. The salary distribution is also noteworthy, ranging from $40,000 to $200,000.
+
+The intersection of these two broad ranges — age and salary — yields an average salary of $115,000 for a Software Engineer, particularly for those in their early thirties, which is the average age for individuals in this profession.
 
 
 ![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Software_Engineer.jpg' | absolute_url }}){: .align-left}
