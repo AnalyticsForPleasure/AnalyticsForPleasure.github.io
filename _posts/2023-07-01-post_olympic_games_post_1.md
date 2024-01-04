@@ -29,3 +29,7 @@ Isn't the prospect of exploring the advancements in backstroke, breaststroke, bu
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/Cleveland_dot_plot_USA.jpg' | absolute_url }}){: .align-left} 
 
 
+gradient_bar_plot_Men.jpg
+
+
+![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Men.jpg' | absolute_url }}){: .align-left} 
