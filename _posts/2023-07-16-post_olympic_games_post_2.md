@@ -30,7 +30,4 @@ Now, let's present it by adding an plot line:
 ![image-left]({{ 'assets/img/for_posts/olympic/line_chart.jpg' | absolute_url }}){: .align-left} 
 
 
-![image-left]({{ 'assets/img/for_posts/olympic/line_chart.jpg' | absolute_url }}){: .align-left} 
-
-Cleveland_dot_plot_USA.jpg
 

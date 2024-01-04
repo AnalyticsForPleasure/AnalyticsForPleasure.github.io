@@ -29,5 +29,3 @@ On the other side, Dots above the horizontal line, which are coloured with other
 
 
 
-
-![image-left]({{ 'assets/img/for_posts/salary/question_6/scatter_avg_chart_Data_Scientist.jpg' | absolute_url }}){: .align-left}
