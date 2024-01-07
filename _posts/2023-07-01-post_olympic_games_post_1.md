@@ -36,9 +36,12 @@ In the history of the Olympic swimming event, which commenced in 1912, numerous 
 
 While examining the output charts, it becomes evident that as we move towards the right side of the bars, the number of elite swimmers decreases progressively. This reduction is attributed to the challenges associated with consistently achieving bronze, silver, and gold medals throughout a swimmer's career. *It is noteworthy that only a limited number of swimmers have managed to secure 5 medals or more.*
 
+
+
+
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Men.jpg' | absolute_url }}){: .align-left} 
 
 
-
+The chart depicted below highlights **Katie Ledecky** as the most accomplished female swimmer, securing an impressive total of 7 medals. Remarkably, she stands alone as the sole female athlete in swimming events to achieve this feat. Ledecky's journey commenced in her international debut at the 2012 London Olympic Games, where, at the age of 15, she unexpectedly clinched the gold medal in the women's 800-meter freestyle. Fast-forwarding four years to the Rio de Janeiro Olympic Games, she departed as the most decorated female athlete of the 2016 event, boasting four gold medals, one silver medal, and two world records. The 2020 Olympic Games witnessed Ledecky further solidify her status as the most decorated U.S. female athlete, and she became the first American female swimmer to secure an individual event victory in three consecutive Olympiads.
 
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Women.jpg' | absolute_url }}){: .align-left} 
