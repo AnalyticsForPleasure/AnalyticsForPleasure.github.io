@@ -34,7 +34,7 @@ Isn't the prospect of exploring the advancements in backstroke, breaststroke, bu
 
 In the history of the Olympic swimming event, which commenced in 1912, numerous swimmers have achieved success by earning bronze, silver, and gold medals. Our upcoming research focuses on identifying elite swimmers **who have demonstrated exceptional performance by winning more than two medals** throughout their participation in the Olympic swimming games. To achieve this, we have divided the mission into two parts: one for *Men* and another for *Women*. The results are visualized through bar charts to provide a clear illustration of the accomplished swimmers in each category.
 
-While examining the output charts, it becomes evident that as we move towards the right side of the bars, the number of elite swimmers decreases progressively. This reduction is attributed to the challenges associated with consistently achieving bronze, silver, and gold medals throughout a swimmer's career. It is noteworthy that only a limited number of swimmers have managed to secure 5 medals or more.
+While examining the output charts, it becomes evident that as we move towards the right side of the bars, the number of elite swimmers decreases progressively. This reduction is attributed to the challenges associated with consistently achieving bronze, silver, and gold medals throughout a swimmer's career. *It is noteworthy that only a limited number of swimmers have managed to secure 5 medals or more.*
 
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Men.jpg' | absolute_url }}){: .align-left} 
 
