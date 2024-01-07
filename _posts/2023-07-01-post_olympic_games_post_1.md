@@ -36,6 +36,8 @@ In the history of the Olympic swimming event, which commenced in 1912, numerous 
 
 
 
+While examining the output charts, it becomes evident that as we move towards the right side of the bars, the number of elite swimmers decreases progressively. This reduction is attributed to the challenges associated with consistently achieving bronze, silver, and gold medals throughout a swimmer's career. It is noteworthy that only a limited number of swimmers have managed to secure 5 medals or more.
+
 ![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Men.jpg' | absolute_url }}){: .align-left} 
 
 
