@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Today, I plan to analyze a dataset obtained from the Kaggle website, titled "Israel Prices for Basic Items, 1983-2022" (link provided). In my forthcoming post, I will delve into a thorough analysis of this dataset.
+Today, I plan to analyze a dataset obtained from the Kaggle website, titled "**Israel Prices for Basic Items, 1983-2022**" (link provided - ). In my forthcoming post, I will delve into a thorough analysis of this dataset.
 
 Comprising 144 columns, each column represents the price of a specific food item. Additionally, the dataset consists of 480 rows, with each row reflecting the monthly prices for all the items.
 
