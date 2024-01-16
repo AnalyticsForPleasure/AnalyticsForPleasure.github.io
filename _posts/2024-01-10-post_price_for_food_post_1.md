@@ -32,6 +32,8 @@ In the upcoming research, my aim is to examine whether there has been an increas
 
 This analysis is intended to reveal variations in prices within the meat, chicken, and fish section in Israel.
 
+<script src="https://gist.github.com/AnalyticsForPleasure/64344e99e77464c2183d5629069b709e.js"></script>
+
 Here are the result I got:
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_meat_fish_and_chicken1.png' | absolute_url }}){: .align-left} 
