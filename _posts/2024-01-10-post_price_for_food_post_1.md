@@ -37,7 +37,7 @@ Here are the result I got:
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_meat_fish_and_chicken1.png' | absolute_url }}){: .align-left} 
 
 
-
+As noted previously, a substantial increase has been observed in the prices of most items. Now, let's delve into the dynamics within the vegetables and fruits category. It remains to be seen whether their prices have taken a different direction, or if they have followed a similar trajectory with an upward trend
 
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_vegetable_and_fruits_1.png' | absolute_url }}){: .align-left} 
