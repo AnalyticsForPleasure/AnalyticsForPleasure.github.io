@@ -26,3 +26,16 @@ Throughout the last three decades in Israel, there has been a noticeable rise in
 
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_1/Evolution_of_the_food_prices1.png' | absolute_url }}){: .align-left} 
+
+
+
+
+
+
+![image-left]({{ 'assets/img/for_posts/food_prices/question_1/teb_years_price_trends_in_meat_fish_and_chicken.png' | absolute_url }}){: .align-left} 
+
+
+
+
+
+![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_vegetable_and_fruits.png' | absolute_url }}){: .align-left} 
