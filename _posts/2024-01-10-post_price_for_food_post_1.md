@@ -28,9 +28,9 @@ Throughout the last three decades in Israel, there has been a noticeable rise in
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_1/Evolution_of_the_food_prices1.png' | absolute_url }}){: .align-left} 
 
 
-In the upcoming research, I aim to ascertain whether there has been an increase or decrease in the prices of meat, chicken, and fish over a 10-year period, specifically between 2010 and 2020. To achieve this, I plan to conduct two separate measurements within each 5-year interval, analyzing the price changes from 2010 to 2015 and from 2015 to 2020.
+In the upcoming research, my aim is to examine whether there has been an increase or decrease in the prices of meat, chicken, and fish over the span of 10 years, from 2010 to 2020. I plan to conduct two separate analyses, each covering a 5-year interval—specifically, from 2010 to 2015 and from 2015 to 2020.
 
-This analysis aims to discern variations in the pricing trends of the meat, chicken, and fish categories in Israel.
+This analysis is intended to reveal variations in prices within the meat, chicken, and fish section in Israel.
 
 Here are the result I got:
 
