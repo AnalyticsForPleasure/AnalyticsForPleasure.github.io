@@ -38,4 +38,4 @@ Throughout the last three decades in Israel, there has been a noticeable rise in
 
 
 
-![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_vegetable_and_fruits.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_vegetable_and_fruits_1.png' | absolute_url }}){: .align-left} 
