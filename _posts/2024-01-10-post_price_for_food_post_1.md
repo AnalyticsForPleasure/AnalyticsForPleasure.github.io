@@ -36,7 +36,7 @@ This analysis is intended to reveal variations in prices within the meat, chicke
 
 Here are the result I got:
 
-![image-left]({{ 'assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_meat_fish_and_chicken1.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/food_prices/question_1/Ten_Year_Price_Trends_in_Meat_Fish_and_Chicken.png' | absolute_url }}){: .align-left} 
 
 As evident from the upcoming results, there was a significant double-digit increase in the prices of *Nile princess fillet fish (frozen)* from **2010 to 2015**, amounting to **43.92%**. Additionally, various meat items experienced notable spikes during this period, including *'Fresh beef for steak - shoulder'* with a surge of **28.74%**, and *'Frozen beef - ribs'* with an increase of **20.06%**
 
