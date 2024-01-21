@@ -46,16 +46,4 @@ As noted previously, a substantial increase has been observed in the prices of m
 
 Let's see the result's we got here:
 
-![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_2.png' | absolute_url }}){: .align-left} 
-
-
-
-
-
-
-
-
-
-
-
-![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_3.png' | absolute_url }}){: .align-left} 
+![image-left]({{ 'assets/img/for_posts/food_prices/question_1/Ten_Year_Price_Trends_in_Vegetables_and_Fruits.png' | absolute_url }}){: .align-left} 
