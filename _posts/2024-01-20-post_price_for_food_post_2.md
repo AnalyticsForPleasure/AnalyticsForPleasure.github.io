@@ -44,7 +44,7 @@ On the other hand, when examining which dairy product was less impacted by price
 
 Let's now shift our focus to the next chart, which takes us in the opposite direction. Here, I aim to illustrate the decline percentage for the same dairy products over the same period. For each year, a red rectangle has been incorporated, denoting the lowest corresponding percentage among the six products for that specific year.
 
-Moving to the left side chart, under the title *"Which Product Witnessed the Most Significant Decrease in Price Growth Each Year?"*, we can draw several conclusions and insights. Firstly, a notable observation is the substantial percentage decline of **"Soft white cheese (250 grams)"** in 2014, experiencing a significant **drop of 19.3% during that year**.
+Moving to the right side chart, under the title *"Which Product Witnessed the Most Significant Decrease in Price Growth Each Year?"*, we can draw several conclusions and insights. Firstly, a notable observation is the substantial percentage decline of **"Soft white cheese (250 grams)"** in 2014, experiencing a significant **drop of 19.3% during that year**.
 
 Another noteworthy point is that between 2014 and 2017, the price of the same **"Soft white cheese (250 grams)"** product resumed its increase after a substantial decline.
 
