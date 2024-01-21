@@ -30,6 +30,5 @@ On the other side, Dots above the horizontal line, which are coloured with other
 
 
 
-![image-left]({{ 'assets/img/for_posts/olympic/olympic_post_3/heatmap_with_cow_2.png'| absolute_url }}){: .align-left}
 
 
