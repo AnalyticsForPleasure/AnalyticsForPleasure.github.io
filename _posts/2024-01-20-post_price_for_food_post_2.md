@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the Food Price Basket Trends Over Three Decades in Israel"
+title: "Analyzing the Price Trends of Dairy Products in Israel Across a 15-Year Span"
 
 categories:
   - Economic stats 
