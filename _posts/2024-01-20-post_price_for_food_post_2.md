@@ -38,6 +38,6 @@ Hence, in the chart presented below, I have examined these dairy products and pl
 
 
 
-In the chart provided below, our aim was to identify the dairy product that exhibited a decrease in prices each year. As a result, I've highlighted this trend with a red rectangle.
+In the chart below, our objective was to identify the dairy product that experienced the most significant price decrease each year. Consequently, I have marked it with a red rectangle for clarity.
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_3.png' | absolute_url }}){: .align-left} 
