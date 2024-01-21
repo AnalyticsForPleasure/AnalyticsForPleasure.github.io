@@ -19,7 +19,7 @@ The selected dairy products under examination are:
 
 * *Hard yellow cheese from cow's milk (100 g)*
 * *Leben (200 ml)*
-* *Cottage cheese' (250 grams)*
+* *Cottage cheese (250 grams)*
 * *Soft white cheese (250 grams)*
 * *Margarine for spreading in a cup (250 grams)*
 * *Natural yogurt in a plastic container (200 ml)*
