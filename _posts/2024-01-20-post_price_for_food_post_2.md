@@ -37,7 +37,7 @@ Additionally, for each contiguous year, a green rectangle has been added, indica
 
 The **chart on the right**, under the title *"Which Product Experienced the Highest Price Growth Each Year?"* offers a clearer depiction of the dairy product with the most significant price increase in a given year. For instance, it answers questions like, *"Which dairy product had the highest price increase over the entire period?"* The answer, as illustrated, is **"Margarine (250 grams)"**. Similarly, if one wonders which dairy product held the title for the most consecutive years, the answer is also **"Margarine (250 grams)"**, observed between the years 2014 and 2017.
 
-On the other hand, if we consider which dairy product didn’t suffer too much from price increases during this 14-year period compared to the others, the answer would be “Leben (200 ml).”
+On the other hand, if we consider which dairy product didn’t suffer too much from price increases during this 14-year period compared to the others, the answer would be **“Leben (200 ml)”**
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_2.png' | absolute_url }}){: .align-left} 
 
