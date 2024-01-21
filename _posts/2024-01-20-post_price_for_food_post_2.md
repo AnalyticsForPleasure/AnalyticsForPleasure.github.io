@@ -28,8 +28,7 @@ The selected dairy products under examination are:
 
 
 
-
-
+Hence, in the chart presented below, I have examined these dairy products and plotted their performance on a scale from the year 2008 to 2022. The chart displays, in each row matrix, the product that experienced the most significant price increase (highlighted by the green rectangle, indicating the corresponding percentage).
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_2.png' | absolute_url }}){: .align-left} 
 
