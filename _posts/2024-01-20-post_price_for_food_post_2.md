@@ -35,7 +35,7 @@ Hence, in the chart presented below, I have examined these dairy products and pl
 
 
 
-
+In the chart provided below, our aim was to identify the dairy product that exhibited a decrease in prices each year. As a result, I've highlighted this trend with a red rectangle.
 
 
 
