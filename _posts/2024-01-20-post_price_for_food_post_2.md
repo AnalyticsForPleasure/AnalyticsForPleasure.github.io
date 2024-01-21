@@ -17,12 +17,12 @@ In the initial post, the focus was on **vegetables, fruits, meat, fish, and chic
 The selected dairy products under examination are: 
 
 
-* Hard yellow cheese from cow's milk (100 g)
-* Leben (200 ml)
-* Cottage cheese' (250 grams)
-* Soft white cheese (250 grams)
-* Margarine for spreading in a cup (250 grams)
-* Natural yogurt in a plastic container (200 ml)
+* *Hard yellow cheese from cow's milk (100 g)*
+* *Leben (200 ml)*
+* *Cottage cheese' (250 grams)*
+* *Soft white cheese (250 grams)*
+* *Margarine for spreading in a cup (250 grams)*
+* *Natural yogurt in a plastic container (200 ml)*
 
 
 To analyze this, I wrote a code to obtain the output result. Here is the code I implemented:
