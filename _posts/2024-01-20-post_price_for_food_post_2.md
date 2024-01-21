@@ -1,5 +1,5 @@
 ---
-title: "Analyzing the Price Trends of Dairy Products in Israel Across"
+title: "Analyzing the Price Trends of Dairy Products in Israel"
 
 categories:
   - Economic stats 
