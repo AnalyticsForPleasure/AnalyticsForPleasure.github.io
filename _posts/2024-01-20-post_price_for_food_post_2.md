@@ -54,4 +54,3 @@ Delving deeper into the chart, focusing on **"Cottage cheese (250 grams)"** a di
 
 
 
-[here](https://en.wikipedia.org/wiki/Cottage_cheese_boycott)
