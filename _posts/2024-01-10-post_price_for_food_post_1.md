@@ -16,11 +16,11 @@ Today, I plan to analyze a dataset obtained from the Kaggle website, titled "**I
 Comprising 144 columns, each column represents the price of a specific food item. Additionally, the dataset consists of 480 rows, with each row reflecting the monthly prices for all the items.
 
 Throughout the last three decades in Israel, there has been a noticeable rise in the prices of fundamental food items, including:
-* **Chicken Breast (1 kg)**
-* **Instant coffee (200 grams)**
-* **lemons (1 kg)**
-* **Hard yellow cheese from cow's milk (100 g)**
-* **Frozen beef - ribs (1 kg)**
+* *Chicken Breast (1 kg)*
+* *Instant coffee (200 grams)*
+* *lemons (1 kg)*
+* *Hard yellow cheese from cow's milk (100 g)*
+* *Frozen beef - ribs (1 kg)*
 
  Consequently, I have undertaken a detailed examination of these specific items to delve deeper into the extent of the price increases over the years.
 
