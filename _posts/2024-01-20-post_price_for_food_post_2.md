@@ -31,12 +31,11 @@ To analyze this, I wrote a code to obtain the output result. Here is the code I 
 
 
 
+Therefore, in the chart displayed below, I have analyzed the performance of these dairy products, plotting the data on a scale from the year 2009 to 2022. The **chart on the left**, titled "The Annual Variance of Dairy Product Prices over a 15-Year Period," presents a 14*6 matrix. Each matrix cell provides information on the percentage increase in price between the current price of a specific dairy product and the price of the same dairy product in the previous year.
 
-Thus, in the chart displayed below, I have scrutinized the performance of these dairy products, representing the data on a scale spanning from 2009 to 2022. The left chart, titled "The annual variance of Dairy Product Prices over a 15-year period," comprises a 14*6 matrix. Each cell within this matrix provides information on the percentage increase in price from the current year to the preceding year for a specific dairy product.
+Additionally, for each contiguous year, a green rectangle has been added, indicating the highest percentage among the 6 products for that specific year.
 
-Additionally, for each contiguous year, I have included a green rectangle, pinpointing the dairy product with the highest percentage increase among the six products for that particular year.
-
-On the left side chart, titled "Which product experienced the highest price growth each year?," a clearer depiction emerges regarding the dairy product with the most significant price change each year. For instance, it reveals which dairy product experienced the highest price increase over the entire period—highlighted by "Margarine (250 grams)." It also indicates which dairy product earned the title for the most consecutive years, with the answer being "Margarine (250 grams)" between 2014 and 2017.
+The **chart on the right**, under the title "Which Product Experienced the Highest Price Growth Each Year?" offers a clearer depiction of the dairy product with the most significant price increase in a given year. For instance, it answers questions like, "Which dairy product had the highest price increase over the entire period?" The answer, as illustrated, is "Margarine (250 grams)." Similarly, if one wonders which dairy product held the title for the most consecutive years, the answer is also "Margarine (250 grams)," observed between the years 2014 and 2017.
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_2.png' | absolute_url }}){: .align-left} 
 
