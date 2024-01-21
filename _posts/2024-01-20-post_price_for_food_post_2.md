@@ -39,5 +39,4 @@ Hence, in the chart presented below, I have examined these dairy products and pl
 
 
 
-
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_3.png' | absolute_url }}){: .align-left} 
