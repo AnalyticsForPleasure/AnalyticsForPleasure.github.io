@@ -31,7 +31,12 @@ To analyze this, I wrote a code to obtain the output result. Here is the code I 
 
 
 
-Hence, in the chart presented below, I have examined these dairy products and plotted their performance on a scale from the year 2009 to 2022. The chart displays, in each row matrix, the product that experienced the most significant price increase (highlighted by the green rectangle, indicating the corresponding percentage).
+
+Thus, in the chart displayed below, I have scrutinized the performance of these dairy products, representing the data on a scale spanning from 2009 to 2022. The left chart, titled "The annual variance of Dairy Product Prices over a 15-year period," comprises a 14*6 matrix. Each cell within this matrix provides information on the percentage increase in price from the current year to the preceding year for a specific dairy product.
+
+Additionally, for each contiguous year, I have included a green rectangle, pinpointing the dairy product with the highest percentage increase among the six products for that particular year.
+
+On the left side chart, titled "Which product experienced the highest price growth each year?," a clearer depiction emerges regarding the dairy product with the most significant price change each year. For instance, it reveals which dairy product experienced the highest price increase over the entire period—highlighted by "Margarine (250 grams)." It also indicates which dairy product earned the title for the most consecutive years, with the answer being "Margarine (250 grams)" between 2014 and 2017.
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_2.png' | absolute_url }}){: .align-left} 
 
