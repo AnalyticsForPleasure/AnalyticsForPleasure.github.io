@@ -25,10 +25,10 @@ The selected dairy products under examination are:
 * Natural yogurt in a plastic container (200 ml)
 
 
-
 To analyze this, I wrote a code to obtain the output result. Here is the code I implemented:
 
 <script src="https://gist.github.com/AnalyticsForPleasure/9b5b96b93e76705a6979dcfed2c3ae2f.js"></script>
+
 
 
 Hence, in the chart presented below, I have examined these dairy products and plotted their performance on a scale from the year 2009 to 2022. The chart displays, in each row matrix, the product that experienced the most significant price increase (highlighted by the green rectangle, indicating the corresponding percentage).
