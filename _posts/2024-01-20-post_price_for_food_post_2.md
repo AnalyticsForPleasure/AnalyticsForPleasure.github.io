@@ -44,10 +44,10 @@ On the other hand, when examining which dairy product was less impacted by price
 
 Let's now shift our focus to the next chart, which takes us in the opposite direction. Here, I aim to illustrate the decline percentage for the same dairy products over the same period. For each year, a red rectangle has been incorporated, denoting the lowest corresponding percentage among the six products for that specific year.
 
-Moving to the left side chart, under the title "Which Product Witnessed the Most Significant Decrease in Price Growth Each Year?," we can draw several conclusions and insights. Firstly, a notable observation is the substantial percentage decline of "Soft white cheese (250 grams)" in 2014, experiencing a significant drop of 19.3% during that year.
+Moving to the left side chart, under the title *"Which Product Witnessed the Most Significant Decrease in Price Growth Each Year?"*, we can draw several conclusions and insights. Firstly, a notable observation is the substantial percentage decline of **"Soft white cheese (250 grams)"** in 2014, experiencing a significant **drop of 19.3% during that year**.
 
-Another noteworthy point is that between 2014 and 2017, the price of the same "Soft white cheese (250 grams)" product resumed its increase after a substantial decline.
+Another noteworthy point is that between 2014 and 2017, the price of the same **"Soft white cheese (250 grams)"** product resumed its increase after a substantial decline.
 
-Delving deeper into the chart, focusing on "Cottage cheese (250 grams)," a distinct change in trend is apparent between 2011 and 2012. During these years, there is a noticeable decline of -4.5% in 2011 and -6.8% in 2012. Deciphering this mystery, I found the reason for this trend shift — the "Cottage cheese boycott," which sparked a public debate on the high cost of living in Israel.
+Delving deeper into the chart, focusing on **"Cottage cheese (250 grams)"** a distinct change in trend is apparent between 2011 and 2012. During these years, there is a noticeable **decline of -4.5% in 2011 and -6.8% in 2012**. Deciphering this mystery, I found the reason for this trend shift — the "Cottage cheese boycott," which sparked a public debate on the high cost of living in Israel.
 
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_3.png' | absolute_url }}){: .align-left} 
