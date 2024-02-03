@@ -10,6 +10,7 @@ on:
       - LICENSE
 
   # Allows you to run this workflow manually from the Actions tab
+  # try
   workflow_dispatch:
 
 permissions:
