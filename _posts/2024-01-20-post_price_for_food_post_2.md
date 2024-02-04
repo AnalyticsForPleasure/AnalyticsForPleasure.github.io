@@ -10,7 +10,7 @@ tags:
 
 
 
-Todayyyyyyyyyyyyyyyyyyy, our analysis extends to Kaggle-derived data, providing insights into the pricing trends of food items in Israel spanning several decades.
+Today, our analysis extends to Kaggle-derived data, providing insights into the pricing trends of food items in Israel spanning several decades.
 
 In the initial post, the focus was on **vegetables, fruits, meat, fish, and chicken**, revealing noteworthy price jumps every five years. Now, I aim to explore a different category of products—specifically, the pricing dynamics of **dairy products** in Israel. Consequently, I've chosen six items to investigate, ordered based on their price differences over a 15-year period.
 
