@@ -53,4 +53,3 @@ Delving deeper into the chart, focusing on **"Cottage cheese (250 grams)"** a di
 ![image-left]({{ 'assets/img/for_posts/food_prices/question_3/heatmap_with_cow_3.png' | absolute_url }}){: .align-left} 
 
 
-
