@@ -19,7 +19,7 @@ This dataset offers insights into school shooting incidents spanning the past fi
 
 Here’s a quick preview of the Tableau output dashboard I’ve created:
 
-/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/school_shooting/Final_Dashboard.png
+![image-left]({{ 'assets/img/for_posts/school_shooting/Final_Dashboard.png' | absolute_url }}){: .align-left} 
 
 
 This data source comprises four datasets that we will explore:
@@ -37,24 +37,21 @@ The initial chart I opted to include utilizes data extracted from the "Incident"
 Observing the chart, we can discern that each weekday is represented by a prominent bubble, indicating a specific incident. The size of each bubble, grouped by weekday, correlates with the number of victims involved on that particular day.
 Moreover, it is evident that the majority of school shooting incidents occur on Fridays and Tuesdays over the past 30 years. Conversely, the occurrence of incidents is notably lower on Saturdays and Sundays, which aligns with the absence of school days.
 
-/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/school_shooting/chart_1.png
-
+![image-left]({{ 'assets/img/for_posts/school_shooting/chart_1.png' | absolute_url }}){: .align-left} 
 
 The second area of research I’d like to explore pertains to the frequency of incidents that have occurred over the past three decades, spanning from 1993 to 2023.
 As shown in the chart below, a notable shift is observed, particularly since 2010. In 2010, the number of school shooting incidents in the US amounted to a mere 15 occurrences. Subsequently, there has been a stark uptick in the incidence of such incidents. By 2022, this figure skyrocketed to its peak at 265 incidents, marking a surge of over tenfold in cases over the preceding decade.
 
-/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/school_shooting/chart_2.png
+![image-left]({{ '/assets/img/for_posts/school_shooting/chart_2.png' | absolute_url }}){: .align-left} 
 
 
 Let's dive a bit deeper into the data and explore the number of victims each month over the years.
 Looking at the chart on our dashboard, it's clear that February and May have consistently had the highest number of victims from school shootings. Over the past 50 years, February saw 73 victims, while May had 80 victims.
 
-/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/school_shooting/chart_3.png
-
-
-
+![image-left]({{ '/assets/img/for_posts/school_shooting/chart_3.png' | absolute_url }}){: .align-left} 
 
 The last thing I’m curious about is the age distribution of the victims. I’m wondering which age group has seen the most victims over the past 50 years.
 Taking a closer look at the chart below, it’s evident that the majority of victims fall within the age range of 15 to 18 years old.
 
-/home/shay_diy/AnalyticsForPleasure.github.io/assets/img/for_posts/school_shooting/chart_4.png
+![image-left]({{ '/assets/img/for_posts/school_shooting/chart_4.png' | absolute_url }}){: .align-left} 
+
