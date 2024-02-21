@@ -1,5 +1,5 @@
 ---
-title: "Analyzing School Shooting Data with Tableau"
+title: "School Shooting Analysis: Tableau Edition (Part 1 of 3)"
 
 categories:
 - Tableau  
@@ -10,7 +10,7 @@ tags:
 - Viz
 ---
 
-Today, I'm taking a brief detour from my usual Python-centric writing to delve into data visualization with Tableau software. To kick off this exploration, I've selected an intriguing *dataset from Kaggle titled 'Shooting School'*.
+Today, I'm taking a brief detour from my usual Python-centric writing to delve into **data visualization with Tableau software**. To kick off this exploration, I've selected an intriguing *dataset from Kaggle titled 'Shooting School'*.
 
 This dataset originates from the K-12 **School Shooting Database** (K-12 SSDB), which meticulously documents instances involving the brandishing, firing, or impact of bullets on school property, irrespective of the number of victims, time of occurrence, or day of the week. After downloading the data, I conducted basic Excel queries to organize the information dispersed across multiple sheets.
 
@@ -39,10 +39,12 @@ Moreover, it is evident that the majority of school shooting incidents occur on 
 
 ![image-left]({{ 'assets/img/for_posts/school_shooting/chart_1.png' | absolute_url }}){: .align-left} 
 
-The second area of research I’d like to explore pertains to the frequency of incidents that have occurred over the past three decades, spanning from 1993 to 2023.
+
+The second area of research I’d like to explore pertains to the *frequency of incidents that have occurred over the past three decades*, spanning from 1993 to 2023.
 As shown in the chart below, a notable shift is observed, particularly since 2010. In 2010, the number of school shooting incidents in the US amounted to a mere 15 occurrences. Subsequently, there has been a stark uptick in the incidence of such incidents. By 2022, this figure skyrocketed to its peak at 265 incidents, marking a surge of over tenfold in cases over the preceding decade.
 
 ![image-left]({{ '/assets/img/for_posts/school_shooting/chart_2.png' | absolute_url }}){: .align-left} 
+
 
 
 Let's dive a bit deeper into the data and explore the number of victims each month over the years.
@@ -50,8 +52,13 @@ Looking at the chart on our dashboard, it's clear that February and May have con
 
 ![image-left]({{ '/assets/img/for_posts/school_shooting/chart_3.png' | absolute_url }}){: .align-left} 
 
+
+
+
 The last thing I’m curious about is the age distribution of the victims. I’m wondering which age group has seen the most victims over the past 50 years.
-Taking a closer look at the chart below, it’s evident that the majority of victims fall within the age range of 15 to 18 years old.
+Taking a closer look at the chart below, it’s evident that the majority of victims *fall within the age range of 15 to 18 years old*.
+
+
 
 ![image-left]({{ '/assets/img/for_posts/school_shooting/chart_4.png' | absolute_url }}){: .align-left} 
 

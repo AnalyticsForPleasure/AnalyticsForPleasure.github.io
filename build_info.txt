@@ -1,0 +1,1586 @@
+  Logging at level: debug
+    Jekyll Version: 4.3.2
+Configuration file: /home/shay_diy/AnalyticsForPleasure.github.io/_config.yml
+             Theme: jekyll-theme-chirpy
+      Theme source: /home/shay_diy/AnalyticsForPleasure.github.io
+ Theme Config file: /home/shay_diy/AnalyticsForPleasure.github.io/_config.yml
+         Requiring: jekyll-paginate
+         Requiring: jekyll-redirect-from
+         Requiring: jekyll-seo-tag
+         Requiring: jekyll-archives
+         Requiring: jekyll-sitemap
+         Requiring: jekyll-include-cache
+         Requiring: /home/shay_diy/AnalyticsForPleasure.github.io/_plugins/posts-lastmod-hook.rb
+            Source: /home/shay_diy/AnalyticsForPleasure.github.io
+       Destination: /home/shay_diy/AnalyticsForPleasure.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+           Reading: /_layouts/archives.html
+           Reading: /_layouts/categories.html
+           Reading: /_layouts/category.html
+           Reading: /_layouts/compress.html
+           Reading: /_layouts/default.html
+           Reading: /_layouts/home.html
+           Reading: /_layouts/page.html
+           Reading: /_layouts/post.html
+           Reading: /_layouts/tag.html
+           Reading: /_layouts/tags.html
+       EntryFilter: excluded /jekyll-theme-chirpy.gemspec
+       EntryFilter: excluded /package-lock.json
+       EntryFilter: excluded /tools
+       EntryFilter: excluded /node_modules
+       EntryFilter: excluded /.jekyll-cache
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /package.json
+       EntryFilter: excluded /LICENSE
+       EntryFilter: excluded /rollup.config.js
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /README.md
+           Reading: _posts/2022-05-17-post-unicorn_part_1_shay.md
+           Reading: _posts/2022-06-07-post-unicorn_part_2_shay.md
+           Reading: _posts/2022-07-15-post-unicorn_part_3_shay.md
+           Reading: _posts/2022-08-23-post-unicorn_part_4_shay.md
+           Reading: _posts/2022-09-21-post-nba_post_1.md
+           Reading: _posts/2022-10-21-post-nba_post_2.md
+           Reading: _posts/2022-11-21-post-nba_post_3.md
+           Reading: _posts/2022-12-20-post-nba_post_4.md
+           Reading: _posts/2023-01-29-post-nba_post_5.md
+           Reading: _posts/2023-02-18-post-nba_post_6.md
+           Reading: _posts/2023-03-28-post-nba_post_7.md
+           Reading: _posts/2023-04-23-post-nba_post_8.md
+           Reading: _posts/2023-07-01-post_olympic_games_post_1.md
+           Reading: _posts/2023-07-16-post_olympic_games_post_2.md
+           Reading: _posts/2023-07-30-post_olympic_games_post_3.md
+           Reading: _posts/2023-11-07-post-shark_tank_part_1.md
+           Reading: _posts/2023-11-17-post_shark_tank_part_2.md
+           Reading: _posts/2023-11-26-post_shark_tank_part_3.md
+           Reading: _posts/2023-12-01-post_shark_tank_part_4.md
+           Reading: _posts/2023-12-02-post_salary_cross_country_part_1.md
+           Reading: _posts/2023-12-02-post_salary_cross_country_part_2.md
+           Reading: _posts/2024-01-02-post_salary_cross_country_part_3.md
+           Reading: _posts/2024-01-10-post_price_for_food_post_1.md
+           Reading: _posts/2024-01-20-post_price_for_food_post_2.md
+           Reading: assets/js/data/search.json
+           Reading: assets/js/data/swcache.js
+           Reading: assets/js/pwa/app.js
+           Reading: assets/js/pwa/sw.js
+           Reading: assets/js/pwa/unregister.js
+           Reading: assets/css/jekyll-theme-chirpy.scss
+           Reading: assets/img/favicons/browserconfig.xml
+           Reading: assets/img/favicons/site.webmanifest
+           Reading: assets/robots.txt
+           Reading: assets/feed.xml
+           Reading: assets/404.html
+           Reading: index.html
+           Reading: _tabs/about.md
+           Reading: _tabs/archives.md
+           Reading: _tabs/categories.md
+           Reading: _tabs/tags.md
+           Reading: assets/404.html
+             Theme: Ignoring assets/404.html in theme due to existing file with that path in site.
+           Reading: assets/css/jekyll-theme-chirpy.scss
+             Theme: Ignoring assets/css/jekyll-theme-chirpy.scss in theme due to existing file with that path in site.
+           Reading: assets/feed.xml
+             Theme: Ignoring assets/feed.xml in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/avatar.jpeg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/avatar.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/avatar2.jpeg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/android-chrome-192x192.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/android-chrome-512x512.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/apple-touch-icon.png in theme due to existing file with that path in site.
+           Reading: assets/img/favicons/browserconfig.xml
+             Theme: Ignoring assets/img/favicons/browserconfig.xml in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/favicon-16x16.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/favicon-32x32.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/favicon.ico in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/favicons/mstile-150x150.png in theme due to existing file with that path in site.
+           Reading: assets/img/favicons/site.webmanifest
+             Theme: Ignoring assets/img/favicons/site.webmanifest in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/Numpy-logo-bw-edited.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/Pandas_logo.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/VBA.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/logo-excel_BW.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/logo-wide-lightbg.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/logos2.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/logos3.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/matplotlib-logo-bw-edited.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/my_family.jpeg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/pandas-logo-bw-edited.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/python_logo_bw.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/python_logo_bw2.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/r-project_bw.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/sql_logo_bw.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/tableau_bw.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/Numpy-logo-bw-edited.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/Pandas_logo.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/VBA.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/logo-excel_BW.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/logos.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/logos2.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/logos3.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/matplotlib-logo-bw-edited.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/pandas-logo-bw-edited.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/python2.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/python_logo_bw.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/r-project_bw.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/seaborn.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/sql.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/sql3.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/sql_logo_bw.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_about/version1/tableau_bw.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/Evolution_of_the_food_prices.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/Evolution_of_the_food_prices1.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/Ten_Year_Price_Trends_in_Meat_Fish_and_Chicken.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/Ten_Year_Price_Trends_in_Vegetables_and_Fruits.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/flag1.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/flag2.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/flag3.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_1/ten_years_price_trends_in_vegetable_and_fruits_1.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_3/heatmap_with_cow_2.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/food_prices/question_3/heatmap_with_cow_3.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/irrelavnt/100x100.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/irrelavnt/image_alignment_1200x4002.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/irrelavnt/image_alignment_150x150.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/irrelavnt/image_alignment_300x200.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/irrelavnt/image_alignment_580x300.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/irrelavnt/so_simple_site_logo.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Allen_Iverson.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Amount_of_foreign_players_VS_local_Players_in_the_NBA_league_chart.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Amount_of_foreign_players_in_a_team_over_the_years.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Amount_of_foreign_players_vs_local_players.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Amount_of_players_who_scored_more_than_27_points_after.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Highest_players_over_the_NBA_past_deceded_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Histogram_number_of_years_each_player_played_in_the_NBA_leage.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Histogram_the_years_distribution_of_NBA_players_in_the_league.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/How_many_players_get_drafted_in_the_NBA_each_year.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/James_Harden.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_drafted_players_each_year.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_players_were_undrafted_over_the_NBA_years.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_players_where_undrafted_over_each_year.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_players_where_undrafted_over_the_NBA_years.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_players_who_scored_more_than_27_points_after_graduating_from_the_best_colleges.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_players_who_scored_more_than_27_pts_after_graduating_from_college.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_players_whoscored_more_than27_pts_after_graduating_from_college.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_times_a_player_change_his_team_jersey_over_his_career.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_times_a_player_change_his_team_jersey_over_this_career.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Number_of_undrafted_players_each_year.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Ratio_between_foreign_players_to_local_players_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Seasonly_most_double_double_a_player_had_over_the_.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Table_Number_of_players_where_undrafted_over_each_year.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/The_best_true_shooting_players_over_the_last_25_seasons.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/The_top_10_rookies_with_the_overall_highest_scoring_points_assists_and_rebounds.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/The_top_5_players_with_the_best_passing_abilities.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Top_10_rookies_for_scoring_points_assists_and_rebounds.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Top_scorer_and_second_scorer.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Total_games_played_by_a_player_over_this_NBA_career.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Try_histogram.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Usage_precentage.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Usg_precentage.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/Usg_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/average_points_for_aplayer_in_his_4_seasons.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/distribution_of_the_15_top_countries_for_those_foreign_players.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/five_five_years_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/gp_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/how_do_we_calculate_TS.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/incremental_pts_percentage_for_undrafted_players_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/most_improvement_from_rookie_season.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/players_who_scored_27_pts_after_college.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/seasonlly_most_double_double_aPlayer_had__in_the_s.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/seasonlly_most_double_double_a_player_had_in_the_2000.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/standard_deviation_for_each_group_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_average_points_for_aplayer_in_his_4_seasons.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_first_scorer.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_for_the_Number_of_years_the_player_played_in_the_NBA_league.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_number_of_players_undrafted_each_year_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_passing_abilities.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_second_scorer.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_the_best_passers.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/table_top_10_rookies_for_scoring_points_assist_and_rebounds.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/team_jersey.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/top_10_highest_palyers_in_the_NBA_league_over_the_last.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/top_10_highest_players_in_nba_league_over_thelast_25_years.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/top_10_rookies_for_scoring_and_adding_the_assists_and_rebounds.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/top_dous_who_scored_together_more_then_54_point_at_the_same_year.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/top_highest_players.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/top_scorer_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/nba/true_shooting_precentage_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/Nations_table_result.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/dot_plot_with_avg_line_of_USA.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/line_chart.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_1/Cleveland_dot_plot_USA.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_1/best_and_worst_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Men.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_1/gradient_bar_plot_Women.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_3/dot_plot_with_avg_line_of_USA.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_3/heatmap_Advance_chart.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_3/heatmap_with_cow_2.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_AUS.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_CAN.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_GBR.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_GDR.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_GER.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_HUN.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_JPN.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/olympic/olympic_post_4/dot_plot_with_avg_line_of_USA.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_1/gender_comparison.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_1/gender_comparison_by_salary.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_2/Salary_distribution_across_positions.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_5/3_heatmaps_chart.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_5/heatmap_chart.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_6/scatter_avg_chart.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_6/scatter_avg_chart_Data_Scientist.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_6/scatter_avg_chart_Project_Engineer.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_6/scatter_avg_chart_Sales_Associate.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/salary/question_6/scatter_avg_chart_Software_Engineer.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/3D_chart/shark_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/all_column_names.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/area_chart/chart_number_of_investments.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/area_chart/result_investment_per_season.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/area_chart.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/average_equity.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/individual_vs_multi/chart_entrepreneurs.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/individual_vs_multi/individual_entrepreneur_df.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/individual_vs_multi/multiple_entrepreneur_df.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/matrix_table_Q_1.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/number_invest_for_each_shark.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/animation_8_episodes.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_10_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_1_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_2_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_3_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_4_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_5_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_6_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_7_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_8_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/scraping_Bubble_9_season.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/table_top_eight.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/top_eight_episode_season_1.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/scraping_bubble/top_eight_episode_season_10.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/shark_tank_header.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/slope_chart/hot_vs_cold.jpg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/slope_chart/slope_chart.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/slope_chart/table_slope_chart.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/stitched.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/top_investment_of_a_shark.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/waffle_plot.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/whaffle_seasons/multi_whaffle_1.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/whaffle_seasons/multi_whaffle_10.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/whaffle_seasons/waffle_plot.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/shark_tank/whaffle_seasons/whaffle_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/10_most_valued_unicorn_companies.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/10_most_valued_unicorn_companies_in_billions_of_dollars_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Amount_of_money_invested.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Amount_of_times_the_top_10_investors_invested_in_the_list_of_companies.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Budget_between_each_country.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Chmparing_between_campanies_who_funded_money_vs_not_funded.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Companies_which_became_unicorn_in_the_shortest_period_of_time_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Companies_who_became_unicorn_at_the_shortest_amount_of_time.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Companies_who_become_unicorn_at_the_shortest_amount_of_time.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Companies_who_didnt_need_to_fund.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Counting_th_number_of_unicorns_in_each_city.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Counting_th_number_of_unicorns_in_each_city_around_the_world.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Counting_th_number_of_unicorns_in_each_country.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Counting_the_number_of_Unicorn_in_each_country_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Counting_the_number_of_unicorns_in_each_city_around_the_world_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Counting_the_number_of_unicorns_in_each_country.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Funding_table.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/How_long_it_took_for_each_company_to_cross_the_milestone.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/I_creation_timeline.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Number_of_companies_who_became_worth_more_than_1_billion_dollars_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Number_of_companies_who_became_worth_more_then_1_billion_dollars.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Number_of_investment_by_each_investor.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Number_of_investment_per_industry_subplot.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Number_of_unicorn_companies_who_had_been_founded_over_the_years.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Number_of_unicorn_companies_who_have_been_founded_over_the_years_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Table_Comparison_companies_who_raised_money.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/The_shortest_time_entering_the_club.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Top_8_investors_which_invested_the_largest_amount_in_companies.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Top_investors.gif in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Total_amount_of_money_invested_into_the_top_12_countries_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/Valuation_of_the_top_10_unicorn_companies.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/counter_industry_for_each_city.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/number_of_top_investments_by_top_investors.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/subplot_Number_of_investment_per_indeustry_city_new.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/subplot_cities.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/table_3_ranges_of_years.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/table_amount_of_money_funded_over_1_billion.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/table_valuation_of_the_top_companies.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/top_k_investors_which_invested_the_largest_amount_in_compaies.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/for_posts/unicorn/treemap_budgeting.png in theme due to existing file with that path in site.
+           Reading: assets/js/data/search.json
+             Theme: Ignoring assets/js/data/search.json in theme due to existing file with that path in site.
+           Reading: assets/js/data/swcache.js
+             Theme: Ignoring assets/js/data/swcache.js in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/dist/categories.min.js in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/dist/commons.min.js in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/dist/home.min.js in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/dist/misc.min.js in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/dist/page.min.js in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/dist/post.min.js in theme due to existing file with that path in site.
+           Reading: assets/js/pwa/app.js
+             Theme: Ignoring assets/js/pwa/app.js in theme due to existing file with that path in site.
+           Reading: assets/js/pwa/sw.js
+             Theme: Ignoring assets/js/pwa/sw.js in theme due to existing file with that path in site.
+           Reading: assets/js/pwa/unregister.js
+             Theme: Ignoring assets/js/pwa/unregister.js in theme due to existing file with that path in site.
+           Reading: assets/robots.txt
+             Theme: Ignoring assets/robots.txt in theme due to existing file with that path in site.
+           Reading: _data/authors.yml
+           Reading: _data/contact.yml
+           Reading: _data/share.yml
+           Reading: _data/locales/ar.yml
+           Reading: _data/locales/bg-BG.yml
+           Reading: _data/locales/cs-CZ.yml
+           Reading: _data/locales/de-DE.yml
+           Reading: _data/locales/el-GR.yml
+           Reading: _data/locales/en.yml
+           Reading: _data/locales/es-ES.yml
+           Reading: _data/locales/fi-FI.yml
+           Reading: _data/locales/fr-FR.yml
+           Reading: _data/locales/hu-HU.yml
+           Reading: _data/locales/id-ID.yml
+           Reading: _data/locales/it-IT.yml
+           Reading: _data/locales/ko-KR.yml
+           Reading: _data/locales/my-MM.yml
+           Reading: _data/locales/pt-BR.yml
+           Reading: _data/locales/ru-RU.yml
+           Reading: _data/locales/sl-SI.yml
+           Reading: _data/locales/sv-SE.yml
+           Reading: _data/locales/th.yml
+           Reading: _data/locales/tr-TR.yml
+           Reading: _data/locales/uk-UA.yml
+           Reading: _data/locales/vi-VN.yml
+           Reading: _data/locales/zh-CN.yml
+           Reading: _data/locales/zh-TW.yml
+           Reading: _data/origin/basic.yml
+           Reading: _data/origin/cors.yml
+           Reading: _data/authors.yml
+           Reading: _data/contact.yml
+           Reading: _data/share.yml
+           Reading: _data/locales/ar.yml
+           Reading: _data/locales/bg-BG.yml
+           Reading: _data/locales/cs-CZ.yml
+           Reading: _data/locales/de-DE.yml
+           Reading: _data/locales/el-GR.yml
+           Reading: _data/locales/en.yml
+           Reading: _data/locales/es-ES.yml
+           Reading: _data/locales/fi-FI.yml
+           Reading: _data/locales/fr-FR.yml
+           Reading: _data/locales/hu-HU.yml
+           Reading: _data/locales/id-ID.yml
+           Reading: _data/locales/it-IT.yml
+           Reading: _data/locales/ko-KR.yml
+           Reading: _data/locales/my-MM.yml
+           Reading: _data/locales/pt-BR.yml
+           Reading: _data/locales/ru-RU.yml
+           Reading: _data/locales/sl-SI.yml
+           Reading: _data/locales/sv-SE.yml
+           Reading: _data/locales/th.yml
+           Reading: _data/locales/tr-TR.yml
+           Reading: _data/locales/uk-UA.yml
+           Reading: _data/locales/vi-VN.yml
+           Reading: _data/locales/zh-CN.yml
+           Reading: _data/locales/zh-TW.yml
+           Reading: _data/origin/basic.yml
+           Reading: _data/origin/cors.yml
+        Generating: JekyllRedirectFrom::Generator finished in 0.026892412 seconds.
+        Generating: Jekyll::Archives::Archives finished in 0.002106406 seconds.
+           Reading: index.html
+           Reading: index.html
+        Generating: Jekyll::Paginate::Pagination finished in 0.002114008 seconds.
+        Generating: Jekyll::JekyllSitemap finished in 0.004224483 seconds.
+         Rendering: _posts/2022-05-17-post-unicorn_part_1_shay.md
+  Pre-Render Hooks: _posts/2022-05-17-post-unicorn_part_1_shay.md
+  Rendering Liquid: _posts/2022-05-17-post-unicorn_part_1_shay.md
+  Rendering Markup: _posts/2022-05-17-post-unicorn_part_1_shay.md
+Post-Convert Hooks: _posts/2022-05-17-post-unicorn_part_1_shay.md
+  Rendering Layout: _posts/2022-05-17-post-unicorn_part_1_shay.md
+         Rendering: _posts/2022-05-17-post-unicorn_part_1_shay.md/#excerpt
+  Pre-Render Hooks: _posts/2022-05-17-post-unicorn_part_1_shay.md/#excerpt
+  Rendering Markup: _posts/2022-05-17-post-unicorn_part_1_shay.md/#excerpt
+Post-Convert Hooks: _posts/2022-05-17-post-unicorn_part_1_shay.md/#excerpt
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+Include cache miss: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-06-07-post-unicorn_part_2_shay.md
+  Pre-Render Hooks: _posts/2022-06-07-post-unicorn_part_2_shay.md
+  Rendering Liquid: _posts/2022-06-07-post-unicorn_part_2_shay.md
+  Rendering Markup: _posts/2022-06-07-post-unicorn_part_2_shay.md
+Post-Convert Hooks: _posts/2022-06-07-post-unicorn_part_2_shay.md
+  Rendering Layout: _posts/2022-06-07-post-unicorn_part_2_shay.md
+         Rendering: _posts/2022-06-07-post-unicorn_part_2_shay.md/#excerpt
+  Pre-Render Hooks: _posts/2022-06-07-post-unicorn_part_2_shay.md/#excerpt
+  Rendering Markup: _posts/2022-06-07-post-unicorn_part_2_shay.md/#excerpt
+Post-Convert Hooks: _posts/2022-06-07-post-unicorn_part_2_shay.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-07-15-post-unicorn_part_3_shay.md
+  Pre-Render Hooks: _posts/2022-07-15-post-unicorn_part_3_shay.md
+  Rendering Liquid: _posts/2022-07-15-post-unicorn_part_3_shay.md
+  Rendering Markup: _posts/2022-07-15-post-unicorn_part_3_shay.md
+Post-Convert Hooks: _posts/2022-07-15-post-unicorn_part_3_shay.md
+  Rendering Layout: _posts/2022-07-15-post-unicorn_part_3_shay.md
+         Rendering: _posts/2022-07-15-post-unicorn_part_3_shay.md/#excerpt
+  Pre-Render Hooks: _posts/2022-07-15-post-unicorn_part_3_shay.md/#excerpt
+  Rendering Markup: _posts/2022-07-15-post-unicorn_part_3_shay.md/#excerpt
+Post-Convert Hooks: _posts/2022-07-15-post-unicorn_part_3_shay.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-08-23-post-unicorn_part_4_shay.md
+  Pre-Render Hooks: _posts/2022-08-23-post-unicorn_part_4_shay.md
+  Rendering Liquid: _posts/2022-08-23-post-unicorn_part_4_shay.md
+  Rendering Markup: _posts/2022-08-23-post-unicorn_part_4_shay.md
+Post-Convert Hooks: _posts/2022-08-23-post-unicorn_part_4_shay.md
+  Rendering Layout: _posts/2022-08-23-post-unicorn_part_4_shay.md
+         Rendering: _posts/2022-08-23-post-unicorn_part_4_shay.md/#excerpt
+  Pre-Render Hooks: _posts/2022-08-23-post-unicorn_part_4_shay.md/#excerpt
+  Rendering Markup: _posts/2022-08-23-post-unicorn_part_4_shay.md/#excerpt
+Post-Convert Hooks: _posts/2022-08-23-post-unicorn_part_4_shay.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-09-21-post-nba_post_1.md
+  Pre-Render Hooks: _posts/2022-09-21-post-nba_post_1.md
+  Rendering Liquid: _posts/2022-09-21-post-nba_post_1.md
+  Rendering Markup: _posts/2022-09-21-post-nba_post_1.md
+Post-Convert Hooks: _posts/2022-09-21-post-nba_post_1.md
+  Rendering Layout: _posts/2022-09-21-post-nba_post_1.md
+         Rendering: _posts/2022-09-21-post-nba_post_1.md/#excerpt
+  Pre-Render Hooks: _posts/2022-09-21-post-nba_post_1.md/#excerpt
+  Rendering Markup: _posts/2022-09-21-post-nba_post_1.md/#excerpt
+Post-Convert Hooks: _posts/2022-09-21-post-nba_post_1.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-10-21-post-nba_post_2.md
+  Pre-Render Hooks: _posts/2022-10-21-post-nba_post_2.md
+  Rendering Liquid: _posts/2022-10-21-post-nba_post_2.md
+  Rendering Markup: _posts/2022-10-21-post-nba_post_2.md
+Post-Convert Hooks: _posts/2022-10-21-post-nba_post_2.md
+  Rendering Layout: _posts/2022-10-21-post-nba_post_2.md
+         Rendering: _posts/2022-10-21-post-nba_post_2.md/#excerpt
+  Pre-Render Hooks: _posts/2022-10-21-post-nba_post_2.md/#excerpt
+  Rendering Markup: _posts/2022-10-21-post-nba_post_2.md/#excerpt
+Post-Convert Hooks: _posts/2022-10-21-post-nba_post_2.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-11-21-post-nba_post_3.md
+  Pre-Render Hooks: _posts/2022-11-21-post-nba_post_3.md
+  Rendering Liquid: _posts/2022-11-21-post-nba_post_3.md
+  Rendering Markup: _posts/2022-11-21-post-nba_post_3.md
+Post-Convert Hooks: _posts/2022-11-21-post-nba_post_3.md
+  Rendering Layout: _posts/2022-11-21-post-nba_post_3.md
+         Rendering: _posts/2022-11-21-post-nba_post_3.md/#excerpt
+  Pre-Render Hooks: _posts/2022-11-21-post-nba_post_3.md/#excerpt
+  Rendering Markup: _posts/2022-11-21-post-nba_post_3.md/#excerpt
+Post-Convert Hooks: _posts/2022-11-21-post-nba_post_3.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2022-12-20-post-nba_post_4.md
+  Pre-Render Hooks: _posts/2022-12-20-post-nba_post_4.md
+  Rendering Liquid: _posts/2022-12-20-post-nba_post_4.md
+  Rendering Markup: _posts/2022-12-20-post-nba_post_4.md
+Post-Convert Hooks: _posts/2022-12-20-post-nba_post_4.md
+  Rendering Layout: _posts/2022-12-20-post-nba_post_4.md
+         Rendering: _posts/2022-12-20-post-nba_post_4.md/#excerpt
+  Pre-Render Hooks: _posts/2022-12-20-post-nba_post_4.md/#excerpt
+  Rendering Markup: _posts/2022-12-20-post-nba_post_4.md/#excerpt
+Post-Convert Hooks: _posts/2022-12-20-post-nba_post_4.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-01-29-post-nba_post_5.md
+  Pre-Render Hooks: _posts/2023-01-29-post-nba_post_5.md
+  Rendering Liquid: _posts/2023-01-29-post-nba_post_5.md
+  Rendering Markup: _posts/2023-01-29-post-nba_post_5.md
+Post-Convert Hooks: _posts/2023-01-29-post-nba_post_5.md
+  Rendering Layout: _posts/2023-01-29-post-nba_post_5.md
+         Rendering: _posts/2023-01-29-post-nba_post_5.md/#excerpt
+  Pre-Render Hooks: _posts/2023-01-29-post-nba_post_5.md/#excerpt
+  Rendering Markup: _posts/2023-01-29-post-nba_post_5.md/#excerpt
+Post-Convert Hooks: _posts/2023-01-29-post-nba_post_5.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-02-18-post-nba_post_6.md
+  Pre-Render Hooks: _posts/2023-02-18-post-nba_post_6.md
+  Rendering Liquid: _posts/2023-02-18-post-nba_post_6.md
+  Rendering Markup: _posts/2023-02-18-post-nba_post_6.md
+Post-Convert Hooks: _posts/2023-02-18-post-nba_post_6.md
+  Rendering Layout: _posts/2023-02-18-post-nba_post_6.md
+         Rendering: _posts/2023-02-18-post-nba_post_6.md/#excerpt
+  Pre-Render Hooks: _posts/2023-02-18-post-nba_post_6.md/#excerpt
+  Rendering Markup: _posts/2023-02-18-post-nba_post_6.md/#excerpt
+Post-Convert Hooks: _posts/2023-02-18-post-nba_post_6.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-03-28-post-nba_post_7.md
+  Pre-Render Hooks: _posts/2023-03-28-post-nba_post_7.md
+  Rendering Liquid: _posts/2023-03-28-post-nba_post_7.md
+  Rendering Markup: _posts/2023-03-28-post-nba_post_7.md
+Post-Convert Hooks: _posts/2023-03-28-post-nba_post_7.md
+  Rendering Layout: _posts/2023-03-28-post-nba_post_7.md
+         Rendering: _posts/2023-03-28-post-nba_post_7.md/#excerpt
+  Pre-Render Hooks: _posts/2023-03-28-post-nba_post_7.md/#excerpt
+  Rendering Markup: _posts/2023-03-28-post-nba_post_7.md/#excerpt
+Post-Convert Hooks: _posts/2023-03-28-post-nba_post_7.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-04-23-post-nba_post_8.md
+  Pre-Render Hooks: _posts/2023-04-23-post-nba_post_8.md
+  Rendering Liquid: _posts/2023-04-23-post-nba_post_8.md
+  Rendering Markup: _posts/2023-04-23-post-nba_post_8.md
+Post-Convert Hooks: _posts/2023-04-23-post-nba_post_8.md
+  Rendering Layout: _posts/2023-04-23-post-nba_post_8.md
+         Rendering: _posts/2023-04-23-post-nba_post_8.md/#excerpt
+  Pre-Render Hooks: _posts/2023-04-23-post-nba_post_8.md/#excerpt
+  Rendering Markup: _posts/2023-04-23-post-nba_post_8.md/#excerpt
+Post-Convert Hooks: _posts/2023-04-23-post-nba_post_8.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-07-01-post_olympic_games_post_1.md
+  Pre-Render Hooks: _posts/2023-07-01-post_olympic_games_post_1.md
+  Rendering Liquid: _posts/2023-07-01-post_olympic_games_post_1.md
+  Rendering Markup: _posts/2023-07-01-post_olympic_games_post_1.md
+Post-Convert Hooks: _posts/2023-07-01-post_olympic_games_post_1.md
+  Rendering Layout: _posts/2023-07-01-post_olympic_games_post_1.md
+         Rendering: _posts/2023-07-01-post_olympic_games_post_1.md/#excerpt
+  Pre-Render Hooks: _posts/2023-07-01-post_olympic_games_post_1.md/#excerpt
+  Rendering Markup: _posts/2023-07-01-post_olympic_games_post_1.md/#excerpt
+Post-Convert Hooks: _posts/2023-07-01-post_olympic_games_post_1.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-07-16-post_olympic_games_post_2.md
+  Pre-Render Hooks: _posts/2023-07-16-post_olympic_games_post_2.md
+  Rendering Liquid: _posts/2023-07-16-post_olympic_games_post_2.md
+  Rendering Markup: _posts/2023-07-16-post_olympic_games_post_2.md
+Post-Convert Hooks: _posts/2023-07-16-post_olympic_games_post_2.md
+  Rendering Layout: _posts/2023-07-16-post_olympic_games_post_2.md
+         Rendering: _posts/2023-07-16-post_olympic_games_post_2.md/#excerpt
+  Pre-Render Hooks: _posts/2023-07-16-post_olympic_games_post_2.md/#excerpt
+  Rendering Markup: _posts/2023-07-16-post_olympic_games_post_2.md/#excerpt
+Post-Convert Hooks: _posts/2023-07-16-post_olympic_games_post_2.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-07-30-post_olympic_games_post_3.md
+  Pre-Render Hooks: _posts/2023-07-30-post_olympic_games_post_3.md
+  Rendering Liquid: _posts/2023-07-30-post_olympic_games_post_3.md
+  Rendering Markup: _posts/2023-07-30-post_olympic_games_post_3.md
+Post-Convert Hooks: _posts/2023-07-30-post_olympic_games_post_3.md
+  Rendering Layout: _posts/2023-07-30-post_olympic_games_post_3.md
+         Rendering: _posts/2023-07-30-post_olympic_games_post_3.md/#excerpt
+  Pre-Render Hooks: _posts/2023-07-30-post_olympic_games_post_3.md/#excerpt
+  Rendering Markup: _posts/2023-07-30-post_olympic_games_post_3.md/#excerpt
+Post-Convert Hooks: _posts/2023-07-30-post_olympic_games_post_3.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-11-07-post-shark_tank_part_1.md
+  Pre-Render Hooks: _posts/2023-11-07-post-shark_tank_part_1.md
+  Rendering Liquid: _posts/2023-11-07-post-shark_tank_part_1.md
+  Rendering Markup: _posts/2023-11-07-post-shark_tank_part_1.md
+Post-Convert Hooks: _posts/2023-11-07-post-shark_tank_part_1.md
+  Rendering Layout: _posts/2023-11-07-post-shark_tank_part_1.md
+         Rendering: _posts/2023-11-07-post-shark_tank_part_1.md/#excerpt
+  Pre-Render Hooks: _posts/2023-11-07-post-shark_tank_part_1.md/#excerpt
+  Rendering Markup: _posts/2023-11-07-post-shark_tank_part_1.md/#excerpt
+Post-Convert Hooks: _posts/2023-11-07-post-shark_tank_part_1.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-11-17-post_shark_tank_part_2.md
+  Pre-Render Hooks: _posts/2023-11-17-post_shark_tank_part_2.md
+  Rendering Liquid: _posts/2023-11-17-post_shark_tank_part_2.md
+  Rendering Markup: _posts/2023-11-17-post_shark_tank_part_2.md
+Post-Convert Hooks: _posts/2023-11-17-post_shark_tank_part_2.md
+  Rendering Layout: _posts/2023-11-17-post_shark_tank_part_2.md
+         Rendering: _posts/2023-11-17-post_shark_tank_part_2.md/#excerpt
+  Pre-Render Hooks: _posts/2023-11-17-post_shark_tank_part_2.md/#excerpt
+  Rendering Markup: _posts/2023-11-17-post_shark_tank_part_2.md/#excerpt
+Post-Convert Hooks: _posts/2023-11-17-post_shark_tank_part_2.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-11-26-post_shark_tank_part_3.md
+  Pre-Render Hooks: _posts/2023-11-26-post_shark_tank_part_3.md
+  Rendering Liquid: _posts/2023-11-26-post_shark_tank_part_3.md
+  Rendering Markup: _posts/2023-11-26-post_shark_tank_part_3.md
+Post-Convert Hooks: _posts/2023-11-26-post_shark_tank_part_3.md
+  Rendering Layout: _posts/2023-11-26-post_shark_tank_part_3.md
+         Rendering: _posts/2023-11-26-post_shark_tank_part_3.md/#excerpt
+  Pre-Render Hooks: _posts/2023-11-26-post_shark_tank_part_3.md/#excerpt
+  Rendering Markup: _posts/2023-11-26-post_shark_tank_part_3.md/#excerpt
+Post-Convert Hooks: _posts/2023-11-26-post_shark_tank_part_3.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-12-01-post_shark_tank_part_4.md
+  Pre-Render Hooks: _posts/2023-12-01-post_shark_tank_part_4.md
+  Rendering Liquid: _posts/2023-12-01-post_shark_tank_part_4.md
+  Rendering Markup: _posts/2023-12-01-post_shark_tank_part_4.md
+Post-Convert Hooks: _posts/2023-12-01-post_shark_tank_part_4.md
+  Rendering Layout: _posts/2023-12-01-post_shark_tank_part_4.md
+         Rendering: _posts/2023-12-01-post_shark_tank_part_4.md/#excerpt
+  Pre-Render Hooks: _posts/2023-12-01-post_shark_tank_part_4.md/#excerpt
+  Rendering Markup: _posts/2023-12-01-post_shark_tank_part_4.md/#excerpt
+Post-Convert Hooks: _posts/2023-12-01-post_shark_tank_part_4.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-12-02-post_salary_cross_country_part_1.md
+  Pre-Render Hooks: _posts/2023-12-02-post_salary_cross_country_part_1.md
+  Rendering Liquid: _posts/2023-12-02-post_salary_cross_country_part_1.md
+  Rendering Markup: _posts/2023-12-02-post_salary_cross_country_part_1.md
+Post-Convert Hooks: _posts/2023-12-02-post_salary_cross_country_part_1.md
+  Rendering Layout: _posts/2023-12-02-post_salary_cross_country_part_1.md
+         Rendering: _posts/2023-12-02-post_salary_cross_country_part_1.md/#excerpt
+  Pre-Render Hooks: _posts/2023-12-02-post_salary_cross_country_part_1.md/#excerpt
+  Rendering Markup: _posts/2023-12-02-post_salary_cross_country_part_1.md/#excerpt
+Post-Convert Hooks: _posts/2023-12-02-post_salary_cross_country_part_1.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2023-12-02-post_salary_cross_country_part_2.md
+  Pre-Render Hooks: _posts/2023-12-02-post_salary_cross_country_part_2.md
+  Rendering Liquid: _posts/2023-12-02-post_salary_cross_country_part_2.md
+  Rendering Markup: _posts/2023-12-02-post_salary_cross_country_part_2.md
+Post-Convert Hooks: _posts/2023-12-02-post_salary_cross_country_part_2.md
+  Rendering Layout: _posts/2023-12-02-post_salary_cross_country_part_2.md
+         Rendering: _posts/2023-12-02-post_salary_cross_country_part_2.md/#excerpt
+  Pre-Render Hooks: _posts/2023-12-02-post_salary_cross_country_part_2.md/#excerpt
+  Rendering Markup: _posts/2023-12-02-post_salary_cross_country_part_2.md/#excerpt
+Post-Convert Hooks: _posts/2023-12-02-post_salary_cross_country_part_2.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2024-01-02-post_salary_cross_country_part_3.md
+  Pre-Render Hooks: _posts/2024-01-02-post_salary_cross_country_part_3.md
+  Rendering Liquid: _posts/2024-01-02-post_salary_cross_country_part_3.md
+  Rendering Markup: _posts/2024-01-02-post_salary_cross_country_part_3.md
+Post-Convert Hooks: _posts/2024-01-02-post_salary_cross_country_part_3.md
+  Rendering Layout: _posts/2024-01-02-post_salary_cross_country_part_3.md
+         Rendering: _posts/2024-01-02-post_salary_cross_country_part_3.md/#excerpt
+  Pre-Render Hooks: _posts/2024-01-02-post_salary_cross_country_part_3.md/#excerpt
+  Rendering Markup: _posts/2024-01-02-post_salary_cross_country_part_3.md/#excerpt
+Post-Convert Hooks: _posts/2024-01-02-post_salary_cross_country_part_3.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2024-01-10-post_price_for_food_post_1.md
+  Pre-Render Hooks: _posts/2024-01-10-post_price_for_food_post_1.md
+  Rendering Liquid: _posts/2024-01-10-post_price_for_food_post_1.md
+  Rendering Markup: _posts/2024-01-10-post_price_for_food_post_1.md
+Post-Convert Hooks: _posts/2024-01-10-post_price_for_food_post_1.md
+  Rendering Layout: _posts/2024-01-10-post_price_for_food_post_1.md
+         Rendering: _posts/2024-01-10-post_price_for_food_post_1.md/#excerpt
+  Pre-Render Hooks: _posts/2024-01-10-post_price_for_food_post_1.md/#excerpt
+  Rendering Liquid: _posts/2024-01-10-post_price_for_food_post_1.md/#excerpt
+  Rendering Markup: _posts/2024-01-10-post_price_for_food_post_1.md/#excerpt
+Post-Convert Hooks: _posts/2024-01-10-post_price_for_food_post_1.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _posts/2024-01-20-post_price_for_food_post_2.md
+  Pre-Render Hooks: _posts/2024-01-20-post_price_for_food_post_2.md
+  Rendering Liquid: _posts/2024-01-20-post_price_for_food_post_2.md
+  Rendering Markup: _posts/2024-01-20-post_price_for_food_post_2.md
+Post-Convert Hooks: _posts/2024-01-20-post_price_for_food_post_2.md
+  Rendering Layout: _posts/2024-01-20-post_price_for_food_post_2.md
+         Rendering: _posts/2024-01-20-post_price_for_food_post_2.md/#excerpt
+  Pre-Render Hooks: _posts/2024-01-20-post_price_for_food_post_2.md/#excerpt
+  Rendering Markup: _posts/2024-01-20-post_price_for_food_post_2.md/#excerpt
+Post-Convert Hooks: _posts/2024-01-20-post_price_for_food_post_2.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _tabs/categories.md
+  Pre-Render Hooks: _tabs/categories.md
+  Rendering Markup: _tabs/categories.md
+Post-Convert Hooks: _tabs/categories.md
+  Rendering Layout: _tabs/categories.md
+         Rendering: _tabs/categories.md/#excerpt
+  Pre-Render Hooks: _tabs/categories.md/#excerpt
+  Rendering Markup: _tabs/categories.md/#excerpt
+Post-Convert Hooks: _tabs/categories.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _tabs/tags.md
+  Pre-Render Hooks: _tabs/tags.md
+  Rendering Markup: _tabs/tags.md
+Post-Convert Hooks: _tabs/tags.md
+  Rendering Layout: _tabs/tags.md
+         Rendering: _tabs/tags.md/#excerpt
+  Pre-Render Hooks: _tabs/tags.md/#excerpt
+  Rendering Markup: _tabs/tags.md/#excerpt
+Post-Convert Hooks: _tabs/tags.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _tabs/archives.md
+  Pre-Render Hooks: _tabs/archives.md
+  Rendering Markup: _tabs/archives.md
+Post-Convert Hooks: _tabs/archives.md
+  Rendering Layout: _tabs/archives.md
+         Rendering: _tabs/archives.md/#excerpt
+  Pre-Render Hooks: _tabs/archives.md/#excerpt
+  Rendering Markup: _tabs/archives.md/#excerpt
+Post-Convert Hooks: _tabs/archives.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: _tabs/about.md
+  Pre-Render Hooks: _tabs/about.md
+  Rendering Liquid: _tabs/about.md
+  Rendering Markup: _tabs/about.md
+Post-Convert Hooks: _tabs/about.md
+  Rendering Layout: _tabs/about.md
+         Rendering: _tabs/about.md/#excerpt
+  Pre-Render Hooks: _tabs/about.md/#excerpt
+  Rendering Markup: _tabs/about.md/#excerpt
+Post-Convert Hooks: _tabs/about.md/#excerpt
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: assets/404.html
+  Pre-Render Hooks: assets/404.html
+  Rendering Liquid: assets/404.html
+  Rendering Markup: assets/404.html
+Post-Convert Hooks: assets/404.html
+  Rendering Layout: assets/404.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: assets/js/pwa/app.js
+  Pre-Render Hooks: assets/js/pwa/app.js
+  Rendering Liquid: assets/js/pwa/app.js
+  Rendering Markup: assets/js/pwa/app.js
+Post-Convert Hooks: assets/js/pwa/app.js
+  Rendering Layout: assets/js/pwa/app.js
+         Rendering: assets/img/favicons/browserconfig.xml
+  Pre-Render Hooks: assets/img/favicons/browserconfig.xml
+  Rendering Liquid: assets/img/favicons/browserconfig.xml
+  Rendering Markup: assets/img/favicons/browserconfig.xml
+Post-Convert Hooks: assets/img/favicons/browserconfig.xml
+  Rendering Layout: assets/img/favicons/browserconfig.xml
+         Rendering: assets/feed.xml
+  Pre-Render Hooks: assets/feed.xml
+  Rendering Liquid: assets/feed.xml
+  Rendering Markup: assets/feed.xml
+Post-Convert Hooks: assets/feed.xml
+  Rendering Layout: assets/feed.xml
+         Rendering: index.html
+  Pre-Render Hooks: index.html
+  Rendering Markup: index.html
+Post-Convert Hooks: index.html
+  Rendering Layout: index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: assets/css/jekyll-theme-chirpy.scss
+  Pre-Render Hooks: assets/css/jekyll-theme-chirpy.scss
+  Rendering Markup: assets/css/jekyll-theme-chirpy.scss
+Post-Convert Hooks: assets/css/jekyll-theme-chirpy.scss
+         Rendering: assets/robots.txt
+  Pre-Render Hooks: assets/robots.txt
+  Rendering Liquid: assets/robots.txt
+  Rendering Markup: assets/robots.txt
+Post-Convert Hooks: assets/robots.txt
+  Rendering Layout: assets/robots.txt
+         Rendering: assets/js/data/search.json
+  Pre-Render Hooks: assets/js/data/search.json
+  Rendering Liquid: assets/js/data/search.json
+  Rendering Markup: assets/js/data/search.json
+Post-Convert Hooks: assets/js/data/search.json
+  Rendering Layout: assets/js/data/search.json
+         Rendering: assets/img/favicons/site.webmanifest
+  Pre-Render Hooks: assets/img/favicons/site.webmanifest
+  Rendering Liquid: assets/img/favicons/site.webmanifest
+  Rendering Markup: assets/img/favicons/site.webmanifest
+Post-Convert Hooks: assets/img/favicons/site.webmanifest
+  Rendering Layout: assets/img/favicons/site.webmanifest
+         Rendering: assets/js/pwa/sw.js
+  Pre-Render Hooks: assets/js/pwa/sw.js
+  Rendering Liquid: assets/js/pwa/sw.js
+  Rendering Markup: assets/js/pwa/sw.js
+Post-Convert Hooks: assets/js/pwa/sw.js
+  Rendering Layout: assets/js/pwa/sw.js
+         Rendering: assets/js/data/swcache.js
+  Pre-Render Hooks: assets/js/data/swcache.js
+  Rendering Liquid: assets/js/data/swcache.js
+  Rendering Markup: assets/js/data/swcache.js
+Post-Convert Hooks: assets/js/data/swcache.js
+  Rendering Layout: assets/js/data/swcache.js
+         Rendering: assets/js/pwa/unregister.js
+  Pre-Render Hooks: assets/js/pwa/unregister.js
+  Rendering Markup: assets/js/pwa/unregister.js
+Post-Convert Hooks: assets/js/pwa/unregister.js
+  Rendering Layout: assets/js/pwa/unregister.js
+         Rendering: redirect.html
+  Pre-Render Hooks: redirect.html
+  Rendering Markup: redirect.html
+Post-Convert Hooks: redirect.html
+  Rendering Layout: redirect.html
+         Rendering: redirect.html
+  Pre-Render Hooks: redirect.html
+  Rendering Markup: redirect.html
+Post-Convert Hooks: redirect.html
+  Rendering Layout: redirect.html
+         Rendering: redirect.html
+  Pre-Render Hooks: redirect.html
+  Rendering Markup: redirect.html
+Post-Convert Hooks: redirect.html
+  Rendering Layout: redirect.html
+         Rendering: redirects.json
+  Pre-Render Hooks: redirects.json
+  Rendering Markup: redirects.json
+Post-Convert Hooks: redirects.json
+  Rendering Layout: redirects.json
+         Rendering: tags/valuation/index.html
+  Pre-Render Hooks: tags/valuation/index.html
+  Rendering Markup: tags/valuation/index.html
+Post-Convert Hooks: tags/valuation/index.html
+  Rendering Layout: tags/valuation/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/ipo-s/index.html
+  Pre-Render Hooks: tags/ipo-s/index.html
+  Rendering Markup: tags/ipo-s/index.html
+Post-Convert Hooks: tags/ipo-s/index.html
+  Rendering Layout: tags/ipo-s/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/investments/index.html
+  Pre-Render Hooks: tags/investments/index.html
+  Rendering Markup: tags/investments/index.html
+Post-Convert Hooks: tags/investments/index.html
+  Rendering Layout: tags/investments/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/unicorns/index.html
+  Pre-Render Hooks: tags/unicorns/index.html
+  Rendering Markup: tags/unicorns/index.html
+Post-Convert Hooks: tags/unicorns/index.html
+  Rendering Layout: tags/unicorns/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/venture-capital/index.html
+  Pre-Render Hooks: tags/venture-capital/index.html
+  Rendering Markup: tags/venture-capital/index.html
+Post-Convert Hooks: tags/venture-capital/index.html
+  Rendering Layout: tags/venture-capital/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/investors/index.html
+  Pre-Render Hooks: tags/investors/index.html
+  Rendering Markup: tags/investors/index.html
+Post-Convert Hooks: tags/investors/index.html
+  Rendering Layout: tags/investors/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/foreign-players/index.html
+  Pre-Render Hooks: tags/foreign-players/index.html
+  Rendering Markup: tags/foreign-players/index.html
+Post-Convert Hooks: tags/foreign-players/index.html
+  Rendering Layout: tags/foreign-players/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/nba-analysis/index.html
+  Pre-Render Hooks: tags/nba-analysis/index.html
+  Rendering Markup: tags/nba-analysis/index.html
+Post-Convert Hooks: tags/nba-analysis/index.html
+  Rendering Layout: tags/nba-analysis/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/rookies/index.html
+  Pre-Render Hooks: tags/rookies/index.html
+  Rendering Markup: tags/rookies/index.html
+Post-Convert Hooks: tags/rookies/index.html
+  Rendering Layout: tags/rookies/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/pts/index.html
+  Pre-Render Hooks: tags/pts/index.html
+  Rendering Markup: tags/pts/index.html
+Post-Convert Hooks: tags/pts/index.html
+  Rendering Layout: tags/pts/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/ast/index.html
+  Pre-Render Hooks: tags/ast/index.html
+  Rendering Markup: tags/ast/index.html
+Post-Convert Hooks: tags/ast/index.html
+  Rendering Layout: tags/ast/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/reb/index.html
+  Pre-Render Hooks: tags/reb/index.html
+  Rendering Markup: tags/reb/index.html
+Post-Convert Hooks: tags/reb/index.html
+  Rendering Layout: tags/reb/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/undrafted-players/index.html
+  Pre-Render Hooks: tags/undrafted-players/index.html
+  Rendering Markup: tags/undrafted-players/index.html
+Post-Convert Hooks: tags/undrafted-players/index.html
+  Rendering Layout: tags/undrafted-players/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/double-double/index.html
+  Pre-Render Hooks: tags/double-double/index.html
+  Rendering Markup: tags/double-double/index.html
+Post-Convert Hooks: tags/double-double/index.html
+  Rendering Layout: tags/double-double/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/passing-abilities/index.html
+  Pre-Render Hooks: tags/passing-abilities/index.html
+  Rendering Markup: tags/passing-abilities/index.html
+Post-Convert Hooks: tags/passing-abilities/index.html
+  Rendering Layout: tags/passing-abilities/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/link/index.html
+  Pre-Render Hooks: tags/link/index.html
+  Rendering Markup: tags/link/index.html
+Post-Convert Hooks: tags/link/index.html
+  Rendering Layout: tags/link/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/post-formats/index.html
+  Pre-Render Hooks: tags/post-formats/index.html
+  Rendering Markup: tags/post-formats/index.html
+Post-Convert Hooks: tags/post-formats/index.html
+  Rendering Layout: tags/post-formats/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/standard-deviation/index.html
+  Pre-Render Hooks: tags/standard-deviation/index.html
+  Rendering Markup: tags/standard-deviation/index.html
+Post-Convert Hooks: tags/standard-deviation/index.html
+  Rendering Layout: tags/standard-deviation/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/true-shooting-percentage/index.html
+  Pre-Render Hooks: tags/true-shooting-percentage/index.html
+  Rendering Markup: tags/true-shooting-percentage/index.html
+Post-Convert Hooks: tags/true-shooting-percentage/index.html
+  Rendering Layout: tags/true-shooting-percentage/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/statistical-measurement/index.html
+  Pre-Render Hooks: tags/statistical-measurement/index.html
+  Rendering Markup: tags/statistical-measurement/index.html
+Post-Convert Hooks: tags/statistical-measurement/index.html
+  Rendering Layout: tags/statistical-measurement/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/usage-precentage/index.html
+  Pre-Render Hooks: tags/usage-precentage/index.html
+  Rendering Markup: tags/usage-precentage/index.html
+Post-Convert Hooks: tags/usage-precentage/index.html
+  Rendering Layout: tags/usage-precentage/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/world-record-wr/index.html
+  Pre-Render Hooks: tags/world-record-wr/index.html
+  Rendering Markup: tags/world-record-wr/index.html
+Post-Convert Hooks: tags/world-record-wr/index.html
+  Rendering Layout: tags/world-record-wr/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/swimming/index.html
+  Pre-Render Hooks: tags/swimming/index.html
+  Rendering Markup: tags/swimming/index.html
+Post-Convert Hooks: tags/swimming/index.html
+  Rendering Layout: tags/swimming/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/olympic-event/index.html
+  Pre-Render Hooks: tags/olympic-event/index.html
+  Rendering Markup: tags/olympic-event/index.html
+Post-Convert Hooks: tags/olympic-event/index.html
+  Rendering Layout: tags/olympic-event/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/improvement/index.html
+  Pre-Render Hooks: tags/improvement/index.html
+  Rendering Markup: tags/improvement/index.html
+Post-Convert Hooks: tags/improvement/index.html
+  Rendering Layout: tags/improvement/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/olympic-medals/index.html
+  Pre-Render Hooks: tags/olympic-medals/index.html
+  Rendering Markup: tags/olympic-medals/index.html
+Post-Convert Hooks: tags/olympic-medals/index.html
+  Rendering Layout: tags/olympic-medals/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/venture-capital-vc/index.html
+  Pre-Render Hooks: tags/venture-capital-vc/index.html
+  Rendering Markup: tags/venture-capital-vc/index.html
+Post-Convert Hooks: tags/venture-capital-vc/index.html
+  Rendering Layout: tags/venture-capital-vc/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/equity/index.html
+  Pre-Render Hooks: tags/equity/index.html
+  Rendering Markup: tags/equity/index.html
+Post-Convert Hooks: tags/equity/index.html
+  Rendering Layout: tags/equity/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/angel-investments/index.html
+  Pre-Render Hooks: tags/angel-investments/index.html
+  Rendering Markup: tags/angel-investments/index.html
+Post-Convert Hooks: tags/angel-investments/index.html
+  Rendering Layout: tags/angel-investments/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/multi-entrepreneur/index.html
+  Pre-Render Hooks: tags/multi-entrepreneur/index.html
+  Rendering Markup: tags/multi-entrepreneur/index.html
+Post-Convert Hooks: tags/multi-entrepreneur/index.html
+  Rendering Layout: tags/multi-entrepreneur/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/solo-entrepreneur/index.html
+  Pre-Render Hooks: tags/solo-entrepreneur/index.html
+  Rendering Markup: tags/solo-entrepreneur/index.html
+Post-Convert Hooks: tags/solo-entrepreneur/index.html
+  Rendering Layout: tags/solo-entrepreneur/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/investment-by-industry/index.html
+  Pre-Render Hooks: tags/investment-by-industry/index.html
+  Rendering Markup: tags/investment-by-industry/index.html
+Post-Convert Hooks: tags/investment-by-industry/index.html
+  Rendering Layout: tags/investment-by-industry/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/high-tech-industry/index.html
+  Pre-Render Hooks: tags/high-tech-industry/index.html
+  Rendering Markup: tags/high-tech-industry/index.html
+Post-Convert Hooks: tags/high-tech-industry/index.html
+  Rendering Layout: tags/high-tech-industry/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/distribution/index.html
+  Pre-Render Hooks: tags/distribution/index.html
+  Rendering Markup: tags/distribution/index.html
+Post-Convert Hooks: tags/distribution/index.html
+  Rendering Layout: tags/distribution/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/salary-disribution/index.html
+  Pre-Render Hooks: tags/salary-disribution/index.html
+  Rendering Markup: tags/salary-disribution/index.html
+Post-Convert Hooks: tags/salary-disribution/index.html
+  Rendering Layout: tags/salary-disribution/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/age-disribution/index.html
+  Pre-Render Hooks: tags/age-disribution/index.html
+  Rendering Markup: tags/age-disribution/index.html
+Post-Convert Hooks: tags/age-disribution/index.html
+  Rendering Layout: tags/age-disribution/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: tags/prices/index.html
+  Pre-Render Hooks: tags/prices/index.html
+  Rendering Markup: tags/prices/index.html
+Post-Convert Hooks: tags/prices/index.html
+  Rendering Layout: tags/prices/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: categories/investing-in-the-tech-industry/index.html
+  Pre-Render Hooks: categories/investing-in-the-tech-industry/index.html
+  Rendering Markup: categories/investing-in-the-tech-industry/index.html
+Post-Convert Hooks: categories/investing-in-the-tech-industry/index.html
+  Rendering Layout: categories/investing-in-the-tech-industry/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: categories/sports-analytics/index.html
+  Pre-Render Hooks: categories/sports-analytics/index.html
+  Rendering Markup: categories/sports-analytics/index.html
+Post-Convert Hooks: categories/sports-analytics/index.html
+  Rendering Layout: categories/sports-analytics/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: categories/investment/index.html
+  Pre-Render Hooks: categories/investment/index.html
+  Rendering Markup: categories/investment/index.html
+Post-Convert Hooks: categories/investment/index.html
+  Rendering Layout: categories/investment/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: categories/economic-stats/index.html
+  Pre-Render Hooks: categories/economic-stats/index.html
+  Rendering Markup: categories/economic-stats/index.html
+Post-Convert Hooks: categories/economic-stats/index.html
+  Rendering Layout: categories/economic-stats/index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: index.html
+  Pre-Render Hooks: index.html
+  Rendering Markup: index.html
+Post-Convert Hooks: index.html
+  Rendering Layout: index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: index.html
+  Pre-Render Hooks: index.html
+  Rendering Markup: index.html
+Post-Convert Hooks: index.html
+  Rendering Layout: index.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/favicons.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/update-list.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/trending-tags.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/footer.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-results.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/notification.html
+ Include cache hit: /home/shay_diy/AnalyticsForPleasure.github.io/_includes/search-loader.html
+         Rendering: sitemap.xml
+  Pre-Render Hooks: sitemap.xml
+  Rendering Liquid: sitemap.xml
+  Rendering Markup: sitemap.xml
+Post-Convert Hooks: sitemap.xml
+  Rendering Layout: sitemap.xml
+         Rendering: assets/css/jekyll-theme-chirpy.css.map
+  Pre-Render Hooks: assets/css/jekyll-theme-chirpy.css.map
+  Rendering Markup: assets/css/jekyll-theme-chirpy.css.map
+Post-Convert Hooks: assets/css/jekyll-theme-chirpy.css.map
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/404.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/app.js
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/img/favicons/browserconfig.xml
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/feed.xml
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/css/jekyll-theme-chirpy.css
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/robots.txt
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/js/data/search.json
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/img/favicons/site.webmanifest
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/sw.js
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/js/data/swcache.js
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/unregister.js
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/norobots/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/redirects.json
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/valuation/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/ipo-s/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/investments/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/unicorns/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/venture-capital/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/investors/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/foreign-players/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/nba-analysis/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/rookies/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/pts/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/ast/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/reb/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/undrafted-players/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/double-double/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/passing-abilities/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/link/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/post-formats/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/standard-deviation/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/true-shooting-percentage/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/statistical-measurement/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/usage-precentage/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/world-record-wr/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/swimming/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/olympic-event/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/improvement/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/olympic-medals/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/venture-capital-vc/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/equity/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/angel-investments/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/multi-entrepreneur/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/solo-entrepreneur/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/investment-by-industry/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/high-tech-industry/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/distribution/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/salary-disribution/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/age-disribution/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/prices/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/categories/investing-in-the-tech-industry/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/categories/sports-analytics/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/categories/investment/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/categories/economic-stats/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/page2/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/page3/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/sitemap.xml
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/assets/css/jekyll-theme-chirpy.css.map
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-unicorn_part_1_shay/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-unicorn_part_2_shay/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-unicorn_part_3_shay/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-unicorn_part_4_shay/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_1/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_2/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_3/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_4/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_5/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_6/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_7/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-nba_post_8/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_olympic_games_post_1/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_olympic_games_post_2/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_olympic_games_post_3/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post-shark_tank_part_1/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_shark_tank_part_2/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_shark_tank_part_3/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_shark_tank_part_4/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_salary_cross_country_part_1/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_salary_cross_country_part_2/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_salary_cross_country_part_3/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_price_for_food_post_1/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/posts/post_price_for_food_post_2/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/categories/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/tags/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/archives/index.html
+           Writing: /home/shay_diy/AnalyticsForPleasure.github.io/_site/about/index.html
+                    done in 4.074 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
