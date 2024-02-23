@@ -1,5 +1,5 @@
 ---
-title: "School Shooting Analysis: Tableau Edition (Part 1 of 3)"
+title: "School Shooting Analysis: Tableau Edition (Part 2 of 3)"
 
 categories:
 - Tableau  
