@@ -57,7 +57,7 @@ I'd like to highlight the remarkable number of travelers attracted to Spain, tot
 
 The third and final comparison between the Resort City and City Hotel can be observed in the tree chart provided below. In this chart, I've selected several European countries, including **Portugal, Spain, England, France, Netherlands**, and more, to analyze the number of visitors between weekends and weekdays.
 
-As mentioned earlier, the dashboard is presented using **Tableau software**, which offers an interactive feature known as mouseover. You can navigate to my YouTube page - [here](https://www.youtube.com/watch?v=CpFvOaSMw1o&ab_channel=ShayCohen) to access a video demonstration where I provide detailed mouseover information about this chart. This feature allows you to gain insights into the number of visitors between weekends and weekdays for each square within the chart.
+As mentioned earlier, the dashboard is presented using **Tableau software**, which offers an interactive feature known as mouseover. You can navigate to my YouTube page - [here](https://www.youtube.com/watch?v=1MrDL7s5p7A&t=1s&ab_channel=ShayCohen) to access a video demonstration where I provide detailed mouseover information about this chart. This feature allows you to gain insights into the number of visitors between weekends and weekdays for each square within the chart.
 
 ![image-left]({{ 'assets/img/for_posts/Hotel_Booking/chart_1.png' | absolute_url }}){: .align-left} 
 
