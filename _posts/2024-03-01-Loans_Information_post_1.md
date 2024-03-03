@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Insights: A Comprehensive Guide to Loan Analysis"
+title: "Loan Insights Unlocked - Post 1 of 3"
 
 
 categories:
@@ -10,13 +10,14 @@ tags:
 - Interest Rate
 ---
 
-Today, we're delving into a financial dataset centered on the topic of *'Loans'*. Obtained from Kaggle, this dataset titled **['Comprehensive Loan Information for Credit Risk']**(https://www.kaggle.com/datasets/nezukokamaado/auto-loan-dataset) comprises an extensive array of *data with 24 columns and 38,576 rows*.
+Today, we're delving into a financial dataset centered on the topic of *'Loans'*. Obtained from Kaggle, this dataset titled **['Comprehensive Loan Information for Credit Risk'](https://www.kaggle.com/datasets/nezukokamaado/auto-loan-dataset)** comprises an extensive array of *data with 24 columns and 38,576 rows*.
 
 Here's a quick overview of the column names:
 * 'id', 'address_state', 'application_type', 'emp_length', 'emp_title', 'grade', 'home_ownership', 'issue_date', 'last_credit_pull_date', 'last_payment_date', 'loan_status', 'next_payment_date', 'member_id', 'purpose', 'sub_grade', 'term', 'verification_status', 'annual_income', 'dti', 'installment', 'int_rate', 'loan_amount', 'total_acc', 'total_payment'
 
-Before diving into the dataset's analysis, let's start with a fundamental question: **"What exactly is a loan?"**
+Before diving into the dataset's analysis, let's start with a fundamental question: 
 
+**"What exactly is a loan?"**
 
 > A loan is a financial arrangement in which one party, typically a lender such as a bank or financial institution, provides money or assets to another party, known as the borrower. The borrower agrees to repay the loan amount over time, usually with added interest or fees. 
 Loans can be used for various purposes, such as purchasing a home, financing education, starting a business, or covering personal expenses. 
@@ -31,10 +32,14 @@ We'll kick off with our first inquiry. As we're all aware, the United States com
 
 Some may initially suggest states with higher poverty rates, such as Mississippi, Louisiana, and West Virginia, assuming they have the highest loan rates. However, let's reserve judgment and allow the analysis to speak for itself as we examine the data.
 
+<script src="https://gist.github.com/AnalyticsForPleasure/e2ff7fdbed4976f52ad75ab0fc55f901.js"></script>
+
 Upon initial review, it appears that those *who anticipated a correlation between high poverty rates and increased loan uptake were mistaken*. Surprisingly, the **top states for loan acquisition are California, New York, Florida, Texas, and New Jersey**, which diverges from our initial assumptions.
 
 ![image-left]({{ 'assets/img/for_posts/Comprehensive_Loan_Information/post_1/treemap_count_for_each_state.jpg' | absolute_url }}){: .align-left}
 
-There could be numerous factors at play here. Firstly, it's evident that the prevalence of loans isn't directly tied to poverty rates as previously presumed. Supporting evidence can be found in a comparison with data from sources like Wikipedia's **"List of U.S. states and territories by poverty rate"**.
+There could be numerous factors at play here. Firstly, it's evident that the prevalence of loans isn't directly tied to poverty rates as previously presumed. Supporting evidence can be found in a comparison with data from sources like Wikipedia's **['List of U.S. states and territories by poverty rate'](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_poverty_rate#:~:text=Poverty%20rates%20were%20highest%20in,%25)**.
 
 For instance, *New York ranks 19th* with a poverty rate of **13.58%**, *Texas sits at 14th* with **14.22%**, *California holds 26th place* with a poverty rate of **12.58%**, *Florida ranks 20th* with a poverty rate of **13.34%**, and **New Jersey stands at 47th with a poverty rate of 9.67%**.
+
+In short, the main factor is that using loans involves accounting strategies that can greatly affect individuals' personal finances, aiming for **lower interest rates and tax reductions**. This dynamic underscores the intricate interplay between financial decisions, tax optimization, and the pursuit of favorable lending terms.
