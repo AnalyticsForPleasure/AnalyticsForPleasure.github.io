@@ -43,3 +43,15 @@ There could be numerous factors at play here. Firstly, it's evident that the pre
 For instance, *New York ranks 19th* with a poverty rate of **13.58%**, *Texas sits at 14th* with **14.22%**, *California holds 26th place* with a poverty rate of **12.58%**, *Florida ranks 20th* with a poverty rate of **13.34%**, and **New Jersey stands at 47th with a poverty rate of 9.67%**.
 
 In short, the main factor is that using loans involves accounting strategies that can greatly affect individuals' personal finances, aiming for **lower interest rates and tax reductions**. This dynamic underscores the intricate interplay between financial decisions, tax optimization, and the pursuit of favorable lending terms.
+
+
+After examining all the states across the US, my attention now shifts to regions. I'm curious to discover: 
+
+**"In which region — Northeast, West, Southeast, Midwest, or Southwest—are the most active loan takers?"**
+
+<script src="https://gist.github.com/AnalyticsForPleasure/9490935569f9638ac9dfea3488539cdb.js"></script>
+
+
+![image-left]({{ 'assets/img/for_posts/Comprehensive_Loan_Information/post_1/highest_loan_by_region.jpg' | absolute_url }}){: .align-left}
+
+
