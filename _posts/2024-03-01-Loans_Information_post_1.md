@@ -58,13 +58,9 @@ After examining all the states across the US, my attention now shifts to regions
 
 
 Upon reviewing the output results, it becomes apparent that the **Northeast region** exhibits the highest level of activity, **boasting 10,810 loan takers** (*including states such as Maryland, New Jersey, and New York*) - comprising **28%** of the total.
-
 Following closely is the **West region**, also demonstrating considerable activity, with **10,051 loan takers** (encompassing states such as *Washington, California, and Colorado*) - representing **26%**.
-
 Moving on, the **Southeast region** emerges as another active hub, boasting **8,343 loan takers** (encompassing states such as *Florida and South Carolina*) - constituting **21.6%** of the total.
-
 The **Midwest region** comes fourth in terms of activity, showcasing **5,399 loan takers** (encompassing states such as *Minnesota and Kansas*) - representing **14%** of the total.
-
 Lastly, the **Southwest region** demonstrates relatively lower activity, with **3,973 loan takers** (encompassing states such as *Arizona and Texas*) - comprising **10.29%** of the total.
 
 ![image-left]({{ 'assets/img/for_posts/Comprehensive_Loan_Information/post_1/highest_loan_by_region.jpg' | absolute_url }}){: .align-left}
