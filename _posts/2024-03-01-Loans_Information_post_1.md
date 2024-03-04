@@ -1,5 +1,5 @@
 ---
-title: "Loan Insights Unlocked - Post 1 of 3"
+title: "Loan Insights Unlocked - ( Post 1 of 3 )"
 
 
 categories:
@@ -13,7 +13,10 @@ tags:
 Today, we're delving into a financial dataset centered on the topic of *'Loans'*. Obtained from Kaggle, this dataset titled **['Comprehensive Loan Information for Credit Risk'](https://www.kaggle.com/datasets/nezukokamaado/auto-loan-dataset)** comprises an extensive array of *data with 24 columns and 38,576 rows*.
 
 Here's a quick overview of the column names:
-* 'id', 'address_state', 'application_type', 'emp_length', 'emp_title', 'grade', 'home_ownership', 'issue_date', 'last_credit_pull_date', 'last_payment_date', 'loan_status', 'next_payment_date', 'member_id', 'purpose', 'sub_grade', 'term', 'verification_status', 'annual_income', 'dti', 'installment', 'int_rate', 'loan_amount', 'total_acc', 'total_payment'
+
+![image-left]({{ 'assets/img/for_posts/Comprehensive_Loan_Information/coulmn_names.png' | absolute_url }}){: .align-left}
+
+
 
 Before diving into the dataset's analysis, let's start with a fundamental question: 
 
@@ -28,7 +31,9 @@ The terms of the loan, including the **amount borrowed, interest rate, repayment
 
 Now that we've clarified the concept, let's delve into analyzing the dataset. We're poised to explore some intriguing questions today.
 
-We'll kick off with our first inquiry. As we're all aware, the United States comprises 50 states. As we peruse the dataset, I'm curious: **In which state do residents take out the most loans?**
+We'll kick off with our first inquiry. As we're all aware, the United States comprises 50 states. As we peruse the dataset, I'm curious: 
+
+**In which state do residents take out the most loans?**
 
 Some may initially suggest states with higher poverty rates, such as Mississippi, Louisiana, and West Virginia, assuming they have the highest loan rates. However, let's reserve judgment and allow the analysis to speak for itself as we examine the data.
 
