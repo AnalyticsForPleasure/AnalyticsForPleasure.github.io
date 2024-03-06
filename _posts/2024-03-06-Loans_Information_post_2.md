@@ -34,11 +34,13 @@ Now, let's take a look at the resulting output:
 
 
 
+Let's delve into another intriguing aspect of our analysis: **exploring the influence of employment duration, as captured by the 'emp_length' column, on the borrowing behavior of individuals**. This prompts a thought-provoking line of inquiry: **How does the length of employment impact the decisions surrounding loan acquisition?**
 
+Consider the scenario where an individual has been employed for only 2 years compared to another who boasts 9 years of service in the same role. *Is there a discernible difference in their likelihood to secure larger loans?* Furthermore, *what can we glean about the average loan amounts taken by individuals with varying lengths of employment, such as those with 6 years versus 3 years of employment?*
 
+These questions not only pique our interest but also offer valuable insights into the dynamics between employment stability and financial decisions. By unraveling these intricacies, we gain a deeper understanding of the complex interplay between employment duration and borrowing behavior.
 
-
-question 5 - here!
+To embark on this exploration, let's dive into the code and dissect the relationship between employment duration and loan acquisition.
 
 
 
