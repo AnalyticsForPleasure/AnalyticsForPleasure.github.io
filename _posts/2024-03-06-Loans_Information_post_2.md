@@ -17,7 +17,7 @@ As we delve further into the dataset, we encounter an intriguing variable: **"an
 **Could there be a relationship between the average income in different regions and the frequency of loans taken out?**
 
 
-Consequently, I aim to examine the relationship between the number of loans and average income for each region (Midwest, Northeast, Southeast, Southwest, and West, as previously defined). Specifically, I seek to understand whether regions with higher average incomes exhibit a higher frequency of loan acquisitions. Conversely, do regions with lower average incomes experience fewer loan transactions?
+Consequently, I aim to examine the *relationship between the number of loans and average income for each region* (Midwest, Northeast, Southeast, Southwest, and West, as previously defined). Specifically, I seek to understand whether regions with higher average incomes exhibit a higher frequency of loan acquisitions. Conversely, do regions with lower average incomes experience fewer loan transactions?
 
 Hence, as a follow-up to the second question posed in the previous post, I intend to address this inquiry by implementing the following code.
 
@@ -35,3 +35,12 @@ Now, let's take a look at the resulting output:
 
 
 
+
+
+
+question 5 - here!
+
+
+
+
+![image-left]({{ 'assets/img/for_posts/Comprehensive_Loan_Information/post_2/image_boxplot_Question_5.jpg' | absolute_url }}){: .align-left}
