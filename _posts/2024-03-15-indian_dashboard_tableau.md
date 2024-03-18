@@ -23,13 +23,10 @@ Here are the columns names:
 Through this analysis, we'll uncover insights into the rich tapestry of Indian cuisine, unraveling its flavors and ingredients. So, let's embark on this journey of data discovery and visualization prowess, and unravel the story behind each culinary delight.
 
 
-
-As usual, I will start with a sneak peek of the output dashboard about "Indian Food":
+As usual, I will start with a sneak peek of the output dashboard about "Indian Food"[Click here](https://www.youtube.com/watch?v=f31RR9E2fXU&ab_channel=ShayCohen):
 
 
 ![image-left]({{ 'assets/img/for_posts/indian_dashboard/Full_indian_dashboard.png' | absolute_url }}){: .align-left}
-
-
 
 
 
@@ -38,5 +35,8 @@ For my initial analysis, I aim to focus on three key columns: **Name, Prep_time,
 
 Let's now consider a subset of 13 dishes from the total of 255 dishes :
 
-![image-left]({{ 'assets/img/for_posts/indian_dashboard/Cooking_time_preparation_time.png' | absolute_url }}){: .align-left}
+
+
+![image-left]({{ 'assets/img/for_posts/indian_dashboard/Cooking_time_preparation_time_2.png' | absolute_url }}){: .align-left}
+
 
