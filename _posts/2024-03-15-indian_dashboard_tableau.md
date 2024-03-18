@@ -30,3 +30,13 @@ As usual, I will start with a sneak peek of the output dashboard about "Indian F
 ![image-left]({{ 'assets/img/for_posts/indian_dashboard/Full_indian_dashboard.png' | absolute_url }}){: .align-left}
 
 
+
+
+
+For my initial analysis, I aim to focus on three key columns: **Name, Prep_time, and Cook_time**, which will be utilized to generate an output chart. Given the fundamental role of preparation and cooking times in crafting delicious dishes, the chart will display the duration of both stages for each dish. This analysis may reveal two distinct patterns: dishes characterized by lengthy preparation time but short cooking time, and conversely, dishes featuring brief preparation time but extended cooking time.
+
+
+Let's now consider a subset of 13 dishes from the total of 255 dishes :
+
+![image-left]({{ 'assets/img/for_posts/indian_dashboard/Cooking_time_preparation_time.png' | absolute_url }}){: .align-left}
+
