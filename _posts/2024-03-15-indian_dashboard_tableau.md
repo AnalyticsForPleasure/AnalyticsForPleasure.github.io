@@ -3,6 +3,7 @@ title: "Exploring the World of Indian Cuisine Through Analysis with Tableau"
 
 categories:
 - Tableau 
+- Tableau & Python
 tags:
 - Indian Recipes Analysis
 - Tableau
@@ -10,7 +11,7 @@ tags:
 - Viz
 ---
 
-Today, I aim to blend two potent tools: **Python** (my usual go-to) and **Tableau** (as evidenced by my recent posts). Each excels in its own realm—**Python for analysis in the domains of data science and data analytics**, and **Tableau for visualization, catering to graphic artists/designers and data analysts alike**. By leveraging both, we'll explore how to extract maximum value from data analysis and craft unique dashboards. *Let's dive into the data aspect!*
+Today, I aim to blend two potent tools: **Python** (my usual go-to) and **Tableau** (as evidenced by my recent posts). Each excels in its own realm—**Python** *for analysis in the domains of data science and data analytics*, and **Tableau** *for visualization, catering to graphic artists/designers and data analysts alike*. By leveraging both, we'll explore how to extract maximum value from data analysis and craft unique dashboards. *Let's dive into the data aspect!*
 
 For today's endeavor, I've chosen to delve into a dataset sourced from Kaggle titled **"Indian Food"**. *Comprising 9 columns and 255 rows*, it promises an interesting exploration.
 
