@@ -41,6 +41,9 @@ Here is part number 2 in order to get the output data for presenting it using ta
 <script src="https://gist.github.com/AnalyticsForPleasure/c48ba86a4741d61746ec32bec198163d.js"></script>
 
 
+![image-left]({{ 'assets/img/for_posts/indian_dashboard/East_South_West_2.png' | absolute_url }}){: .align-left}
+
+
 For my next initial analysis, I aim to focus on three key columns: **Name, Prep_time, and Cook_time**, which will be utilized to generate an output chart. Given the fundamental role of preparation and cooking times in crafting delicious dishes, the chart will display the duration of both stages for each dish. This analysis may reveal two distinct patterns: dishes characterized by lengthy preparation time but short cooking time, and conversely, dishes featuring brief preparation time but extended cooking time.
 
 
