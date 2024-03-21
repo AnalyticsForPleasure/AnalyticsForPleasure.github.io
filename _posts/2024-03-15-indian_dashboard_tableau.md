@@ -40,6 +40,7 @@ Here is part number 2 in order to get the output data for presenting it using ta
 
 <script src="https://gist.github.com/AnalyticsForPleasure/c48ba86a4741d61746ec32bec198163d.js"></script>
 
+Here's the final output result:
 
 ![image-left]({{ 'assets/img/for_posts/indian_dashboard/East_South_West_2.png' | absolute_url }}){: .align-left}
 
@@ -53,3 +54,8 @@ Let's now consider a subset of 13 dishes from the total of 255 dishes :
 ![image-left]({{ 'assets/img/for_posts/indian_dashboard/Cooking_time_preparation_time_2.png' | absolute_url }}){: .align-left}
 
 
+For the third and final chart in this dashboard, I opted to tally the number of main courses, snacks, and desserts across several regions (East, South, and West).
+From the chart, it's evident that the West region has the highest number of snack dishes, totaling 23.
+Additionally, the South region boasts the highest count of main courses, totaling 31 dishes.
+
+![image-left]({{ 'assets/img/for_posts/indian_dashboard/Main_course_Snack_and_Desserts.png' | absolute_url }}){: .align-left}
