@@ -111,11 +111,31 @@ Here's an output chart comparing the retention rates between the two time period
 
 ![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_2.png' | absolute_url }}){: .align-left}
 
-
-Now let's explained the result we got thought the chart above.
+Now let’s explain the result we got through the chart above.
 
 We can clearly see a significant difference between the two charts provided:
 
 In the **left chart**, which *illustrates the percentage of players returning to play 1 day after installation* for both Gate 30 and Gate 40, the **average retention rates are 44.8% and 44.2%**, respectively. This indicates a slight decrease in retention for Gate 30 compared to the average.
 
 On the other hand, the **right chart** *displays the percentage of players returning to play 7 days after installation*, representing seven-day retention. Here, we observe a **notable decline in retention rates to 19% for both gates**. This decrease in retention, which reflects the percentage of customers continuing to use a product or service over time, suggests that **the company's retention strategies may not be as effective**. Failing to engage and satisfy customers could present challenges in maintaining consistent revenue and fostering long-term customer loyalty.
+
+
+
+Now that we've conducted thorough research on the data, we can now address the central question at hand: 
+**Did moving the gate from level 30 to level 40 impact 1-day and 7-day user retention, as well as the average number of rounds played?**
+
+**And now we will use the AB Testing.**
+
+To begin with the AB testing, let's summarize the points we've established so far:
+
+> * The control group consists of users with the gate at level 30, while the test group comprises users with the gate at level 40. 
+
+> * Users who played less than 30 rounds were excluded from the analysis, as they couldn't have reached level 30 and changing the gate would have had no effect on their experience.
+
+> * The retention rate test involves bootstrapping a number of samples from our dataset for both the control and test groups. We will then compare the distribution of possible retention rates between the two groups.
+
+> * For the average number of rounds played, we will compare two sample means that come from the same population and use it to test whether the two sample means are equal or not. This approach is necessary because the rounds played variable does not follow a normal distribution. 
+
+
+
+
