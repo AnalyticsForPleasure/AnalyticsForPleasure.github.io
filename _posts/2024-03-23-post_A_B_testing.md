@@ -66,7 +66,7 @@ Now, let's proceed to identify and address any outliers within the dataset.
 We analyze the distribution of game rounds played by users using 
 
 ```python
-unique_version = df['sum_gamerounds'].value_counts().sort_values(ascending=False)
+Number_of_game_rounds_played_by_each_player = df['sum_gamerounds'].value_counts().sort_values(ascending=False)
 ```
 
 While most users have played up to around 5,000 game rounds, **we identify a rare observation where one user played an astonishing 49,854 rounds**. To maintain data integrity, *we opt to remove this outlier from the dataset to ensure accurate analysis and experimentation*.
