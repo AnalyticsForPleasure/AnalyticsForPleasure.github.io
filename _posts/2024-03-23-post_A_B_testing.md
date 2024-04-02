@@ -104,6 +104,9 @@ Now, let's delve deeper into the analysis and shift our focus to the last two co
 
 Each row provides us with information on whether the player decided to return and continue playing or if they chose to quit playing. Consequently, a **high retention percentage indicates that a business is effectively retaining its customers, keeping them engaged and satisfied**. This is crucial for maintaining consistent revenue and fostering customer loyalty.
 
+Hence, for each version (Gate 30 / Gate 40), we aim to determine the retention rate.
+
+Here's an output chart comparing the retention rates between the two time periods:
 
 ![image-left]({{ '/assets/img/for_posts/AB_testing/combined_plots_retention.jpg' | absolute_url }}){: .align-left}
 
