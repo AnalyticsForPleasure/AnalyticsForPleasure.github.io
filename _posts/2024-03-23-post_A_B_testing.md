@@ -99,3 +99,11 @@ In the following chart, **I aim to analyze players' progression through game rou
 
 ![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart.png' | absolute_url }}){: .align-left}
 
+
+Now, let's delve deeper into the analysis and shift our focus to the last two columns: '**retention_1**' and '**retention_7**'. In these columns, each row contains a boolean value - either 'True' or 'False'. So, what does this signify? Well, **retention measures the customers who continue to use a product or service over a specified period of time**.
+
+Each row provides us with information on whether the player decided to return and continue playing or if they chose to quit playing. Consequently, a **high retention percentage indicates that a business is effectively retaining its customers, keeping them engaged and satisfied**. This is crucial for maintaining consistent revenue and fostering customer loyalty.
+
+
+![image-left]({{ '/assets/img/for_posts/AB_testing/combined_plots_retention.jpg' | absolute_url }}){: .align-left}
+
