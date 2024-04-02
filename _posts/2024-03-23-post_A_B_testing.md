@@ -45,7 +45,9 @@ df["userid"].nunique()
 **We find that there are 90,189 unique user IDs in our dataset ( The entire dataset)**
 
 
-Moving on to the next column, **"sum_gamerounds"**, we aim to understand the gaming activity of each user. Specifically, we want to determine:
+Moving on to the next column, **"sum_gamerounds"**.
+we aim to understand the gaming activity of each user. Specifically, we 
+want to determine:
 
 >* The number of users who never played the game.
 
@@ -69,4 +71,20 @@ We analyze the distribution of game rounds played by users using
 Number_of_game_rounds_played_by_each_player = df['sum_gamerounds'].value_counts().sort_values(ascending=False)
 ```
 
-While most users have played up to around 5,000 game rounds, **we identify a rare observation where one user played an astonishing 49,854 rounds**. To maintain data integrity, *we opt to remove this outlier from the dataset to ensure accurate analysis and experimentation*.
+While most users have played up to around 3,000 game rounds, **we identify a rare observation where one user played an astonishing 49,854 rounds**. To maintain data integrity, *we opt to remove this outlier from the dataset to ensure accurate analysis and experimentation*.
+
+Now, let's move on to the to the "version" column. This column present to us the 2 verions we want to check and make the A/B testing. Therefore, we would like to start with a short of info - A/B Groups & Target Summary Stats
+ 
+Now, let's shift our focus to the 'version' column. This column represents the two versions we aim to compare in our A/B testing. To kick off, let's provide a brief overview of the A/B groups and summarize their target statistics.
+
+Here's the output we got:
+
+![image-left]({{ '/assets/img/for_posts/AB_testing/comparison_between_groups.png' | absolute_url }}){: .align-left}
+
+**Reviewing the Summary Stats for the A/B groups:**
+
+>* The group with the gate at **level 30 comprises 44,700 records**, while the group with the gate at **level 40 consists of 45,489 records**.
+
+>* Notably, the group with the gate at level 30 exhibits a clear outlier, with one user having played **49,854 rounds** within 14 days of installing the game, while the next highest record is **below 3,000 rounds**.
+
+>* Interestingly, the standard deviation of the Control group is higher than that of the Test group, with values of **256.7 and 103.3**, respectively.
