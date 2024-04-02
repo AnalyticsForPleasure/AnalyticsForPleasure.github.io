@@ -73,7 +73,7 @@ Number_of_game_rounds_played_by_each_player = df['sum_gamerounds'].value_counts(
 
 While most users have played up to around 3,000 game rounds, **we identify a rare observation where one user played an astonishing 49,854 rounds**. To maintain data integrity, *we opt to remove this outlier from the dataset to ensure accurate analysis and experimentation*.
 
-Now, let's move on to the to the "version" column. This column present to us the 2 verions we want to check and make the A/B testing. Therefore, we would like to start with a short of info - A/B Groups & Target Summary Stats
+Now, let's move on to the to the **"version"** column. This column present to us the 2 verions we want to check and make the A/B testing. Therefore, we would like to start with a short of info - A/B Groups & Target Summary Stats
  
 Now, let's shift our focus to the 'version' column. This column represents the two versions we aim to compare in our A/B testing. To kick off, let's provide a brief overview of the A/B groups and summarize their target statistics.
 
@@ -88,3 +88,14 @@ Here's the output we got:
 >* Notably, the group with the gate at level 30 exhibits a clear outlier, with one user having played **49,854 rounds** within 14 days of installing the game, while the next highest record is **below 3,000 rounds**.
 
 >* Interestingly, the standard deviation of the Control group is higher than that of the Test group, with values of **256.7 and 103.3**, respectively.
+
+
+The **'sum_gamerounds'** column holds crucial significance. Let's analyze the data in this column using a matplotlib chart:
+
+<script src="https://gist.github.com/AnalyticsForPleasure/c5dde8944679568c808114c13dbb2751.js"></script>
+
+
+In the following chart, **I aim to analyze players' progression through game rounds**. Specifically, I'm interested in understanding the distribution of player IDs across various milestones, such as the first, twentieth, and one hundred fiftieth rounds. Due to the low number of players in certain rounds, I've opted to use a **logarithmic scale on the Y-axis for clarity**. This scale allows for a more effective visualization of player distribution across rounds, as demonstrated below.
+
+![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart.png' | absolute_url }}){: .align-left}
+
