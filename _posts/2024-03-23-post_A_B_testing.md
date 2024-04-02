@@ -108,5 +108,5 @@ Hence, for each version (Gate 30 / Gate 40), we aim to determine the retention r
 
 Here's an output chart comparing the retention rates between the two time periods:
 
-![image-left]({{ '/assets/img/for_posts/AB_testing/combined_plots_retention.jpg' | absolute_url }}){: .align-left}
 
+![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_2.png' | absolute_url }}){: .align-left}
