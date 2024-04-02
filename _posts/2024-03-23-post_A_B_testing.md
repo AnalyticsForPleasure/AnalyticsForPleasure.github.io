@@ -139,3 +139,15 @@ To begin with the AB testing, let's summarize the points we've established so fa
 
 
 
+
+
+
+
+**Initial Hypothesis**
+
+**H₀ :  Changing the Time Gate from "Level 30" to "Level 40" *doesn't change* user retention.**
+
+**H₁ : Changing the Time Gate from "Level 30" to "Level 40" *will change* user retention.**
+
+
+
