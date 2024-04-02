@@ -110,3 +110,12 @@ Here's an output chart comparing the retention rates between the two time period
 
 
 ![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_2.png' | absolute_url }}){: .align-left}
+
+
+Now let's explained the result we got thought the chart above.
+
+We can clearly see a significant difference between the two charts provided:
+
+In the **left chart**, which *illustrates the percentage of players returning to play 1 day after installation* for both Gate 30 and Gate 40, the **average retention rates are 44.8% and 44.2%**, respectively. This indicates a slight decrease in retention for Gate 30 compared to the average.
+
+On the other hand, the **right chart** *displays the percentage of players returning to play 7 days after installation*, representing seven-day retention. Here, we observe a **notable decline in retention rates to 19% for both gates**. This decrease in retention, which reflects the percentage of customers continuing to use a product or service over time, suggests that **the company's retention strategies may not be as effective**. Failing to engage and satisfy customers could present challenges in maintaining consistent revenue and fostering long-term customer loyalty.
