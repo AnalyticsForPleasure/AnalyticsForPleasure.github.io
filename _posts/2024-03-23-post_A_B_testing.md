@@ -12,9 +12,7 @@ tags:
 - Bootstrapping
 ---
 
-**Introduction**
-
-*What is A/B testing?*
+**Introduction - What is A/B testing?**
 
 **A/B testing**, also known as split testing, is a method used to compare two versions of something to determine which one performs better. It's commonly used in various fields, including marketing, product development, and user experience optimization. In A/B testing, two versions (A and B) of a product, feature, or experience are shown to different groups of users, and their responses or behaviors are compared to identify which version is more effective in achieving the desired outcome.
 
