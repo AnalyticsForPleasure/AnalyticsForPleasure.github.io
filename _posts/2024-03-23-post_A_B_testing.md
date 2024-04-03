@@ -162,9 +162,9 @@ Let's begin by examining the data for retention on day 1:
 
 
 The **print_summary function**  summarizes the results of a statistical test. It takes three inputs:
-1) The name of the test performed (like "MannWhitneyu"), 
-2) The p-value obtained from the test, 
-3) and a predetermined significance level (usually 0.05). 
+* The name of the test performed.
+* The p-value obtained from the test.
+* Predetermined significance level (usually 0.05). 
 
 Then the function then creates a small table to organize these results.
 If the **p-value is less than the significance level**, it means **there's enough evidence to reject the null hypothesis (the default assumption)**, suggesting that there's a significant difference between the groups being compared. In this case, the function marks the test result as "Reject H0" and provides a comment indicating that the control and test groups likely come from different distributions.
