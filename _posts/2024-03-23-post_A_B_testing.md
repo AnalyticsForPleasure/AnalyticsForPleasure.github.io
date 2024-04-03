@@ -97,6 +97,9 @@ The **'sum_gamerounds'** column holds crucial significance. Let's analyze the da
 
 In the following chart, **I aim to analyze players' progression through game rounds**. Specifically, I'm interested in understanding the distribution of player IDs across various milestones, such as the first, twentieth, and one hundred fiftieth rounds. Due to the low number of players in certain rounds, I've opted to use a **logarithmic scale on the Y-axis for clarity**. This scale allows for a more effective visualization of player distribution across rounds, as demonstrated below.
 
+
+Also, I added a **dashed line at 30 rounds** because players who played less than 30 rounds **won't be included in the analysis**. They couldn't reach gate 30 and subsequently couldn't have progressed to gate 40.
+
 ![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_3.png' | absolute_url }}){: .align-left}
 
 
