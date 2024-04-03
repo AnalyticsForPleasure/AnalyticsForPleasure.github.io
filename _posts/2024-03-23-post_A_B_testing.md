@@ -154,5 +154,9 @@ To begin with the AB testing, let's summarize the points we've established so fa
 
 
 
-To answer our initial hypothesis here above, we'll **use bootstrapping to see if the changes in player retention are because of chance or the game version change**. We assume our data sample represents the whole population since it's large and covers a wide range of player activity
+To answer our initial hypothesis here above, we'll **use bootstrapping to see if the changes in player retention are because of chance or the game version change**. We assume our data sample represents the whole population since it's large and covers a wide range of player activity.
+
+Let's begin by examining the data for retention on day 1:
+
+<script src="https://gist.github.com/AnalyticsForPleasure/af8de9296e42899a8672f475849685cf.js"></script>
 
