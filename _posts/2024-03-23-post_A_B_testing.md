@@ -97,7 +97,7 @@ The **'sum_gamerounds'** column holds crucial significance. Let's analyze the da
 
 In the following chart, **I aim to analyze players' progression through game rounds**. Specifically, I'm interested in understanding the distribution of player IDs across various milestones, such as the first, twentieth, and one hundred fiftieth rounds. Due to the low number of players in certain rounds, I've opted to use a **logarithmic scale on the Y-axis for clarity**. This scale allows for a more effective visualization of player distribution across rounds, as demonstrated below.
 
-![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_3.png' | absolute_url }}){: .align-left}
 
 
 Now, let's delve deeper into the analysis and shift our focus to the last two columns: '**retention_1**' and '**retention_7**'. In these columns, each row contains a boolean value - either 'True' or 'False'. So, what does this signify? Well, **retention measures the customers who continue to use a product or service over a specified period of time**.
@@ -109,7 +109,7 @@ Hence, for each version (Gate 30 / Gate 40), we aim to determine the retention r
 Here's an output chart comparing the retention rates between the two time periods:
 
 
-![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_3.png' | absolute_url }}){: .align-left}
+![image-left]({{ '/assets/img/for_posts/AB_testing/games_rounds_chart_2.png' | absolute_url }}){: .align-left}
 
 Now let’s explain the result we got through the chart above.
 
@@ -150,4 +150,6 @@ To begin with the AB testing, let's summarize the points we've established so fa
 **H₁ : Changing the Time Gate from "Level 30" to "Level 40" *will change* user retention.**
 
 
+
+To answer our initial hypothesis here above, we'll **use bootstrapping to see if the changes in player retention are because of chance or the game version change**. We assume our data sample represents the whole population since it's large and covers a wide range of player activity
 
