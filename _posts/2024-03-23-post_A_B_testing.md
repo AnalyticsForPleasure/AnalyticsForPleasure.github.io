@@ -173,4 +173,3 @@ If the **p-value is greater than or equal to the significance level**, it means 
 Now let's continue examining the data for retention on day 7:
 
 <script src="https://gist.github.com/AnalyticsForPleasure/cb32ba291c4a7d60029762a08334aff6.js"></script>
-
