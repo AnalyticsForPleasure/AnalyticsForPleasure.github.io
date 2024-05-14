@@ -30,9 +30,9 @@ After training our model using data collected from smartwatches and smartphones,
 > The confusion matrix provides a comprehensive breakdown of the model's predictions compared to the actual ground truth. Each row of the matrix represents the actual classes, while each column represents the predicted classes.
 
 
-For example, if we consider the activity of "walking," the confusion matrix will show us how many instances of walking were correctly predicted as walking (true positives), how many instances of walking were incorrectly predicted as another activity (false negatives), how many instances of other activities were incorrectly predicted as walking (false positives), and how many instances of other activities were correctly predicted as not walking (true negatives).
+For example, if we consider the activity of **"walking"**, the *confusion matrix will show us how many instances of walking were correctly predicted as walking (true positives)*, how many instances of walking were incorrectly predicted as another activity (false negatives), how many instances of other activities were incorrectly predicted as walking (false positives), and how many instances of other activities were correctly predicted as not walking (true negatives).
 
-These are the output code I obtained:
+These are the output code I wrote:
 <script src="https://gist.github.com/AnalyticsForPleasure/e1cc1ff9f2a915c2a702049963e4ee5d.js"></script>
 
 Here are the results generated as output:
