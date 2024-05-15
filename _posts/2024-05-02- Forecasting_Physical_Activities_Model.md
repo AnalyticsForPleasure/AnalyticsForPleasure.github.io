@@ -37,7 +37,7 @@ These are the output code I wrote:
 
 Here are the results generated as output:
 
-![image-left]({{ 'assets/img/for_posts/Forecasting_Physical_Activities/Confusion_Matrix.gif' | absolute_url }}){: .align-left}
+![image-left]({{ 'assets/img/for_posts/Forecasting_Physical_Activities/Confusion_Matrix.jpg' | absolute_url }}){: .align-left}
 
 By analyzing the confusion matrix, we can identify which activities our model is performing well in predicting and which ones it struggles with. This insight allows us to refine our model and improve its accuracy and effectiveness, ultimately leading to better predictions of individuals' physical activities. Additionally, leveraging tools like the sklearn library in Python enables us to implement and optimize the confusion matrix evaluation process efficiently as part of our analysis pipeline.
 
